@@ -1,0 +1,35 @@
+quest-progress:
+  gatheringquest18:
+    started: false
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      gathering:
+        completed: false
+  miningquest12:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 55
+  farmingquest21:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605958020087
+    task-progress:
+      mining:
+        completed: true
+        progress: 512
+  farmingquest34:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false

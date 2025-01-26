@@ -1,0 +1,114 @@
+# Detailed explanation of all options available at https://github.com/NEZNAMY/TAB/wiki/config.yml
+
+change-nametag-prefix-suffix: true
+change-tablist-prefix-suffix: true
+enable-header-footer: true
+unlimited-nametag-prefix-suffix-mode:
+  enabled: true
+  modify-npc-names: false
+header:
+- ''
+- '&6&lＳＬＵＴ&f&lＭＩＮＥ'
+- ''
+- '&7&l⚔ &f&LЛУЧШИЙ &6&l&NГРИФЕРСКИЙ&F&L СЕРВЕР &7&l⚔'
+- ''
+footer:
+- '                                                         '
+- '&6 &fОбщий онлайн: &6&l%bungee_total%'
+- '&6 &fНаш сайт: &6&lSLUTMINE.RU'
+- ''
+enable-collision: false
+tablist-objective: NONE
+tablist-objective-custom-value: '%some_placeholderapi_placeholder%'
+do-not-move-spectators: false
+group-sorting-priority-list:
+- staff
+- op
+- moder
+- helper2
+- helper1
+- yt
+- slut
+- korol
+- car
+- vlastelin
+- strannik
+- rycar
+- voin
+- supreme
+- god
+- hero
+- test
+- default
+rank-aliases: {}
+Groups:
+  _OTHER_:
+    tabprefix: '&7%vault-prefix% &f'
+    tagprefix: '%vault-prefix% &f'
+  default:
+    tabprefix: '&7✕ &f'
+    tagprefix: '%vault-prefix% &f'
+  NaulbiMIX:
+    tabprefix: '&9ГОВНОКОДЕР &f'
+Users:
+  abaldui_love:
+    tabprefix: '&D&LPUSSY BOY &f'
+  NaulbiMIX: {}
+per-world-settings:
+  world1:
+    header:
+    - an example of world with custom
+    footer:
+    - header/footer and prefix/suffix
+    Groups:
+      Owner:
+        tabprefix: '&0&l[&a&lOwner&0&l] &a'
+        tagprefix: '&2&lOwner &a'
+        header:
+        - ur server man
+        footer:
+        - welcome
+      Admin:
+        tabprefix: '&2&lAdmin &1&l'
+        tagprefix: '&2&lAdmin &1&l'
+      Player:
+        tabprefix: '&5&lPlayer &3&l'
+        tagprefix: '&5&lPlayer &3&l'
+    Users:
+      Player1:
+        tabprefix: ''
+        tagprefix: ''
+        tabsuffix: ''
+        tagsuffix: ''
+placeholders:
+  afk-yes: ' &4*&4&lAFK&4*&r'
+  afk-no: ''
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  time-offset: 0
+  remove-strings:
+  - '[] '
+  - '< > '
+disable-features-in-worlds:
+  header-footer:
+  - disabledworld
+  tablist-names:
+  - disabledworld
+  nametag:
+  - disabledworld
+  tablist-objective:
+  - disabledworld
+  bossbar:
+  - disabledworld
+  belowname:
+  - disabledworld
+belowname:
+  number: '%health%'
+  text: Health
+  enabled: false
+  refresh-interval-milliseconds: 250
+nametag-refresh-interval-milliseconds: 1000
+tablist-refresh-interval-milliseconds: 1000
+header-footer-refresh-interval-milliseconds: 1000
+revert-collision-rule-in-worlds:
+- revertedworld

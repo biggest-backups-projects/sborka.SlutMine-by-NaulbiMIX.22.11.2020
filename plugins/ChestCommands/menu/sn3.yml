@@ -1,0 +1,591 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&c&l⚠ &0&lМАГАЗИН'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'buy'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: wool:1
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+'0':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'1':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 2
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'2':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 3
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'3':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 4
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'4':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 5
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'5':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 6
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'6':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 7
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'7':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 8
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'8':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'9':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'10':
+  ID: '449'
+  COMMAND: 'console:give {player} 449 1'
+  NAME: §f§fТотем бессмертия
+  PRICE: 26000
+  LORE:
+  - '§7§7Цена: §c26000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 2
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'11':
+  ID: '260, 16'
+  COMMAND: 'console:give {player} 260 16'
+  NAME: §f§fЯблоки
+  PRICE: 8000
+  LORE:
+  - '§7§7Цена: §c8000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 3
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'12':
+  ID: '322, 4'
+  COMMAND: 'console:give {player} 322 4'
+  NAME: §f§fЗолотые яблоки
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 4
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'13':
+  ID: '322:1'
+  COMMAND: 'console:give {player} 322:1 1'
+  NAME: §f§bЗолотое зачарованное яблоко
+  PRICE: 60000
+  LORE:
+  - '§7§7Цена: §c60000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 5
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'14':
+  ID: '263, 32'
+  COMMAND: 'console:give {player} 263 32'
+  NAME: §f§fУголь
+  PRICE: 2000
+  LORE:
+  - '§7§7Цена: §c2000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 6
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'15':
+  ID: '265, 32'
+  COMMAND: 'console:give {player} 265 32'
+  NAME: §f§fЖелезные слитки
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 7
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'16':
+  ID: '266, 32'
+  COMMAND: 'console:give {player} 266 32'
+  NAME: §f§fЗолотые слитки
+  PRICE: 8000
+  LORE:
+  - '§7§7Цена: §c8000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 8
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'17':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  POSITION-X: 9
+  POSITION-Y: 2
+  KEEP-OPEN: true
+'18':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  POSITION-X: 1
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'19':
+  ID: '264, 16'
+  COMMAND: 'console:give {player} 264 16'
+  NAME: §f§fАлмазы
+  PRICE: 8000
+  LORE:
+  - '§7§7Цена: §c8000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 2
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'20':
+  ID: '351:4, 32'
+  COMMAND: 'console:give {player} 351:4 32'
+  NAME: §f§fЛазурит
+  PRICE: 6000
+  LORE:
+  - '§7§7Цена: §c6000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 3
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'21':
+  ID: '331, 32'
+  COMMAND: 'console:give {player} 331 32'
+  NAME: §f§fРедстоун
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 4
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'22':
+  ID: '372, 16'
+  COMMAND: 'console:give {player} 372 16'
+  NAME: §f§fНарост из Незера
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 5
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'23':
+  ID: '369, 16'
+  COMMAND: 'console:give {player} 369 16'
+  NAME: §f§fСтержни ифрита
+  PRICE: 20000
+  LORE:
+  - '§7§7Цена: §c20000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 6
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'24':
+  ID: '341, 16'
+  COMMAND: 'console:give {player} 341 16'
+  NAME: §f§fСлизь
+  PRICE: 25000
+  LORE:
+  - '§7§7Цена: §c25000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 7
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'25':
+  ID: '348, 16'
+  COMMAND: 'console:give {player} 348 16'
+  NAME: §f§fСветокаменная пыль
+  PRICE: 12000
+  LORE:
+  - '§7§7Цена: §c12000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 8
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'26':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 3
+  KEEP-OPEN: true
+'27':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'28':
+  ID: '289, 16'
+  COMMAND: 'console:give {player} 289 16'
+  PRICE: 25000  
+  NAME: §f§fПорох
+  LORE:
+  - '§7§7Цена: §c25000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 2
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'29':
+  ID: '338, 16'
+  COMMAND: 'console:give {player} 338 16'
+  NAME: §f§fТростник
+  PRICE: 8000
+  LORE:
+  - '§7§7Цена: §c8000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 3
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'30':
+  ID: '437, 16'
+  COMMAND: 'console:give {player} 437 16'
+  NAME: §f§fДраконье дыхание
+  PRICE: 12000
+  LORE:
+  - '§7§7Цена: §c12000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 4
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'31':
+  ID: '375, 16'
+  COMMAND: 'console:give {player} 375 16'
+  NAME: §f§fПаучьи глаза
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 5
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'32':
+  ID: '39, 16'
+  COMMAND: 'console:give {player} 39 16'
+  NAME: §f§fГрибы
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 6
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'33':
+  ID: '352, 64'
+  COMMAND: 'console:give {player} 352 64'
+  NAME: §f§fКости
+  PRICE: 5000
+  LORE:
+  - '§7§7Цена: §c5000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 7
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'34':
+  ID: '49, 16'
+  COMMAND: 'console:give {player} 49 16'
+  NAME: §f§fОбсидиан
+  PRICE: 5000
+  LORE:
+  - '§7§7Цена: §c15000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 8
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'35':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 4
+  KEEP-OPEN: true
+'36':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'37':
+  ID: '370, 4'
+  COMMAND: 'console:give {player} 370 4'
+  NAME: §f§fСлезы гаста
+  PRICE: 30000
+  LORE:
+  - '§7§7Цена: §c30000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 2
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'38':
+  ID: '391, 32'
+  COMMAND: 'console:give {player} 391 32'
+  NAME: §f§fМорковь
+  PRICE: 3000
+  LORE:
+  - '§7§7Цена: §c3000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 3
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'39':
+  ID: '392, 32'
+  COMMAND: 'console:give {player} 392 32'
+  NAME: §f§fКартофель
+  PRICE: 3000
+  LORE:
+  - '§7§7Цена: §c3000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 4
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'40':
+  ID: '434, 32'
+  COMMAND: 'console:give {player} 434 32'
+  NAME: §f§fСвёкла
+  PRICE: 3000
+  LORE:
+  - '§7§7Цена: §c3000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 5
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'41':
+  ID: '296, 64'
+  COMMAND: 'console:give {player} 296 64'
+  NAME: §f§fПшеница
+  PRICE: 4000
+  LORE:
+  - '§7§7Цена: §c4000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 6
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'42':
+  ID: '295, 64'
+  COMMAND: 'console:give {player} 295 64'
+  NAME: §f§fСемена пшеницы
+  PRICE: 1000
+  LORE:
+  - '§7§7Цена: §c1000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 7
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'43':
+  ID: '435, 16'
+  COMMAND: 'console:give {player} 435 16'
+  NAME: §f§fСемена свёклы
+  PRICE: 1000
+  LORE:
+  - '§7§7Цена: §c1000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы купить
+  POSITION-X: 8
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'44':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 5
+  KEEP-OPEN: true
+'46':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 2
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'47':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 3
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'48':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 4
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'50':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 6
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'51':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 7
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'52':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 8
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'5112':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'5aa2':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 6
+  KEEP-OPEN: true  
+erererererer:
+  ID: 'compass'
+  COMMAND: 'open: sn2.yml'
+  NAME: '§cПокупка предметов'
+  POSITION-X: 5
+  POSITION-Y: 6
+  KEEP-OPEN: true
+
+erererererer1231:
+  ID: '439'
+  COMMAND: 'shop'
+  NAME: '§6НАЗАД'
+  POSITION-X: 7
+  POSITION-Y: 6
+  KEEP-OPEN: true

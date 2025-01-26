@@ -1,0 +1,23 @@
+(07:02:20) Matrix Enabled!
+(07:02:20) Version: 5.1.7
+(08:17:14) Itachiii failed Interact check | breaking a block without looking at it (block: LEAVES) (+1) | vl:1 ping:48 tps:19.95 lp:8 component: interact.break
+(08:17:14) Itachiii failed Interact check | break block through walls (through: leaves, block: leaves) (+1) | vl:2 ping:48 tps:19.95 lp:8 component: interact.break
+(16:07:58) NaulbiMIX failed Fly check | suspicious movement:0.333 predict:-0.155 pmv:0.42 tag:ground (+5) | vl:5 ping:0 tps:20.0 lp:0 component: fly.main
+(16:07:58) NaulbiMIX failed Fly check | suspicious movement:0.248 predict:-0.231 pmv:0.333 tag:ground (+5) | vl:10 ping:0 tps:20.0 lp:0 component: fly.main
+(16:07:58) NaulbiMIX failed Fly check | suspicious movement:0.165 predict:-0.304 pmv:0.248 tag:ground (+5) | vl:15 ping:0 tps:20.0 lp:0 component: fly.main
+(16:07:58) NaulbiMIX failed Fly check | suspicious movement:0.083 predict:-0.377 pmv:0.165 tag:ground (+5) | vl:20 ping:0 tps:20.0 lp:0 component: fly.main
+(16:07:59) NaulbiMIX failed Fly check | suspicious movement:0.333 predict:-0.155 pmv:0.42 tag:ground (+5) | vl:25 ping:0 tps:19.55 lp:0 component: fly.main
+(16:07:59) NaulbiMIX failed Fly check | suspicious movement:0.248 predict:-0.231 pmv:0.333 tag:ground (+5) | vl:30 ping:0 tps:19.55 lp:0 component: fly.main
+(16:07:59) NaulbiMIX failed Fly check | suspicious movement:0.165 predict:-0.304 pmv:0.248 tag:ground (+5) | vl:35 ping:0 tps:19.55 lp:0 component: fly.main
+(16:07:59) NaulbiMIX failed Fly check | suspicious movement:0.083 predict:-0.377 pmv:0.165 tag:ground (+5) | vl:40 ping:0 tps:19.55 lp:0 component: fly.main
+(16:07:59) NaulbiMIX failed Fly check | suspicious movement:0.003 predict:-0.447 pmv:0.083 tag:ground (+5) | vl:45 ping:0 tps:19.55 lp:1 component: fly.main
+(16:08:02) NaulbiMIX failed Fly check | suspicious movement:0.333 predict:-0.155 pmv:0.42 tag:ground (+5) | vl:50 ping:0 tps:20.0 lp:14 component: fly.main
+(16:08:02) Execute command: matrix notify NaulbiMIX tried to fly (Fly) #1
+(16:08:02) NaulbiMIX failed Fly check | suspicious movement:0.248 predict:-0.231 pmv:0.333 tag:ground (+5) | vl:55 ping:0 tps:20.0 lp:14 component: fly.main
+(16:39:07) Matrix Enabled!
+(16:39:07) Version: 5.1.7
+(16:39:15) NaulbiMIX failed BadPackets check | (timer) send 44 moving packets in 1037ms | tag: limit (+0) | vl:0 ping:0 tps:20.0 lp:13 component: net.timer
+(17:56:40) Matrix Enabled!
+(17:56:40) Version: 5.1.7
+(18:47:49) Matrix Enabled!
+(18:47:49) Version: 5.1.7

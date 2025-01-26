@@ -1,0 +1,225 @@
+Crate:
+  CrateType: Wheel
+  CrateName: '&cТитул кейс'
+  #The name of the inventory that will be in the preview GUI.
+  Preview-Name: '&cтитул кейс &7[Предпросмотр]'
+  #Starting amount of keys when the player 1st joins.
+  StartingKeys: 0
+  #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  InGUI: true
+  #Slot the item is in the GUI.
+  Slot: 23
+  #Enables/Disables the Broadcasts message when they open a crate.
+  OpeningBroadCast: false
+  #Message that is broadcast when opening the crate.
+  BroadCast: '&c[!] &fИгрок &c%Player% &fоткрывает &c&nКейс с донатом'
+  #Item the crate is in the GUI
+  Item: '131'
+  #If the crate in the main /cc GUI is glowing or not.
+  Glowing: false
+  #Name of the item in the GUI.
+  Name: '&6&l♛ &f&lтитул-КЕЙС'
+  #The lore of the item in the GUI.
+  Lore:
+    - '&f'
+    - '&c❱ &7ПКМ &fузнать что падает'  
+    - ''  
+    - '&c❱ &fУ вас &e%Keys% ключей.' 
+    - '&6❱ &fПокупать: &6SLUTMINE.RU' 
+  Preview:
+    #Turn on and off the preview for this crate.
+    Toggle: true
+    #How many lines the previewChest should have. Including Header and Bottom (Between 3 and 6)
+    ChestLines: 4
+    Glass:
+      #Turn the glass boarder in the preview on and off.
+      Toggle: true
+      #The item that shows in the boarder. Can be glass or any other item.
+      Item: 'STAINED_GLASS_PANE:7'
+  PhysicalKey:
+    #Name of the Key.
+    Name: '&bКлюч(а) &7к кейсу с префиксами'
+    #Lore of the Key.
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    #The item the key is.
+    Item: 'TRIPWIRE_HOOK'
+    #Makes the key look enchanted.
+    Glowing: true
+  #All the prizes that can be gotten in the Crate.
+  Prizes:
+    1:
+      DisplayName: '&4<3'
+      DisplayItem: '95'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 55
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.1'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &4<3'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе'
+    2:
+      DisplayName: '&e>.<'
+      DisplayItem: '95:1'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.2'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &e>.<'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе'        
+    3:
+      DisplayName: '&cUFO'
+      DisplayItem: '95:2'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.3'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &cUFO'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе'        
+    4:
+      DisplayName: '&5RIP'
+      DisplayItem: '95:3'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 45
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.4'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &5RIP'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе'        
+    5:
+      DisplayName: '&6༼ つ ◕_◕ ༽つ'
+      DisplayItem: '95:4'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 40
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.5'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &6༼ つ ◕_◕ ༽つ'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе'        
+    6:
+      DisplayName: '&4ಠ_ಠ'
+      DisplayItem: '95:5'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 35
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.6'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &4ಠ_ಠ'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+    7:
+      DisplayName: '&6OLD'
+      DisplayItem: '95:6'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 30
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.7'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &6OLD'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+    8:
+      DisplayName: '&bЛГБТ'
+      DisplayItem: '95:7'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.8'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &bЛГБТ'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+    9:
+      DisplayName: '&dТОП'
+      DisplayItem: '95:8'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 20
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.9'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &dТОП'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+    10:
+      DisplayName: '&4ЕЗКА'
+      DisplayItem: '95:9'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 15
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.10'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &4ЕЗКА'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+    11:
+      DisplayName: '&cХЛЕБ'
+      DisplayItem: '95:10'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 15
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.11'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &cХЛЕБ'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+    12:
+      DisplayName: '&4IT'
+      DisplayItem: '95:11'
+      DisplayAmount: 1
+      Lore:
+        - ''
+      MaxRange: 100
+      Chance: 10
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% permission set suffix.12'
+        - 'tm message %Player% &eПоздравляем! &7Вам выпал\n&7титул - &4IT'
+        - 'bc &6&lSLUT&F&LMINE &7&l» &fИгрок &e%Player% &fвыйграл титул: &4<3 &fв титул кейсе' 
+      Alternative-Prize:
+        Toggle: false
+        Messages:
+          - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold nuggets.'
+        Commands:
+          - 'give %player% 371 16'

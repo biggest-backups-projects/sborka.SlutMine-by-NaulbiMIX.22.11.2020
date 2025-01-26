@@ -1,0 +1,453 @@
+groups:
+  default:
+    permissions:
+    - essentials.kits.starter
+    - maliby.1
+    - essentials.kits.free2
+    - zAlexExploit
+    - Mr_Ca0s_
+    - SlutMine.cd
+    - chatty.reply
+    - chatty.command.reply
+    - chatty.comand.reply
+    - crazyauctions.bid.10
+    - crazyauctions.sell.10
+    - clans.user
+    - chatcontrol.chat.*
+    - essentials.delhome
+    - chatty.chat.ask.write
+    - dr.claim
+    - quests.*
+    - crazyauctions.sell
+    - crazyauctions.access
+    - chatty.command.msg
+    - chatty.command.ms
+    - auctionhouse.sell.*
+    - auctionhouse.use
+    - auctionhouse.sell
+    - rmine.getmoney
+    - rmine.gm
+    - randomteleport.*
+    - essentials.kits.free
+    - chatty.chat.global.*
+    - chatty.chat.local.*
+    - worldedit.selection.pos
+    - worldedit.selection.hpos
+    - worldedit.wand
+    - worldedit.selection.expand
+    - worldguard.region.claim
+    - worldguard.region.addmember.own.*
+    - essentials.sethome.multiple.default
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.remove
+    - worldguard.region.wand
+    - worldguard.region.remove.own.*
+    - worldguard.region.info.own.*
+    - skinsrestorer.playercmds
+    - worldguard.region.list.own
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.tpa
+    - essentials.rules
+    - essentials.spawn
+    - essentials.home
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.ignore
+    - essentials.sethome
+    - essentials.home
+    - essentials.clear
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.list
+    - essentials.kit
+    - essentials.kits.bonus
+    - essentials.kits.start
+    - essentials.msg
+    - essentials.signs.use.repair
+    - essentials.signs.use.buy
+    - essentials.signs.use.balance
+    - essentials.r
+    - essentials.kits.start
+    - essentials.sethome.multiple.default
+    - essentials.motd
+    - chestcommands.open.*
+    - -bukkit.command.*
+    - animatedmenu.open.*
+    options:
+      default: true
+      prefix: §7&lИГРОК
+      suffix: §7
+    inheritance:
+    - default
+  voin:
+    permissions:
+    - essentials.kits.voin
+    - essentials.sethome.multiple.voin
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.ptime
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&e&lВОИН'
+      suffix: '&e'
+    inheritance:
+    - default
+  rycar:
+    permissions:
+    - essentials.kits.rycar
+    - essentials.sethome.multiple.rycar
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.ptime
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&2&lРЫЦЫРЬ'
+      suffix: '&2'
+    inheritance:
+    - default
+  strannik:
+    permissions:
+    - essentials.kits.strannik
+    - essentials.sethome.multiple.legenda
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.near
+    - essentials.feed
+    - essentials.repair
+    - essentials.ptime
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&b&lСТРАННИК'
+      suffix: '&b'
+    inheritance:
+    - default
+  vlastelin:
+    permissions:
+    - essentials.repair
+    - essentials.fix
+    - essentials.kits.vlastelin
+    - essentials.sethome.multiple.korol
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.near
+    - essentials.feed
+    - essentials.ext
+    - essentials.heal
+    - essentials.nick
+    - essentials.ptime
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&9&lВЛАСТЕЛИН'
+      suffix: '&9'
+    inheritance:
+    - default
+  car:
+    permissions:
+    - essentials.repair
+    - essentials.fix
+    - essentials.kits.car
+    - essentials.sethome.multiple.korol
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.near
+    - essentials.feed
+    - essentials.ext
+    - essentials.heal
+    - essentials.nick
+    - essentials.ptime
+    - essentials.jump
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&c&lЦАРЬ'
+      suffix: '&c'
+    inheritance:
+    - default
+  korol:
+    permissions:
+    - essentials.jump
+    - essentials.kits.magistr
+    - essentials.kits.korol
+    - essentials.sethome.multiple.korol
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.near
+    - essentials.feed
+    - essentials.ext
+    - essentials.heal
+    - essentials.nick
+    - essentials.realname
+    - essentials.me
+    - essentials.time.*
+    - time.set.*
+    - weather.*
+    - essentials.weather
+    - essentials.sun
+    - essentials.rain
+    - essentials.ptime
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&6&lКОРОЛЬ'
+      suffix: '&6'
+    inheritance:
+    - default
+  YT:
+    permissions:
+    - essentials.broadcast
+    - essentials.kits.magistr
+    - essentials.jump
+    - essentials.kits.korol
+    - essentials.sethome.multiple.korol
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.near
+    - essentials.feed
+    - essentials.ext
+    - essentials.heal
+    - essentials.nick
+    - essentials.realname
+    - essentials.me
+    - essentials.time.*
+    - time.set.*
+    - weather.*
+    - essentials.weather
+    - essentials.sun
+    - essentials.rain
+    - essentials.ptime
+    - essentials.ptime.*
+    options:
+      default: false
+      prefix: '&4&lYOU&F&LTUBE'
+      suffix: '&4'
+    inheritance:
+    - default
+  slut:
+    permissions:
+    - essentials.repair
+    - essentials.teleport
+    - essentials.tp
+    - essentials.tphere
+    - matrix.*
+    - essentials.jump
+    - essentials.kits.helper1
+    - essentials.gamemode.survival
+    - essentials.gamemode
+    - essentials.v
+    - essentials.va
+    - essentials.vanish
+    - essentials.gamemode.spectator
+    - chatty.chat.ask.see
+    - essentials.kits.korol
+    - essentials.sethome.multiple.korol
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.near
+    - essentials.feed
+    - essentials.ext
+    - essentials.heal
+    - essentials.nick
+    - essentials.realname
+    - essentials.me
+    - essentials.time.*
+    - time.set.*
+    - weather.*
+    - essentials.weather
+    - essentials.sun
+    - essentials.rain
+    - essentials.ptime
+    - essentials.ptime.*
+    - litebans.*
+    - essentials.fly
+    - essentials.god
+    - essentials.broadcast
+    options:
+      default: false
+      prefix: §4§lSLUT
+      suffix: §4
+    inheritance:
+    - default
+  helper2:
+    permissions:
+    - essentials.jail.*
+    - essentials.s
+    - essentials.tphere
+    - essentials.vanish
+    - essentials.jail
+    - essentials.tp
+    - essentials.teleport
+    - matrix.*
+    - essentials.kits.helper2
+    - chatty.chat.ask.see
+    - essentials.kits.korol
+    - essentials.sethome.multiple.korol
+    - essentials.enderchest
+    - essentials.workbench
+    - essentials.hat
+    - essentials.invsee
+    - chatty.command.ignore
+    - essentials.recipe
+    - essentials.jump
+    - essentials.near
+    - essentials.feed
+    - essentials.ext
+    - essentials.heal
+    - essentials.nick
+    - essentials.realname
+    - essentials.me
+    - essentials.time.*
+    - time.set.*
+    - weather.*
+    - essentials.weather
+    - essentials.sun
+    - essentials.rain
+    - essentials.ptime
+    - essentials.ptime.*
+    - litebans.*
+    - essentials.fly
+    - essentials.god
+    options:
+      default: false
+      prefix: §2§lМОДЕР
+      suffix: §2
+    inheritance:
+    - default
+  op:
+    permissions:
+    - essentials.*
+    - worldedit.*
+    - litebans.*
+    options:
+      default: false
+      prefix: §4§lАДМИН
+      suffix: §C
+    inheritance:
+    - default
+    - helper2
+  staff:
+    permissions:
+    - '*'
+    options:
+      default: false
+      prefix: '&c&lВЛАДЕЛЕЦ'
+      suffix: §C
+    inheritance:
+    - default
+users:
+  e877d957-bb37-33d0-bba8-f3421e0f42db:
+    group:
+    - staff
+    options:
+      name: KanoriKun
+  136c8695-ee18-3d09-8e70-38946e91d6b6:
+    group:
+    - default
+    options:
+      name: Sora
+  cdc4a2f4-7bf0-36c3-a2d5-c92258403ece:
+    group:
+    - voin
+    options:
+      name: HEALEXXZT
+  04d13b66-b741-369b-8bf4-2c9dd6e23ba4:
+    group:
+    - rycar
+    options:
+      name: Dobzy
+  d8f75bac-ccd4-37b6-96e4-118dbbdc7c03:
+    group:
+    - strannik
+    options:
+      name: CMEPTb
+  8caf3c87-2389-3f2f-8c8a-c3b2d36a92df:
+    group:
+    - rycar
+    options:
+      name: DarkFade1
+  784f87b1-cf1f-3f69-b72c-67404d3e8f7d:
+    group:
+    - strannik
+    options:
+      name: madetov
+  127db940-6086-3689-90e5-c146b77bca12:
+    group:
+    - legenda
+    - vlastelin
+    - voin
+    - rycar
+    - staff
+    options:
+      name: SOFT_BogDanIkys
+  de047ee6-9953-30ca-a333-56a1bde7a1ed:
+    group:
+    - car
+    options:
+      name: DarkFade3
+  ef2a6258-08f0-38fc-b9da-c2a4718f4e00:
+    options:
+      name: xx8Master8xx
+  b5a43e1a-6819-33ca-839d-40a2cc1b8e50:
+    group:
+    - helper2
+    options:
+      name: NeKotov
+  6a6018d1-09e7-3492-bd6d-c8fc52b426af:
+    group:
+    - voin
+    options:
+      name: XILPvP
+  f2e7832e-00bf-3cdd-9d75-c0bba3957fbd:
+    group:
+    - vlastelin
+    - voin
+    - rycar
+    options:
+      name: endermanlouco
+  eb2ae97c-e1d2-337c-bdd9-50cea9bd8724:
+    group:
+    - strannik
+    options:
+      name: TeodoreMladshiy
+  53606c84-9f28-3d37-9443-8593d3a07eb0:
+    options:
+      name: NaulbiMIX
+schema-version: 1

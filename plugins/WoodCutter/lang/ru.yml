@@ -1,0 +1,4 @@
+getMoney: "§c§lREDEX§F§LMINE§7§l: §fВы получили §e%money§a§l$"
+onlyWood: "§c§lREDEX§F§LMINE§7§l: §fЛомать нельзя. Только рубить деревья."
+placeDeny: "§c§lREDEX§F§LMINE§7§l: §fНет-нет, здесь нельзя строить."
+cut: "§c§lREDEX§F§LMINE§7§l: §fОсталось еще сломать блок §e%number§f раз, чтобы срубить дерево."

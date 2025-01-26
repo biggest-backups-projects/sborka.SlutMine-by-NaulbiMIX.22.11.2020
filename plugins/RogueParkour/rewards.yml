@@ -1,0 +1,22 @@
+version: 3
+'5':
+  commands:
+  - eco give %player% 50
+'10':
+  commands:
+  - eco give %player% 70
+'15':
+  commands:
+  - eco give %player% 100
+'20':
+  commands:
+  - eco give %player% 200
+'30':
+  commands:
+  - eco give %player% 500
+'50':
+  commands:
+  - eco give %player% 1000
+'100':
+  commands:
+  - eco give %player% 5000

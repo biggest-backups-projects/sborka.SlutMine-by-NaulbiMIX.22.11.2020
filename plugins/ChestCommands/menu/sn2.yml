@@ -1,0 +1,246 @@
+menu-settings:
+  name: '&c&l⚠ &0&lСКУПЩИК'
+  rows: 6
+  command: seller; sell
+  auto-refresh: 1337
+  open-action: ''
+10:
+  ID: '360'
+  COMMAND: 'console:eco give {player} 4000'
+  REQUIRED-ITEM: '360, 64'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c4.000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 2
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 64
+tukva:
+  ID: '400'
+  COMMAND: 'console:eco give {player} 2500'
+  REQUIRED-ITEM: '400, 8'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c2.500&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 3
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 8
+boby:
+  ID: '351:3'
+  COMMAND: 'console:eco give {player} 5000'
+  REQUIRED-ITEM: '351:3, 64'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c5.000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 4
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 64
+svin:
+  ID: '320'
+  COMMAND: 'console:eco give {player} 8000'
+  REQUIRED-ITEM: '320, 64'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c8.000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 5
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 64
+kurica:
+  ID: '366'
+  COMMAND: 'console:eco give {player} 5000'
+  REQUIRED-ITEM: '366, 64'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c5.000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 6
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 64
+stake:
+  ID: '364'
+  COMMAND: 'console:eco give {player} 5000'
+  REQUIRED-ITEM: '364, 64'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c5.000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 6
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 64
+xleb:
+  ID: '297'
+  COMMAND: 'console:eco give {player} 5000'
+  REQUIRED-ITEM: '297, 64'
+  LORE:
+  - ''
+  - '&6| §fСтоимость: §c5.000&a&l$'
+  - ''
+  - §7§aНажмите, чтобы продать
+  POSITION-X: 7
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  AMOUNT: 64
+erererererer:
+  ID: 'compass'
+  COMMAND: 'open: sn3.yml'
+  NAME: '§cПокупка предметов'
+  POSITION-X: 5
+  POSITION-Y: 6
+  KEEP-OPEN: true
+erererererer11:
+  ID: 'arrow'
+  COMMAND: 'shop'
+  NAME: '§cНазад'
+  POSITION-X: 7
+  POSITION-Y: 6
+  KEEP-OPEN: true
+erererererer11:
+  ID: '439'
+  COMMAND: 'shop'
+  NAME: '§6НАЗАД'
+  POSITION-X: 7
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'0':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'1':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 2
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'2':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 3
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'3':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 4
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'4':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 5
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'5':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 6
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'6':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 7
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'7':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 8
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'8':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 1
+  KEEP-OPEN: true
+'44':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 9
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'46':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 2
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'47':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 3
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'47a':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 1
+  POSITION-Y: 6
+  KEEP-OPEN: true 
+'48':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 4
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'50':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 6
+  POSITION-Y: 6
+  KEEP-OPEN: true
+'52':
+  ID: '160:15'
+  COMMAND: ''
+  NAME: §f
+  PRICE: 0
+  POSITION-X: 8
+  POSITION-Y: 6
+  KEEP-OPEN: true  

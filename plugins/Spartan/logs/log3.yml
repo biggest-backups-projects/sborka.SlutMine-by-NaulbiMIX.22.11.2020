@@ -1,0 +1,14 @@
+(1)[2020/11/18 22:54:00]: '(False Positive) [Spartan Build 338-12345/987654321] NaulbiMIX
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 11ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 2), (t: ratio, b: 13)]'
+(2)[2020/11/18 22:56:17]: '(False Positive) [Spartan Build 338-12345/987654321] NaulbiMIX
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 12ms), (TPS:
+  19.96), (Plib: true), (Async: false), (Online: 2), (t: normal, reason: air, d: 0.5550838430516198,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(3)[2020/11/18 22:56:17]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 12ms), (TPS: 20.0), (Plib:
+  true), (Async: false), (Online: 2), (t: normal, reason: ground, d: 0.4230735080926243,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(4)[2020/11/18 22:58:45]: '(False Positive) [Spartan Build 338-12345/987654321] NaulbiMIX
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 2), (t: ratio, b: 11)]'

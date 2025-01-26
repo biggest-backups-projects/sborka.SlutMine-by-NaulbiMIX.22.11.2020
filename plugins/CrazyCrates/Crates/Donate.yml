@@ -1,0 +1,162 @@
+Crate:
+  CrateType: Wheel
+  CrateName: '&cДонат кейс'
+  #The name of the inventory that will be in the preview GUI.
+  Preview-Name: '&cДонат кейс &7[Предпросмотр]'
+  #Starting amount of keys when the player 1st joins.
+  StartingKeys: 0
+  #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  InGUI: true
+  #Slot the item is in the GUI.
+  Slot: 21
+  #Enables/Disables the Broadcasts message when they open a crate.
+  OpeningBroadCast: false
+  #Message that is broadcast when opening the crate.
+  BroadCast: '&c[!] &fИгрок &c%Player% &fоткрывает &c&nКейс с донатом'
+  #Item the crate is in the GUI
+  Item: '131'
+  #If the crate in the main /cc GUI is glowing or not.
+  Glowing: false
+  #Name of the item in the GUI.
+  Name: '&6&l♛ &f&lДОНАТ-КЕЙС'
+  #The lore of the item in the GUI.
+  Lore:
+    - '&f'
+    - '&c❱ &7ПКМ &fузнать что падает'  
+    - ''  
+    - '&c❱ &fУ вас &e%Keys% ключей.' 
+    - '&6❱ &fПокупать: &6SLUTMINE.RU' 
+  Preview:
+    #Turn on and off the preview for this crate.
+    Toggle: true
+    #How many lines the previewChest should have. Including Header and Bottom (Between 3 and 6)
+    ChestLines: 4
+    Glass:
+      #Turn the glass boarder in the preview on and off.
+      Toggle: true
+      #The item that shows in the boarder. Can be glass or any other item.
+      Item: 'STAINED_GLASS_PANE:7'
+  PhysicalKey:
+    #Name of the Key.
+    Name: '&bКлюч(а) &7к кейсу с префиксами'
+    #Lore of the Key.
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    #The item the key is.
+    Item: 'TRIPWIRE_HOOK'
+    #Makes the key look enchanted.
+    Glowing: true
+  #All the prizes that can be gotten in the Crate.
+  Prizes:
+    2111:
+      DisplayName: '&fПривилегия &e&lВОИН'
+      DisplayItem: '223'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c50%'
+        - '&1'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set voin'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &e&lВОИН'
+    2:
+      DisplayName: '&fПривилегия &2&LРЫЦАРЬ'
+      DisplayItem: '232'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c45%'
+        - '&1'
+      MaxRange: 100
+      Chance: 30
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set rycar'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &2&LРЫЦАРЬ'
+    3:
+      DisplayName: '&fПривилегия &b&LСТРАННИК'
+      DisplayItem: '222'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c35%'
+        - '&1'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set legenda'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &b&LСТРАННИК'
+    5:
+      DisplayName: '&fПривилегия &9&lВЛАСТЕЛИН'
+      DisplayItem: '230'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c25%'
+        - '&1'
+      MaxRange: 100
+      Chance: 15 
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set vlastelin'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &9&lВЛАСТЕЛИН'      
+    1:
+      DisplayName: '&fПривилегия &c&lЦАРЬ'
+      DisplayItem: '233'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c10%'
+        - '&1'
+      MaxRange: 100
+      Chance: 7
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set car'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &c&lЦАРЬ'      
+    1111:
+      DisplayName: '&fПривилегия &6&lКОРОЛЬ'
+      DisplayItem: '220'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c5%'
+        - '&1'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set car'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &6&lКОРОЛЬ'     
+    1111:
+      DisplayName: '&fПривилегия &4&lSLUT'
+      DisplayItem: '220'
+      DisplayAmount: 1
+      Lore:
+        - '&7'
+        - '&c⌦ &fШанс выпада: &c5%'
+        - '&1'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'lp user %Player% parent set SLUT'
+        - 'bc §6§lSLUT§f§lMINE§8: &fИгрок &e%Player% &fвыйграл с донат кейса: &4&lSLUT'        
+      Alternative-Prize:
+        Toggle: false
+        Messages:
+          - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold nuggets.'
+        Commands:
+          - 'give %player% 371 16'

@@ -1,0 +1,199 @@
+Crate:
+  #Type of crate (CSGO/QuadCrate/QuickCrate/Roulette/CrateOnTheGo/FireCracker/Wonder/Wheel/War/Cosmic(This requires a additional info to work.)).
+  CrateType: QuadCrate
+  #Name of the Inventory if a GUI crate.
+  CrateName: '&cКейс с валютой'
+  #The name of the inventory that will be in the preview GUI.
+  Preview-Name: '&cКейс с валютой &7[Предпросмотр]'
+  #Starting amount of keys when the player 1st joins.
+  StartingKeys: 0
+  #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  InGUI: true
+  #Slot the item is in the GUI.
+  Slot: 25
+  #Enables/Disables the Broadcasts message when they open a crate.
+  OpeningBroadCast: false
+  #Message that is broadcast when opening the crate.
+  BroadCast: '&c[!] &fИгрок &c%Player% &fоткрывает &c&nКейс с валютой'
+  #Item the crate is in the GUI
+  Item: '131'
+  #If the crate in the main /cc GUI is glowing or not.
+  Glowing: false
+  #Name of the item in the GUI.
+  Name: '&6&l♛ &f&lВАЛЮТ-КЕЙС'
+  #The lore of the item in the GUI.
+  Lore:
+    - '&f'
+    - '&c❱ &7ПКМ &fузнать что падает'  
+    - ''  
+    - '&c❱ &fУ вас &e%Keys% ключей.' 
+    - '&6❱ &fПокупать: &6SLUTMINE.RU'   
+  Preview:
+    #Turn on and off the preview for this crate.
+    Toggle: true
+    #How many lines the previewChest should have. Including Header and Bottom (Between 3 and 6)
+    ChestLines: 6
+    Glass:
+      #Turn the glass boarder in the preview on and off.
+      Toggle: true
+      #The item that shows in the boarder. Can be glass or any other item.
+      Item: 'STAINED_GLASS_PANE:7'
+  PhysicalKey:
+    #Name of the Key.
+    Name: '&bКлюч(а) &7к кейсу с валютой'
+    #Lore of the Key.
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    #The item the key is.
+    Item: 'TRIPWIRE_HOOK'
+    #Makes the key look enchanted.
+    Glowing: true
+  #All the prizes that can be gotten in the Crate.
+  Prizes:
+    1:
+      DisplayName: '&6❖1000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l55%'
+      MaxRange: 100
+      Chance: 55
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 1000'
+        - 'tm message %Player% &7Вам выпало\n&a&f1000'
+    2:
+      DisplayName: '&6❖3000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l45%'
+      MaxRange: 100
+      Chance: 45
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 3000'
+        - 'tm message %Player% &7Вам выпало\n&a&f3000'
+    3:
+      DisplayName: '&6❖5000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l35%'
+      MaxRange: 100
+      Chance: 35
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 5000'
+        - 'tm message %Player% &7Вам выпало\n&a&f5000'
+    4:
+      DisplayName: '&6❖9000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 9000'
+        - 'tm message %Player% &7Вам выпало\n&a&f9000'
+    5:
+      DisplayName: '&6❖15000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l15%'
+      MaxRange: 100
+      Chance: 15
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 15000'
+        - 'tm message %Player% &7Вам выпало\n&a&f15000'
+    6:
+      DisplayName: '&6❖20000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l10%'
+      MaxRange: 100
+      Chance: 8
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 20000'
+        - 'tm message %Player% &7Вам выпало\n&a&f20000'
+    7:
+      DisplayName: '&6❖30000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l5%'
+      MaxRange: 100
+      Chance: 4
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 30000'
+        - 'tm message %Player% &7Вам выпало\n&a&f30000'
+    8:
+      DisplayName: '&6❖40000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l4%'
+      MaxRange: 100
+      Chance: 3
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 40000'
+        - 'tm message %Player% &7Вам выпало\n&a&f40000'
+    9:
+      DisplayName: '&6❖50000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l3%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 50000'
+        - 'tm message %Player% &7Вам выпало\n&a&f50000'
+    10:
+      DisplayName: '&6100 РедКоинов'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l3%'
+      MaxRange: 100
+      Chance: 3
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'rc give %Player% 100'
+        - 'tm message %Player% &7Вам выпало\n&a&f100 редкоинов'        
+      Alternative-Prize:
+        Toggle: false
+        Messages:
+          - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold nuggets.'
+        Commands:
+          - 'give %player% 371 16'

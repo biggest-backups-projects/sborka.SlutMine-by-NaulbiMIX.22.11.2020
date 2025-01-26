@@ -1,0 +1,98 @@
+#
+# Menu by ablody -> vk.com/mblodeec
+#
+Menu-Name: '&6&l♛ &0&lТОЧКИ ТЕЛЕПОРТАЦИИ'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command: 
+  Name: warps
+  Fallback: '123'
+Items:
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 1
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:7
+  Name: '&7'
+  
+- Slot: 3, 3
+  Material: 130
+  Name: '&6&lКЕЙСЫ'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fНажмите для &eтелепортации'
+  - '&a&l&m&f'
+  Commands:
+  - 'ewarp case'
+- Slot: 4, 3
+  Material: gold_pickaxe
+  Name: '&6&lАВТО-ШАХТА'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fНажмите для &eтелепортации'
+  - '&a&l&m&f'
+  Commands:
+  - 'ewarp auc'  
+- Slot: 5, 3
+  Material: 200
+  Name: '&6&lМАРКЕТ'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fНажмите для &eтелепортации'
+  - '&a&l&m&f'
+  Commands:
+  - 'ewarp market'  
+- Slot: 6, 3
+  Material: gold_sword
+  Name: '&c&l&6&lПВП-АРЕНА'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fНажмите для &eтелепортации'
+  - '&a&l&m&f'
+  Commands:
+  - 'ewarp pvp'  
+- Slot: 7, 3
+  Material: 286
+  Name: '&c&l&6&lЛЕСОПИЛКА'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fНажмите для &eтелепортации'
+  - '&a&l&m&f'
+  Commands:
+  - 'ewarp wood'  
+- Slot: 5, 4
+  Material: 378
+  Name: '&c&l&6&lПАРКУР'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fНажмите для &eтелепортации'
+  - '&a&l&m&f'
+  Commands:
+  - 'ewarp wood'  
+- Slot: 9, 4
+  Material: paper
+  Name: '&c&l&6&lИНФОРМАЦИЯ'
+  Lore:
+  - '&3 &f' 
+  - '&6❱ &fДля быстрой &eтелепортации'
+  - '&6❱ &fиспользуй команду: &e/ewarp'
+  - '&3 &f'
+  Commands: 
+  - 'message: &e&lИНФОРМАЦИЯ: &fДля телепортации, пиши: &e/ewarp <название варпа>'    
+  - 'ewarp'    
+- Slot: 9, 2
+  Material: 439
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=='
+  Name: '&c◒ &e&lНАЗАД'
+  Lore:
+  Commands:
+  - 'menu: kanori_main'

@@ -1,0 +1,56 @@
+#
+# Файл регионов WorldGuard
+#
+# ПРЕДУПРЕЖДЕНИЕ: ЭТОТ ФАЙЛ АВТОМАТИЧЕСКИ СГЕНЕРИРОВАН. Если изменить этот файл
+# вручную, имейте в виду, ЧТО ОДИН НЕПРАВИЛЬНО ВВЕДЕННЫЙ СИМВОЛ МОЖЕТ ПОВЕРЕДИТЬ ФАЙЛ. Если
+# WorldGuard будет неспособен разобрать файл, ваши регионы НЕ ЗАГРУЗЯТСЯ, и
+# содержимое этого файла будет сброшено. Пожалуйста, используйте валидатор YAML, такой как
+# http://yaml-online-parser.appspot.com (для небольших файлов).
+#
+# НЕ ЗАБУДЬТЕ ПЕРИОДИЧЕСКИ ДЕЛАТЬ РЕЗЕРВНЫЕ КОПИИ.
+#
+regions:
+    spawn:
+        min: {x: -157.0, y: 0.0, z: 138.0}
+        max: {x: 89.0, y: 255.0, z: 417.0}
+        members: {}
+        flags:
+            lava-fire: deny
+            invincible: allow
+            use: allow
+            snow-fall: deny
+            leaf-decay: deny
+            vehicle-destroy: deny
+            chest-access: allow
+            fire-spread: deny
+            sleep: deny
+            vehicle-place: deny
+            mob-damage: deny
+            chorus-fruit-teleport: deny
+            lighter: deny
+            chorus-fruit-use: deny
+            enderman-grief: deny
+            pistons: deny
+            pvp: deny
+            mob-spawning: deny
+            enderpearl: deny
+            item-drop: deny
+            exp-drops: deny
+            build: deny
+            blocked-cmds: [/sethome /setwarp /rg i /rg i spawn]
+            fall-damage: deny
+            potion-splash: deny
+            tnt: deny
+        owners:
+            unique-ids: [e877d957-bb37-33d0-bba8-f3421e0f42db]
+        type: cuboid
+        priority: 0
+    pvp:
+        min: {x: 29.0, y: 0.0, z: 198.0}
+        max: {x: 65.0, y: 255.0, z: 248.0}
+        members: {}
+        flags: {enderpearl: allow, invincible: deny, pvp: allow}
+        owners:
+            unique-ids: [e877d957-bb37-33d0-bba8-f3421e0f42db]
+        type: cuboid
+        priority: 1

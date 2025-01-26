@@ -1,0 +1,976 @@
+(00:11:06) _Selen2__ failed Chat check | send the same chat content (+1) | vl:1 ping:30 tps:20.0 lp:4 component: chat.same
+(00:11:55) _Selen2__ failed Speed check | suspicious movement (move: 0.231, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:65 tps:19.99 lp:3 component: speed.main
+(00:29:03) No4b__YT failed Speed check | sprint with weird direction (dist: 0.212, angle:93.276) (+5) | vl:5 ping:65 tps:20.0 lp:25 component: speed.sprint
+(00:29:49) No4b__YT failed Speed check | sprint with weird direction (dist: 0.218, angle:95.452) (+5) | vl:5 ping:77 tps:20.0 lp:27 component: speed.sprint
+(00:29:52) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.324, expect: 0.27, tag: ea,noslow) (+5) | vl:5 ping:172 tps:19.99 lp:13 component: speed.main
+(00:29:52) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.321, expect: 0.27, tag: ea,noslow) (+5) | vl:10 ping:172 tps:19.99 lp:13 component: speed.main
+(00:29:52) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.317, expect: 0.27, tag: ea,noslow) (+5) | vl:15 ping:172 tps:19.99 lp:13 component: speed.main
+(00:29:52) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.314, expect: 0.27, tag: ea,noslow) (+5) | vl:20 ping:172 tps:19.99 lp:13 component: speed.main
+(00:29:54) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.326, expect: 0.27, tag: ea,noslow) (+5) | vl:25 ping:172 tps:20.0 lp:14 component: speed.main
+(00:29:54) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.322, expect: 0.27, tag: ea,noslow) (+5) | vl:30 ping:172 tps:20.0 lp:14 component: speed.main
+(00:29:54) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.318, expect: 0.27, tag: ea,noslow) (+5) | vl:35 ping:172 tps:20.0 lp:14 component: speed.main
+(00:30:02) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.518, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:45 ping:559 tps:20.0 lp:63 component: speed.main
+(00:30:04) Blaze_YT_HIT failed BadPackets check | (timer) send 37 moving packets in 1243ms | tag: limit (+5) | vl:5 ping:559 tps:20.0 lp:66 component: net.timer
+(00:30:04) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.638, expect: 0.4065, tag: ea) (+5) | vl:5 ping:559 tps:20.0 lp:66 component: speed.main
+(00:30:04) Blaze_YT_HIT failed Speed check | suspicious movement (move: 0.638, predict: 0.268, friction: 0.6, ground:false, motY: -0.121, increase:0.026, preMove:0.242, motion: 0.095,-0.121,0.63, attribute: 0.13, tag: pred) (+5) | vl:10 ping:559 tps:20.0 lp:66 component: move.xz
+(00:32:27) No4b__YT failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:1 ping:78 tps:19.99 lp:32 component: inv.cs.b
+(00:32:27) No4b__YT failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:2 ping:78 tps:19.99 lp:32 component: inv.cs.b
+(00:32:29) No4b__YT failed Inventory check | t: chest steal  m:click a=3 (+1) | vl:3 ping:78 tps:20.0 lp:32 component: inv.cs.b
+(00:34:45) No4b__YT failed Inventory check | t: chest steal  m:click a=50 (+1) | vl:1 ping:123 tps:20.0 lp:0 component: inv.cs.b
+(00:37:13) No4b__YT failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:54 tps:19.99 lp:25 component: interact.through
+(00:44:44) No4b__YT failed Speed check | sprint with weird direction (dist: 0.233, angle:103.777) (+5) | vl:5 ping:152 tps:20.0 lp:26 component: speed.sprint
+(00:44:47) No4b__YT failed Speed check | sprint with weird direction (dist: 0.225, angle:105.727) (+5) | vl:10 ping:152 tps:20.0 lp:19 component: speed.sprint
+(00:44:50) No4b__YT failed Speed check | sprint with weird direction (dist: 0.218, angle:102.764) (+5) | vl:15 ping:78 tps:20.0 lp:26 component: speed.sprint
+(00:46:22) No4b__YT failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:62 tps:20.0 lp:17 component: interact.through
+(00:48:14) No4b__YT failed HitBox check | missed entity hitbox (entity: skeleton, angle: 45.263, move: true) (+1) | vl:1 ping:59 tps:19.92 lp:13 component: hb.mis
+(00:58:54) No4b__YT failed Fly check | suspicious movement:0.0 predict:-0.582 vel:-0.582 air_t:12 tag:m4 (+10) | vl:10 ping:85 tps:19.99 lp:13 component: fly.main
+(01:02:19) No4b__YT failed Speed check | sprint with weird direction (dist: 0.234, angle:96.546) (+5) | vl:5 ping:72 tps:20.0 lp:28 component: speed.sprint
+(01:03:42) No4b__YT failed Speed check | sprint with weird direction (dist: 0.24, angle:102.062) (+5) | vl:5 ping:78 tps:20.0 lp:17 component: speed.sprint
+(01:03:56) No4b__YT failed Speed check | sprint with weird direction (dist: 0.239, angle:97.78) (+5) | vl:10 ping:86 tps:20.0 lp:21 component: speed.sprint
+(01:04:51) No4b__YT failed Interact check | interact block through solid (through: WOOL, block:CHEST) (+1) | vl:1 ping:81 tps:20.0 lp:24 component: interact.through
+(03:40:32) Itachiii failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:14 component: interact.through
+(03:40:38) Itachiii failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:13 tps:20.0 lp:10 component: interact.through
+(03:44:06) Razy_dupe failed Fly check | suspicious movement: 0.146/0.144 vel: -0.228 tag:nc (+2) | vl:2 ping:46 tps:20.0 lp:37 component: fly.main
+(03:44:07) Razy_dupe failed Fly check | suspicious movement: -0.17/0.144 vel: -0.152 tag:nc (+2) | vl:4 ping:46 tps:20.0 lp:27 component: fly.main
+(03:44:08) Razy_dupe failed Fly check | suspicious movement: 0.229/0.144 vel: 0.248 tag:nc (+2) | vl:6 ping:46 tps:20.0 lp:27 component: fly.main
+(03:44:08) Razy_dupe failed Fly check | suspicious movement: 0.0/0.144 vel: 0.083 tag:nc (+2) | vl:8 ping:46 tps:20.0 lp:22 component: fly.main
+(03:44:08) Razy_dupe failed Fly check | suspicious movement: 0.4/0.144 vel: -0.075 tag:nc (+2) | vl:10 ping:46 tps:19.99 lp:22 component: fly.main
+(03:44:08) Razy_dupe failed Fly check | suspicious movement:0.4 predict:0.088 vel:-0.075 air_t:4 tag:vt (+5) | vl:15 ping:46 tps:19.99 lp:22 component: fly.main
+(03:45:16) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:45 tps:20.0 lp:8 component: sfd.dly
+(03:46:31) Razy_dupe failed Chat check | send the same chat content (+1) | vl:1 ping:67 tps:20.0 lp:19 component: chat.same
+(03:47:46) Razy_dupe failed Fly check | suspicious movement: -0.374/0.144 vel: -0.374 tag:nc (+2) | vl:2 ping:53 tps:20.0 lp:6 component: fly.main
+(03:47:46) Razy_dupe failed Fly check | suspicious movement: 0.4/0.144 vel: -0.078 tag:nc (+2) | vl:4 ping:53 tps:20.0 lp:6 component: fly.main
+(03:48:55) Itachiii failed Interact check | breaking a block without looking at it (block: GRASS) (+1) | vl:1 ping:40 tps:19.99 lp:7 component: interact.break
+(03:48:55) Itachiii failed Interact check | break block through walls (through: grass, block: grass) (+1) | vl:2 ping:40 tps:19.99 lp:7 component: interact.break
+(03:50:23) Razy_dupe failed Phase check | moved into block (block: grass, move: -0.004,0.0,-0.002, at: -251.704,71.42,-1149.7, dist: 0.005, loop: false) (+2) | vl:2 ping:48 tps:20.0 lp:5 component: phase.main
+(03:52:15) Razy_dupe failed Fly check | suspicious movement: 0.065/0.141 vel: 0.083 tag:nc (+2) | vl:2 ping:44 tps:20.0 lp:21 component: fly.main
+(03:52:16) Razy_dupe failed Fly check | suspicious movement: 0.065/0.141 vel: 0.083 tag:nc (+2) | vl:4 ping:44 tps:20.0 lp:21 component: fly.main
+(03:52:16) Razy_dupe failed Fly check | suspicious movement: 0.0/0.141 vel: -0.075 tag:nc (+2) | vl:6 ping:44 tps:20.0 lp:15 component: fly.main
+(03:52:17) Razy_dupe failed Fly check | suspicious movement:-0.201 predict:-0.015 lm:0.065 hard_pred:-0.015 sev_pred:-0.075 air_t:5 fall_t:1 g:-- tag:gn (+5) | vl:11 ping:44 tps:20.0 lp:15 component: fly.main
+(03:53:03) Itachiii failed Interact check | breaking a block without looking at it (block: GRASS) (+1) | vl:1 ping:46 tps:19.97 lp:13 component: interact.break
+(03:53:03) Itachiii failed Interact check | break block through walls (through: stone, block: grass) (+1) | vl:2 ping:46 tps:19.97 lp:13 component: interact.break
+(03:56:31) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:47 tps:20.0 lp:10 component: sfd.dly
+(03:56:35) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:10 ping:45 tps:20.0 lp:14 component: sfd.dly
+(03:56:35) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold)
+(03:56:37) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:45 tps:20.0 lp:14 component: sfd.dly
+(04:01:10) Itachiii failed Speed check | suspicious movement (move: 0.241, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:42 tps:20.0 lp:7 component: speed.main
+(04:01:34) Itachiii failed Speed check | suspicious movement (move: 0.24, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:44 tps:20.0 lp:2 component: speed.main
+(04:02:46) Itachiii failed Scaffold check | (delay) bridge too fast: 3,6 (+5) | vl:5 ping:40 tps:20.0 lp:9 component: sfd.dly
+(04:03:10) Itachiii failed Speed check | suspicious movement (move: 0.233, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:44 tps:19.98 lp:8 component: speed.main
+(04:08:57) Itachiii failed Speed check | suspicious movement (move: 0.239, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:49 tps:19.99 lp:2 component: speed.main
+(04:09:54) Itachiii failed HitBox check | missed entity hitbox (entity: enderman, angle: 59.141, move: true) (+1) | vl:1 ping:49 tps:20.0 lp:23 component: hb.mis
+(04:11:19) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:41 tps:20.0 lp:11 component: sfd.dly
+(04:11:23) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:10 ping:41 tps:20.0 lp:12 component: sfd.dly
+(04:11:23) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold)
+(04:11:24) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:15 ping:41 tps:20.0 lp:14 component: sfd.dly
+(04:11:24) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold) #2
+(04:11:25) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:20 ping:41 tps:20.0 lp:14 component: sfd.dly
+(04:11:48) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:10 ping:52 tps:20.0 lp:15 component: sfd.dly
+(04:11:48) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold)
+(04:12:14) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:43 tps:20.0 lp:12 component: sfd.dly
+(04:12:54) Itachiii failed Speed check | suspicious movement (move: 0.234, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:46 tps:20.0 lp:5 component: speed.main
+(04:12:57) Itachiii failed Speed check | suspicious movement (move: 0.251, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:46 tps:20.0 lp:4 component: speed.main
+(04:12:57) Itachiii failed Speed check | suspicious movement (move: 0.233, expect: 0.23, tag: ea,noslow) (+5) | vl:15 ping:46 tps:20.0 lp:4 component: speed.main
+(04:14:25) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:44 tps:20.0 lp:11 component: sfd.dly
+(04:14:42) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:43 tps:20.0 lp:10 component: sfd.dly
+(04:14:47) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:10 ping:53 tps:19.99 lp:11 component: sfd.dly
+(04:14:47) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold)
+(04:14:49) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:15 ping:53 tps:20.0 lp:12 component: sfd.dly
+(04:14:49) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold) #2
+(04:14:51) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:20 ping:53 tps:20.0 lp:11 component: sfd.dly
+(04:18:24) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:5 ping:43 tps:20.0 lp:8 component: sfd.dly
+(04:18:26) Itachiii failed Scaffold check | (delay) bridge too fast: 6,6 (+5) | vl:10 ping:43 tps:20.0 lp:10 component: sfd.dly
+(04:18:26) Execute command: matrix notify Itachiii tried to bridge blocks quickly (Scaffold)
+(04:22:32) Itachiii failed Speed check | suspicious movement (move: 0.264, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:43 tps:20.0 lp:6 component: speed.main
+(04:22:32) Itachiii failed Speed check | suspicious movement (move: 0.244, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:43 tps:20.0 lp:6 component: speed.main
+(04:33:05) Itachiii failed Velocity check | (analyser) knockback reducement (vx: 0.396, vz: 0.055, cs: 0.0286819753054279) (+3) | vl:3 ping:53 tps:20.0 lp:6 component: vel.ana
+(04:33:18) Itachiii failed FastBow check | fast bow (+1) | vl:1 ping:72 tps:20.0 lp:7 component: fastbow
+(04:33:24) Itachiii failed HitBox check | missed entity hitbox (entity: enderman, angle: 43.944, move: true) (+1) | vl:1 ping:72 tps:20.0 lp:4 component: hb.mis
+(05:11:44) narkotik_YT_ failed Interact check | breaking a block without looking at it (block: NETHER_BRICK) (+1) | vl:1 ping:69 tps:20.0 lp:4 component: interact.break
+(05:11:44) narkotik_YT_ failed Interact check | break block through walls (through: nether_brick, block: nether_brick) (+1) | vl:2 ping:69 tps:20.0 lp:4 component: interact.break
+(05:11:56) narkotik_YT_ failed Velocity check | (respond) ignore server velocity: -0.392,0.361,0.08 (+5) | vl:5 ping:157 tps:20.0 lp:2 component: vel.expect
+(05:30:50) narkotik_YT_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:241 tps:19.99 lp:13 component: ka.one.2
+(05:40:25) narkotik_YT_ failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:87 tps:20.0 lp:15 component: interact.through
+(05:40:26) narkotik_YT_ failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:87 tps:20.0 lp:22 component: interact.through
+(05:43:18) narkotik_YT_ failed HitBox check | missed entity hitbox (entity: zombie, angle: 54.718, move: true) (+1) | vl:1 ping:89 tps:20.0 lp:16 component: hb.mis
+(05:47:32) narkotik_YT_ failed Speed check | suspicious movement (move: 0.236, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:115 tps:20.0 lp:4 component: speed.main
+(05:48:23) narkotik_YT_ failed HitBox check | missed entity hitbox (entity: horse, angle: 55.445, move: true) (+1) | vl:1 ping:110 tps:19.99 lp:13 component: hb.mis
+(06:00:00) narkotik_YT_ failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:86 tps:20.0 lp:28 component: interact.through
+(06:46:11) LonelyKnight failed Speed check | suspicious movement (move: 0.605, vet: 0.2, tag: d) (+8) | vl:8 ping:53 tps:20.0 lp:0 component: speed.main
+(06:49:22) LonelyKnight failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:53 tps:19.99 lp:3 component: interact.through
+(06:49:22) LonelyKnight failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:53 tps:19.99 lp:3 component: interact.through
+(06:51:00) LonelyKnight failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:1 ping:53 tps:20.0 lp:7 component: interact.break
+(06:51:00) LonelyKnight failed Interact check | break block through walls (through: stone, block: dirt) (+1) | vl:2 ping:53 tps:20.0 lp:7 component: interact.break
+(06:51:21) LonelyKnight failed Interact check | break block through walls (through: grass, block: dirt) (+1) | vl:1 ping:52 tps:20.0 lp:5 component: interact.break
+(06:55:44) LonelyKnight failed Speed check | suspicious movement (move: 0.491, expect: 0.429, g_tk:5, tag: b) (+8) | vl:8 ping:53 tps:20.0 lp:2 component: speed.main
+(07:01:04) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:54 tps:20.0 lp:0 component: interact.through
+(07:02:56) LonelyKnight failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:53 tps:19.99 lp:11 component: interact.through
+(07:02:56) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:2 ping:53 tps:19.99 lp:8 component: interact.through
+(07:07:15) LonelyKnight failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:52 tps:20.0 lp:3 component: interact.through
+(07:08:13) DarkFade1 failed Speed check | suspicious movement (move: 0.238, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:96 tps:20.0 lp:14 component: speed.main
+(07:08:58) DarkFade1 failed Speed check | t: spin (+10) | vl:10 ping:80 tps:20.0 lp:11 component: speed.spin
+(07:11:18) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:53 tps:20.0 lp:0 component: interact.through
+(07:12:25) LonelyKnight failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:1 ping:53 tps:20.0 lp:4 component: interact.break
+(07:12:25) LonelyKnight failed Interact check | break block through walls (through: dirt, block: dirt) (+1) | vl:2 ping:53 tps:20.0 lp:4 component: interact.break
+(07:12:30) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:1 ping:54 tps:20.0 lp:4 component: inv.cs.b
+(07:13:14) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:53 tps:20.0 lp:4 component: interact.through
+(07:13:42) DarkFade1 failed BadPackets check | (timer) send 42 moving packets in 997ms | tag: limit (+10) | vl:10 ping:81 tps:20.0 lp:33 component: net.timer
+(07:14:41) LonelyKnight failed Chat check | send the same chat content (+1) | vl:1 ping:53 tps:20.0 lp:9 component: chat.same
+(07:14:53) LonelyKnight failed Chat check | send the same chat content (+1) | vl:2 ping:55 tps:20.0 lp:2 component: chat.same
+(07:33:13) tey failed BadPackets check | (timer) send 50 moving packets in 1143ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:24 component: net.timer
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, expect: 0.3665, tag: ea) (+20) | vl:20 ping:125 tps:19.99 lp:9 component: speed.main
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, predict: 0.096, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.07, motion: 0.004,0.0,-1.244, attribute: 0.13, tag: pred) (+5) | vl:25 ping:125 tps:19.99 lp:9 component: move.xz
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, expect: 0.3665, tag: ea) (+20) | vl:45 ping:125 tps:19.99 lp:9 component: speed.main
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, predict: 0.113, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.087, motion: 0.04,0.0,-1.243, attribute: 0.13, tag: pred) (+5) | vl:50 ping:125 tps:19.99 lp:9 component: move.xz
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, expect: 0.3665, tag: ea) (+20) | vl:70 ping:125 tps:19.99 lp:9 component: speed.main
+(07:41:45) Execute command: matrix notify S_V_A_R_S_H_I_K tried to move faster than usual (Speed) #1
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, predict: 0.129, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.103, motion: 0.04,0.0,-1.243, attribute: 0.13, tag: pred) (+5) | vl:75 ping:125 tps:19.99 lp:9 component: move.xz
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, expect: 0.3665, tag: ea) (+20) | vl:95 ping:125 tps:19.99 lp:11 component: speed.main
+(07:41:45) Execute command: matrix notify S_V_A_R_S_H_I_K tried to move faster than usual (Speed) #2
+(07:41:45) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, predict: 0.143, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.117, motion: 0.04,0.0,-1.243, attribute: 0.13, tag: pred) (+5) | vl:100 ping:125 tps:19.99 lp:11 component: move.xz
+(07:41:45) S_V_A_R_S_H_I_K failed Fly check | suspicious movement: 0.0/1.244 vel: -0.078 tag:nc (+2) | vl:2 ping:125 tps:19.99 lp:11 component: fly.main
+(07:41:47) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, expect: 0.3665, tag: ea) (+20) | vl:120 ping:125 tps:20.0 lp:9 component: speed.main
+(07:41:47) S_V_A_R_S_H_I_K failed Speed check | suspicious movement (move: 1.244, predict: 0.346, friction: 0.6, ground:false, motY: 1.058, increase:0.026, preMove:0.32, motion: 0.04,1.058,-1.243, attribute: 0.13, tag: pred) (+5) | vl:125 ping:125 tps:20.0 lp:9 component: move.xz
+(07:41:47) S_V_A_R_S_H_I_K failed Fly check | step | p: 1 | m:1.058 ev:0.333 lm:0.99 (+7) | vl:9 ping:125 tps:20.0 lp:9 component: speed.step
+(07:41:47) S_V_A_R_S_H_I_K failed Fly check | suspicious movement:1.058 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:14 ping:125 tps:20.0 lp:9 component: fly.main
+(08:07:56) LonelyKnight failed Interact check | breaking a block without looking at it (block: LEAVES) (+1) | vl:1 ping:58 tps:20.0 lp:3 component: interact.break
+(08:07:56) LonelyKnight failed Interact check | break block through walls (through: log, block: leaves) (+1) | vl:2 ping:58 tps:20.0 lp:3 component: interact.break
+(08:08:34) dul3ka324 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:67 tps:20.0 lp:6 component: interact.through
+(08:09:54) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:57 tps:20.0 lp:2 component: interact.through
+(08:09:56) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:2 ping:57 tps:19.98 lp:1 component: interact.through
+(08:09:57) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:1 ping:71 tps:19.98 lp:3 component: inv.cs.b
+(08:09:57) dul3ka324 failed Inventory check | t: chest steal m:pka d:1 (+1) | vl:2 ping:71 tps:19.98 lp:3 component: inv.cs.c
+(08:09:59) dul3ka324 failed Inventory check | t: chest steal  m:click a=52 (+1) | vl:3 ping:78 tps:20.0 lp:3 component: inv.cs.b
+(08:11:59) LonelyKnight failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:57 tps:20.0 lp:0 component: interact.through
+(08:17:58) LonelyKnight failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:59 tps:19.99 lp:17 component: interact.through
+(08:18:40) LonelyKnight failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:59 tps:19.99 lp:1 component: interact.through
+(08:21:03) dul3ka324 failed Inventory check | t: chest steal m:pka d:97 (+1) | vl:1 ping:70 tps:19.99 lp:3 component: inv.cs.c
+(08:21:10) LonelyKnight failed Chat check | send the same chat content (+1) | vl:1 ping:56 tps:20.0 lp:3 component: chat.same
+(08:21:16) dul3ka324 failed Chat check | send the same chat content (+1) | vl:1 ping:68 tps:20.0 lp:3 component: chat.same
+(08:21:51) dul3ka324 failed Phase check | moved into block (block: dirt, move: 0.084,-0.062,-0.211, at: -669.528,63.938,33.757, dist: 0.227, loop: false) (+2) | vl:2 ping:69 tps:20.0 lp:13 component: phase.main
+(08:22:07) dul3ka324 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:66 tps:19.99 lp:5 component: interact.through
+(08:22:41) Apostal failed Interact check | interact block through solid (through: OBSIDIAN, block:CHEST) (+1) | vl:1 ping:42 tps:20.0 lp:8 component: interact.through
+(08:23:01) IIIazan4ik_v1 failed BadPackets check | (timer) send 38 moving packets in 1287ms | tag: limit (+10) | vl:10 ping:56 tps:19.99 lp:19 component: net.timer
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:1 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:2 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:3 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:4 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:5 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=44 (+1) | vl:6 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:7 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:8 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:9 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) dul3ka324 failed Inventory check | t: chest steal  m:click a=46 (+1) | vl:10 ping:71 tps:20.0 lp:2 component: inv.cs.b
+(08:23:25) Execute command: matrix notify dul3ka324 moved items in inventory too quickly (ChestSteal)
+(08:24:01) dul3ka324 failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:68 tps:19.99 lp:7 component: interact.through
+(08:24:24) dul3ka324 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:67 tps:19.94 lp:14 component: interact.through
+(08:24:45) Apostal failed Interact check | interact block through solid (through: OBSIDIAN, block:CHEST) (+1) | vl:1 ping:2 tps:20.0 lp:5 component: interact.through
+(08:25:27) xxxoo123 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:58 tps:19.99 lp:5 component: interact.through
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=51 (+1) | vl:1 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:2 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:3 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:4 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=46 (+1) | vl:5 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:6 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:7 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:8 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=95 (+1) | vl:9 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:10 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) Execute command: matrix notify dul3ka324 moved items in inventory too quickly (ChestSteal)
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:11 ping:71 tps:20.0 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:12 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:13 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:14 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:15 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:16 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:17 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:18 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=92 (+1) | vl:19 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:20 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:38) Execute command: matrix kick dul3ka324 ChestSteal/Inventory Hacks
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=98 (+1) | vl:21 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:22 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:23 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:24 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:25 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:26 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:27 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:28 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:29 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:30 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=3 (+1) | vl:31 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:39) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:32 ping:71 tps:19.99 lp:6 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:1 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:2 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=48 (+1) | vl:3 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:4 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:5 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:6 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:7 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:8 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=47 (+1) | vl:9 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:10 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) Execute command: matrix notify dul3ka324 moved items in inventory too quickly (ChestSteal)
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:11 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=47 (+1) | vl:12 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:13 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:14 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:15 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:16 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:17 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:18 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:19 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=92 (+1) | vl:20 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:26:54) Execute command: matrix kick dul3ka324 ChestSteal/Inventory Hacks
+(08:26:54) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:21 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:07) dul3ka324 failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:1 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:07) dul3ka324 failed Inventory check | t: chest steal  m:click a=49 (+1) | vl:2 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:09) dul3ka324 failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:3 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:13) dul3ka324 failed Inventory check | t: chest steal  m:click a=50 (+1) | vl:1 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:13) dul3ka324 failed Inventory check | t: chest steal  m:click a=50 (+1) | vl:2 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:14) dul3ka324 failed Inventory check | t: chest steal  m:click a=50 (+1) | vl:3 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:14) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:4 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:14) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:5 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:14) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:6 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:14) dul3ka324 failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:7 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:27:14) dul3ka324 failed Inventory check | t: chest steal  m:click a=45 (+1) | vl:8 ping:0 tps:20.0 lp:0 component: inv.cs.b
+(08:29:21) Solinda1 failed Speed check | sprint with weird direction (dist: 0.226, angle:180.0) (+5) | vl:5 ping:120 tps:20.0 lp:7 component: speed.sprint
+(08:29:21) Solinda1 failed Speed check | sprint with weird direction (dist: 0.251, angle:180.0) (+5) | vl:10 ping:120 tps:20.0 lp:7 component: speed.sprint
+(08:29:21) Solinda1 failed Speed check | sprint with weird direction (dist: 0.264, angle:180.0) (+5) | vl:15 ping:120 tps:20.0 lp:7 component: speed.sprint
+(08:29:21) Solinda1 failed Speed check | sprint with weird direction (dist: 0.3, angle:180.0) (+5) | vl:20 ping:120 tps:20.0 lp:7 component: speed.sprint
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.276, predict: 0.265, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.135, motion: -0.074,0.0,-0.266, attribute: 0.13, tag: pred) (+5) | vl:5 ping:123 tps:19.99 lp:14 component: move.xz
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.292, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:14 ping:123 tps:19.99 lp:14 component: speed.main
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.292, predict: 0.281, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.151, motion: -0.081,0.0,-0.281, attribute: 0.13, tag: pred) (+5) | vl:19 ping:123 tps:19.99 lp:14 component: move.xz
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.301, predict: 0.29, friction: 0.6, ground:true, motY: -0.062, increase:0.13, preMove:0.16, motion: -0.086,-0.062,-0.289, attribute: 0.13, tag: pred) (+5) | vl:24 ping:123 tps:19.99 lp:14 component: move.xz
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.306, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:33 ping:123 tps:19.99 lp:14 component: speed.main
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.306, predict: 0.294, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.164, motion: -0.088,0.0,-0.293, attribute: 0.13, tag: pred) (+5) | vl:38 ping:123 tps:19.99 lp:14 component: move.xz
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.308, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:47 ping:123 tps:19.99 lp:14 component: speed.main
+(08:30:10) Strelokstreams failed Speed check | suspicious movement (move: 0.308, predict: 0.297, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.167, motion: -0.089,0.0,-0.295, attribute: 0.13, tag: pred) (+5) | vl:52 ping:123 tps:19.99 lp:14 component: move.xz
+(08:31:28) Solinda1 failed Speed check | sprint with weird direction (dist: 0.22, angle:180.0) (+5) | vl:5 ping:125 tps:20.0 lp:14 component: speed.sprint
+(08:31:28) Solinda1 failed Speed check | sprint with weird direction (dist: 0.248, angle:180.0) (+5) | vl:10 ping:125 tps:20.0 lp:14 component: speed.sprint
+(08:31:28) Solinda1 failed Speed check | sprint with weird direction (dist: 0.263, angle:180.0) (+5) | vl:15 ping:125 tps:20.0 lp:14 component: speed.sprint
+(08:31:29) Solinda1 failed Speed check | sprint with weird direction (dist: 0.227, angle:93.223) (+5) | vl:20 ping:125 tps:20.0 lp:14 component: speed.sprint
+(08:33:52) Apostal failed Velocity check | (analyser) knockback reducement (vx: 0.36, vz: -0.174, cs: 0.030736760966605162) (+3) | vl:3 ping:1 tps:20.0 lp:9 component: vel.ana
+(08:36:36) Apostal failed Interact check | interact block through solid (through: OBSIDIAN, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:17 component: interact.through
+(08:41:34) Apostal failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:47 tps:20.0 lp:3 component: ka.one.2
+(08:42:34) Apostal failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 599 diff: 9 (+6) | vl:6 ping:42 tps:20.0 lp:2 component: ka.ac.9p
+(08:44:25) Apostal failed Velocity check | (respond) ignore server velocity: -0.347,0.361,-0.199 (+5) | vl:5 ping:45 tps:20.0 lp:2 component: vel.expect
+(08:45:15) Apostal failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:42 tps:20.0 lp:4 component: interact.through
+(08:46:44) dul3ka324 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:71 tps:20.0 lp:3 component: interact.through
+(08:46:49) sp2rko failed KillAura check | snap head: 60.24553 entity: PLAYER (+5) | vl:5 ping:103 tps:19.99 lp:21 component: ka.snap
+(08:47:22) thuguha failed BadPackets check | (timer) send 46 moving packets in 1009ms | tag: limit (+0) | vl:0 ping:33 tps:15.14 lp:16 component: net.timer
+(08:47:22) sp2rko failed BadPackets check | (timer) send 38 moving packets in 1004ms | tag: limit (+0) | vl:0 ping:93 tps:15.14 lp:25 component: net.timer
+(08:47:22) thuguha failed Speed check | suspicious movement (move: 2.374, predict: 0.248, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.118, motion: 2.032,0.0,-1.229, attribute: 0.13, tag: pred) (+0) | vl:0 ping:33 tps:15.14 lp:16 component: move.xz
+(08:47:22) sp2rko failed Speed check | suspicious movement (move: 0.728, predict: 0.228, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.098, motion: 0.722,0.0,0.09, attribute: 0.13, tag: pred) (+0) | vl:0 ping:93 tps:15.14 lp:25 component: move.xz
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+0) | vl:0 ping:33 tps:15.14 lp:16 component: fly.main
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+2) | vl:2 ping:33 tps:20.0 lp:16 component: fly.main
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+2) | vl:4 ping:33 tps:20.0 lp:16 component: fly.main
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+2) | vl:6 ping:33 tps:20.0 lp:16 component: fly.main
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+2) | vl:8 ping:33 tps:20.0 lp:16 component: fly.main
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+2) | vl:10 ping:33 tps:20.0 lp:16 component: fly.main
+(08:47:23) thuguha failed Fly check | suspicious movement: 0.0/0.098 vel: -0.078 tag:nc (+2) | vl:12 ping:33 tps:20.0 lp:16 component: fly.main
+(08:47:39) sp2rko failed Inventory check | inventory move | simple | d: 0.281 (+2) | vl:2 ping:121 tps:19.99 lp:26 component: inv.move
+(08:48:23) LonelyKnight failed Speed check | suspicious movement (move: 0.248, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:53 tps:20.0 lp:2 component: speed.main
+(08:48:58) sp2rko failed Speed check | (toggle) send release use item packet frequently (+2) | vl:2 ping:193 tps:20.0 lp:17 component: speed.noslow.toggle
+(08:49:07) sp2rko failed Speed check | suspicious movement (move: 0.572, expect: 0.469, g_tk:1, tag: b) (+8) | vl:10 ping:92 tps:20.0 lp:20 component: speed.main
+(08:49:07) sp2rko failed Speed check | suspicious movement (move: 0.572, predict: 0.375, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.245, motion: -0.525,0.0,-0.229, attribute: 0.13, tag: pred) (+5) | vl:15 ping:92 tps:20.0 lp:20 component: move.xz
+(08:49:27) sp2rko failed Speed check | sprint with weird direction (dist: 0.246, angle:98.368) (+5) | vl:5 ping:89 tps:20.0 lp:28 component: speed.sprint
+(08:50:29) Apostal failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:2 component: interact.through
+(08:50:56) Almaz_YT failed Block check | no swing after place block | ENDER_CHEST (+1) | vl:1 ping:107 tps:20.0 lp:10 component: block.noswing
+(08:52:46) sp2rko failed Chat check | send the same chat content (+1) | vl:1 ping:71 tps:20.0 lp:40 component: chat.same
+(08:52:56) Apostal failed Chat check | send the same chat content (+1) | vl:1 ping:43 tps:19.86 lp:14 component: chat.same
+(08:53:35) sp2rko failed HitBox check | attack player too far away (raytrace: 5/16 positions, lag: 9, distance: 4.144 blocks) (+10) | vl:10 ping:96 tps:20.0 lp:19 component: hb.reach
+(08:53:35) Execute command: matrix notify sp2rko tried to reach entity outside max reach distance (HitBox)
+(08:53:44) Almaz_YT failed Chat check | send the same chat content (+1) | vl:1 ping:110 tps:19.92 lp:4 component: chat.same
+(08:53:49) Almaz_YT failed Chat check | send the same chat content (+1) | vl:2 ping:110 tps:20.0 lp:25 component: chat.same
+(08:53:54) Almaz_YT failed Chat check | send the same chat content (+1) | vl:3 ping:108 tps:19.99 lp:16 component: chat.same
+(08:53:59) Almaz_YT failed Chat check | send the same chat content (+1) | vl:4 ping:108 tps:19.99 lp:6 component: chat.same
+(08:53:59) Execute command: matrix notify Almaz_YT is spamming the chat (ChatSpam)
+(08:54:04) Almaz_YT failed Chat check | send the same chat content (+1) | vl:5 ping:102 tps:19.99 lp:3 component: chat.same
+(08:55:11) Apostal failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:45 tps:19.99 lp:2 component: interact.through
+(08:55:42) DaniilYT_777 failed Speed check | suspicious movement (move: 0.573, expect: 0.469, g_tk:1, tag: b) (+8) | vl:8 ping:50 tps:20.0 lp:12 component: speed.main
+(08:55:42) DaniilYT_777 failed Speed check | suspicious movement (move: 0.573, predict: 0.393, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.263, motion: 0.454,0.0,0.35, attribute: 0.13, tag: pred) (+5) | vl:13 ping:50 tps:20.0 lp:12 component: move.xz
+(08:56:39) CRAZYDOMINATOR failed HitBox check | missed player hitbox (raytrace: 11/16 positions, lag: 10, prep: true) (+2) | vl:2 ping:118 tps:19.99 lp:6 component: hb.mis
+(08:57:08) LaZeYka failed Chat check | send the same chat content (+1) | vl:1 ping:70 tps:20.0 lp:6 component: chat.same
+(08:57:54) Apostal failed Velocity check | (respond) ignore server velocity: -0.254,0.361,-0.309 (+5) | vl:5 ping:48 tps:20.0 lp:3 component: vel.expect
+(08:59:42) LaZeYka failed Chat check | send the same chat content (+1) | vl:1 ping:79 tps:19.99 lp:8 component: chat.same
+(09:01:30) Apostal failed Fly check | suspicious movement:0.0 predict:-0.152 air:7 tag:dmf (+10) | vl:10 ping:43 tps:20.0 lp:4 component: fly.main
+(09:02:22) Apostal failed Speed check | suspicious movement (move: 0.233, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:47 tps:20.0 lp:4 component: speed.main
+(09:04:24) thuguha failed Chat check | send the same chat content (+1) | vl:1 ping:29 tps:19.99 lp:1 component: chat.same
+(09:04:35) LaZeYka failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -108.122,65.024,71.832, type: air, pkt: true) (+5) | vl:5 ping:74 tps:19.99 lp:5 component: fly.gf
+(09:04:35) LaZeYka failed Fly check | ground spoof (expect: --, move: 0.062,-0.024,0.298, at: -108.06,65.0,72.13, type: air, pkt: false) (+5) | vl:10 ping:74 tps:19.99 lp:5 component: fly.gf
+(09:05:27) Apostal failed Speed check | suspicious movement (move: 0.238, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:42 tps:19.99 lp:3 component: speed.main
+(09:08:37) xxxoo123 failed Speed check | (toggle) send release use item packet frequently (+2) | vl:2 ping:65 tps:20.0 lp:8 component: speed.noslow.toggle
+(09:09:11) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:53 tps:19.99 lp:15 component: interact.through
+(09:12:32) xxxoo123 failed Speed check | (toggle) send release use item packet frequently (+2) | vl:2 ping:54 tps:20.0 lp:3 component: speed.noslow.toggle
+(09:13:06) Apostal failed Chat check | send the same chat content (+1) | vl:1 ping:46 tps:20.0 lp:8 component: chat.same
+(09:13:19) xxxoo123 failed Speed check | suspicious movement (move: 0.257, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:90 tps:19.99 lp:3 component: speed.main
+(09:13:19) xxxoo123 failed Speed check | suspicious movement (move: 0.238, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:90 tps:19.99 lp:3 component: speed.main
+(09:13:22) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:90 tps:20.0 lp:2 component: ka.one.2
+(09:13:23) xxxoo123 failed Speed check | suspicious movement (move: 0.454, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:20 ping:90 tps:20.0 lp:4 component: speed.main
+(09:13:24) xxxoo123 failed Speed check | suspicious movement (move: 0.484, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:30 ping:54 tps:20.0 lp:4 component: speed.main
+(09:13:24) xxxoo123 failed Speed check | suspicious movement (move: 0.458, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:40 ping:54 tps:20.0 lp:3 component: speed.main
+(09:13:25) xxxoo123 failed Speed check | suspicious movement (move: 0.274, expect:0.177, t:73, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:49 ping:54 tps:19.99 lp:4 component: speed.main
+(09:13:26) xxxoo123 failed Speed check | suspicious movement (move: 0.266, expect:0.177, t:83, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:58 ping:54 tps:19.99 lp:4 component: speed.main
+(09:13:26) Execute command: matrix notify xxxoo123 tried to move faster than usual (Speed) #1
+(09:13:27) xxxoo123 failed Speed check | suspicious movement (move: 0.561, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:68 ping:54 tps:20.0 lp:6 component: speed.main
+(09:13:29) xxxoo123 failed Speed check | suspicious movement (move: 0.479, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:78 ping:54 tps:20.0 lp:7 component: speed.main
+(09:13:31) xxxoo123 failed Speed check | suspicious movement (move: 0.568, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:88 ping:54 tps:20.0 lp:4 component: speed.main
+(09:16:12) Apostal failed Speed check | suspicious movement (move: 0.243, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:46 tps:20.0 lp:4 component: speed.main
+(09:16:15) Apostal failed Speed check | suspicious movement (move: 0.232, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:44 tps:20.0 lp:3 component: speed.main
+(09:16:20) Apostal failed Fly check | suspicious movement:0.0 predict:-0.152 air:7 tag:dmf (+10) | vl:10 ping:44 tps:20.0 lp:4 component: fly.main
+(09:17:35) LonelyKnight failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:53 tps:20.0 lp:3 component: interact.through
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=50 (+1) | vl:1 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:2 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=0 (+1) | vl:3 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=50 (+1) | vl:4 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=98 (+1) | vl:5 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=2 (+1) | vl:6 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:7 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:8 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=45 (+1) | vl:9 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:10 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) Execute command: matrix notify LonelyKnight moved items in inventory too quickly (ChestSteal)
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:11 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:12 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:13 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=49 (+1) | vl:14 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:15 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:16 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:17 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:18 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:41) LonelyKnight failed Inventory check | t: chest steal  m:click a=1 (+1) | vl:19 ping:53 tps:20.0 lp:5 component: inv.cs.b
+(09:17:50) KAK_TO_CTPAHHO failed Speed check | sprint with weird direction (dist: 0.24, angle:104.372) (+5) | vl:5 ping:26 tps:20.0 lp:17 component: speed.sprint
+(09:18:52) Apostal failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:47 tps:20.0 lp:6 component: ka.one.2
+(09:18:53) Apostal failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:2 ping:47 tps:20.0 lp:5 component: ka.one.2
+(09:19:10) Apostal failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 599 diff: 8 (+6) | vl:6 ping:53 tps:19.99 lp:13 component: ka.ac.9p
+(09:20:56) Apostal failed Interact check | interact block through solid (through: OBSIDIAN, block:CHEST) (+1) | vl:1 ping:43 tps:20.0 lp:13 component: interact.through
+(09:21:11) xxxoo123 failed Phase check | moved into block (block: soul_sand, move: -0.024,0.0,0.008, at: -60.719,59.875,81.922, dist: 0.025, loop: false) (+2) | vl:2 ping:53 tps:20.0 lp:5 component: phase.main
+(09:21:43) xxxoo123 failed Phase check | moved into block (block: soul_sand, move: -0.007,-0.078,-0.037, at: -65.23,58.834,85.727, dist: 0.037, loop: false) (+2) | vl:2 ping:53 tps:20.0 lp:12 component: phase.main
+(09:23:05) xxxoo123 failed Phase check | moved into block (block: soul_sand, move: 0.042,0.0,-0.133, at: -57.011,34.875,86.268, dist: 0.14, loop: false) (+2) | vl:2 ping:54 tps:19.99 lp:13 component: phase.main
+(09:25:07) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.254, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:29 tps:20.0 lp:3 component: speed.main
+(09:25:07) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.235, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:29 tps:20.0 lp:3 component: speed.main
+(09:27:34) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.248, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:29 tps:20.0 lp:4 component: speed.main
+(09:27:46) xxxoo123 failed Fly check | suspicious movement:0.288 predict:0.253 vel:0.247 air_t:2 tag:vt (+5) | vl:5 ping:53 tps:20.0 lp:1 component: fly.main
+(09:29:13) KAK_TO_CTPAHHO failed Fly check | suspicious movement:0.045 predict:-0.231 air_t:12 e_t:5 tag:tk (+4) | vl:4 ping:32 tps:20.0 lp:9 component: fly.main
+(09:29:13) KAK_TO_CTPAHHO failed Fly check | suspicious movement:0.045 predict:-0.034 air_t:12 e_t:5 tag:tk (+4) | vl:8 ping:32 tps:20.0 lp:9 component: fly.main
+(09:29:16) KAK_TO_CTPAHHO failed Fly check | (levitation) move unexpected: 0.0 <> 0.293 level:1 (+5) | vl:13 ping:32 tps:19.99 lp:8 component: fly.levitation
+(09:30:34) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:39 tps:20.0 lp:6 component: interact.through
+(09:34:01) xxxoo123 failed Speed check | (toggle) send release use item packet frequently (+2) | vl:2 ping:54 tps:20.0 lp:3 component: speed.noslow.toggle
+(09:34:01) xxxoo123 failed Speed check | (toggle) send release use item packet frequently (+2) | vl:4 ping:54 tps:20.0 lp:3 component: speed.noslow.toggle
+(09:34:10) KAK_TO_CTPAHHO failed Fly check | suspicious movement:0.386 predict:-0.779 air:12 tag:dmf (+10) | vl:10 ping:25 tps:19.99 lp:7 component: fly.main
+(09:34:15) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.248, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:25 tps:20.0 lp:8 component: speed.main
+(09:34:35) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:55 tps:20.0 lp:3 component: interact.through
+(09:34:36) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:55 tps:20.0 lp:3 component: interact.through
+(09:34:36) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:3 ping:55 tps:20.0 lp:16 component: interact.through
+(09:34:43) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:55 tps:20.0 lp:16 component: interact.through
+(09:35:05) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:54 tps:20.0 lp:4 component: interact.through
+(09:36:37) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: LOG, block:CHEST) (+1) | vl:1 ping:37 tps:20.0 lp:7 component: interact.through
+(09:39:02) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:54 tps:20.0 lp:11 component: ka.one.2
+(09:39:41) xxxoo123 failed Velocity check | (respond) ignore server velocity: 0.39,0.361,0.087 (+5) | vl:5 ping:55 tps:20.0 lp:3 component: vel.expect
+(09:40:05) xxxoo123 failed Fly check | suspicious movement: -0.155/0.1 vel: -0.078 tag:nc (+2) | vl:2 ping:53 tps:20.0 lp:3 component: fly.main
+(09:41:36) xxxoo123 failed Speed check | suspicious movement (move: 0.24, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:61 tps:20.0 lp:15 component: speed.main
+(09:41:38) Ra1ft failed Chat check | send the same chat content (+1) | vl:1 ping:77 tps:20.0 lp:8 component: chat.same
+(09:42:13) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: LOG, block:CHEST) (+1) | vl:1 ping:42 tps:20.0 lp:19 component: interact.through
+(09:43:44) KAK_TO_CTPAHHO failed HitBox check | missed entity hitbox (entity: creeper, angle: 61.942, move: true) (+2) | vl:2 ping:34 tps:20.0 lp:6 component: hb.mis
+(09:45:03) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:37 tps:20.0 lp:5 component: interact.through
+(09:45:08) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:2 ping:56 tps:20.0 lp:5 component: interact.through
+(09:45:23) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:55 tps:20.0 lp:13 component: ka.one.2
+(09:45:25) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:2 ping:55 tps:20.0 lp:9 component: ka.one.2
+(09:45:27) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:3 ping:60 tps:20.0 lp:5 component: ka.one.2
+(09:45:27) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:4 ping:60 tps:20.0 lp:4 component: ka.one.2
+(09:45:28) KAK_TO_CTPAHHO failed Velocity check | (vertical) reduce vertical velocity: 0.36075 (+1) | vl:1 ping:35 tps:20.0 lp:12 component: vel.vet
+(09:46:09) KAK_TO_CTPAHHO failed Velocity check | (respond) ignore server velocity: 0.673,0.4,-0.054 (+5) | vl:5 ping:35 tps:20.0 lp:9 component: vel.expect
+(09:46:14) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:28 tps:20.0 lp:14 component: interact.through
+(09:47:08) xxxoo123 failed Interact check | attack entity through wool block (d: 1.927) (+1) | vl:1 ping:54 tps:20.0 lp:4 component: interact.attack
+(09:47:17) xxxoo123 failed Fly check | suspicious movement: 0.42 vel: -0.078 pred: 0.216 (jump) (+5) | vl:5 ping:53 tps:20.0 lp:2 component: fly.jmp
+(09:47:50) xxxoo123 failed Speed check | (toggle) send release use item packet frequently (+2) | vl:2 ping:55 tps:19.99 lp:3 component: speed.noslow.toggle
+(09:48:39) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:7 component: interact.through
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:10 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:20 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:30 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:40 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:50 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:4 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:60 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Execute command: matrix notify Ra1ft tried to move faster than usual (Speed) #1
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:8 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:70 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:12 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Execute command: matrix npc Ra1ft 100
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:80 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:16 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:90 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:42) Execute command: matrix notify Ra1ft tried to move faster than usual (Speed) #2
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:20 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Execute command: matrix notify Ra1ft might be using combat hacks (KillAura)
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:24 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:28 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:32 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:36 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Execute command: matrix notify Ra1ft is using combat hacks (KillAura) #2
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:40 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:44 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:42) Ra1ft failed Speed check | t: spin (+10) | vl:100 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:48 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:43) Execute command: matrix delay 12 matrix kick Ra1ft KillAura
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:110 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:52 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:120 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:56 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:130 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:60 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:140 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:64 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:150 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:68 ping:54 tps:20.0 lp:5 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:160 ping:54 tps:20.0 lp:5 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:72 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:170 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:76 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:180 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:80 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:190 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:84 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:200 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:88 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:210 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:92 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:220 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:48:43) Execute command: matrix kick Ra1ft Speed Hacks
+(09:48:43) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #06) (+4) | vl:96 ping:54 tps:20.0 lp:17 component: ka.one.6
+(09:48:43) Ra1ft failed Speed check | t: spin (+10) | vl:230 ping:54 tps:20.0 lp:17 component: speed.spin
+(09:49:01) xxxoo123 failed Speed check | suspicious movement (move: 0.261, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:55 tps:20.0 lp:6 component: speed.main
+(09:49:01) xxxoo123 failed Speed check | suspicious movement (move: 0.241, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:55 tps:20.0 lp:6 component: speed.main
+(09:49:11) xxxoo123 failed Speed check | suspicious movement (move: 0.241, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:55 tps:19.99 lp:1 component: speed.main
+(09:49:31) Ra1ft failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -184.829,65.331,104.083, type: air, pkt: true) (+5) | vl:5 ping:0 tps:19.99 lp:0 component: fly.gf
+(09:50:10) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 3) (+4) | vl:4 ping:61 tps:20.0 lp:5 component: ka.one.1
+(09:50:11) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 4) (+4) | vl:4 ping:61 tps:20.0 lp:5 component: ka.one.1
+(09:51:19) Ra1ft failed Speed check | suspicious movement (move: 0.259, expect: 0.24, tag: c,noslow) (+10) | vl:10 ping:60 tps:20.0 lp:7 component: speed.main
+(09:51:22) Ra1ft failed Speed check | suspicious movement (move: 0.18, expect:0.177, t:17, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:19 ping:59 tps:20.0 lp:6 component: speed.main
+(09:51:22) Ra1ft failed Speed check | suspicious movement (move: 0.19, expect:0.177, t:18, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:28 ping:59 tps:20.0 lp:6 component: speed.main
+(09:51:23) Ra1ft failed Speed check | suspicious movement (move: 0.234, expect:0.177, t:19, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:37 ping:59 tps:20.0 lp:6 component: speed.main
+(09:51:23) Ra1ft failed Speed check | suspicious movement (move: 0.258, expect:0.177, t:20, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:46 ping:59 tps:20.0 lp:6 component: speed.main
+(09:51:23) Ra1ft failed Speed check | suspicious movement (move: 0.28, expect:0.177, t:30, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:55 ping:59 tps:20.0 lp:14 component: speed.main
+(09:51:23) Execute command: matrix notify Ra1ft tried to move faster than usual (Speed) #1
+(09:51:24) Ra1ft failed Speed check | suspicious movement (move: 0.212, expect:0.177, t:40, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:64 ping:59 tps:20.0 lp:11 component: speed.main
+(09:51:24) Ra1ft failed Speed check | suspicious movement (move: 0.21, expect:0.177, t:50, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:73 ping:59 tps:20.0 lp:11 component: speed.main
+(09:51:25) Ra1ft failed Speed check | suspicious movement (move: 0.181, expect:0.177, t:65, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:82 ping:59 tps:20.0 lp:10 component: speed.main
+(09:51:30) Ra1ft failed Speed check | suspicious movement (move: 0.386, expect:0.177, t:83, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:91 ping:59 tps:20.0 lp:11 component: speed.main
+(09:51:30) Execute command: matrix notify Ra1ft tried to move faster than usual (Speed) #2
+(09:51:31) Ra1ft failed Speed check | suspicious movement (move: 0.287, expect:0.177, t:84, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:100 ping:59 tps:20.0 lp:11 component: speed.main
+(09:51:31) Ra1ft failed Speed check | suspicious movement (move: 0.831, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:110 ping:59 tps:20.0 lp:11 component: speed.main
+(09:51:31) Ra1ft failed Speed check | suspicious movement (move: 0.831, vet: 0.4, tag: d) (+8) | vl:118 ping:59 tps:20.0 lp:11 component: speed.main
+(09:51:31) Ra1ft failed Speed check | suspicious movement (move: 0.831, predict: 0.682, friction: 0.6, ground:true, motY: 0.4, increase:0.33, preMove:0.352, motion: -0.827,0.4,-0.079, attribute: 0.13, tag: pred) (+5) | vl:123 ping:59 tps:20.0 lp:11 component: move.xz
+(09:51:38) Ra1ft failed Speed check | suspicious movement (move: 0.21, expect:0.177, t:97, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:132 ping:63 tps:20.0 lp:11 component: speed.main
+(09:51:38) Ra1ft failed Speed check | suspicious movement (move: 0.278, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:141 ping:63 tps:20.0 lp:11 component: speed.main
+(09:51:39) Ra1ft failed Speed check | suspicious movement (move: 0.28, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:150 ping:63 tps:20.0 lp:9 component: speed.main
+(09:51:44) Ra1ft failed Speed check | suspicious movement (move: 0.181, expect:0.177, t:100, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:109 ping:61 tps:19.99 lp:9 component: speed.main
+(09:51:44) Ra1ft failed Speed check | suspicious movement (move: 0.279, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:118 ping:61 tps:19.99 lp:9 component: speed.main
+(09:51:45) Ra1ft failed Speed check | suspicious movement (move: 0.28, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:127 ping:61 tps:19.99 lp:9 component: speed.main
+(09:51:46) Ra1ft failed Speed check | suspicious movement (move: 0.28, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:136 ping:61 tps:20.0 lp:8 component: speed.main
+(09:51:47) Ra1ft failed Speed check | suspicious movement (move: 0.216, expect:0.177, t:100, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:145 ping:61 tps:20.0 lp:6 component: speed.main
+(09:51:59) Ra1ft failed Speed check | suspicious movement (move: 0.181, expect:0.177, t:100, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:154 ping:57 tps:20.0 lp:9 component: speed.main
+(09:51:59) Ra1ft failed Speed check | suspicious movement (move: 0.279, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:163 ping:57 tps:20.0 lp:9 component: speed.main
+(09:52:00) Ra1ft failed Speed check | suspicious movement (move: 0.479, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:173 ping:57 tps:19.99 lp:8 component: speed.main
+(09:52:00) Ra1ft failed Speed check | suspicious movement (move: 0.279, expect:0.177, t:100, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:182 ping:57 tps:19.99 lp:8 component: speed.main
+(09:52:03) Ra1ft failed Speed check | suspicious movement (move: 0.472, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:192 ping:57 tps:20.0 lp:10 component: speed.main
+(09:52:04) Ra1ft failed Speed check | suspicious movement (move: 0.478, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:202 ping:57 tps:19.97 lp:10 component: speed.main
+(09:52:04) Ra1ft failed Speed check | suspicious movement (move: 0.478, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:212 ping:57 tps:19.97 lp:10 component: speed.main
+(09:52:06) Ra1ft failed Speed check | suspicious movement (move: 0.575, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:222 ping:155 tps:20.0 lp:29 component: speed.main
+(09:52:06) Execute command: matrix kick Ra1ft Speed Hacks
+(09:54:01) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 3) (+4) | vl:4 ping:55 tps:20.0 lp:10 component: ka.one.1
+(09:54:01) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 5) (+4) | vl:8 ping:55 tps:20.0 lp:9 component: ka.one.1
+(09:54:02) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 7) (+4) | vl:12 ping:55 tps:20.0 lp:8 component: ka.one.1
+(09:54:02) Execute command: matrix npc Ra1ft 100
+(09:54:06) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 8) (+4) | vl:16 ping:90 tps:19.99 lp:6 component: ka.one.1
+(09:54:07) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 9) (+4) | vl:20 ping:90 tps:19.99 lp:5 component: ka.one.1
+(09:54:07) Execute command: matrix notify Ra1ft might be using combat hacks (KillAura)
+(09:54:07) Ra1ft failed KillAura check | (npc) force field (+5) | vl:25 ping:90 tps:19.99 lp:5 component: ka.ff
+(09:54:07) Ra1ft failed KillAura check | (npc) force field (+5) | vl:30 ping:90 tps:19.99 lp:5 component: ka.ff
+(09:54:18) Ra1ft failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 10) (+4) | vl:19 ping:56 tps:19.99 lp:9 component: ka.one.1
+(09:54:56) KAK_TO_CTPAHHO failed Speed check | sprint with weird direction (dist: 0.256, angle:101.708) (+5) | vl:5 ping:34 tps:20.0 lp:3 component: speed.sprint
+(09:56:33) KAK_TO_CTPAHHO failed KillAura check | critical hit without correct jumping | tag: mini-jump | d:0.20000004768371582 (+5) | vl:5 ping:33 tps:20.0 lp:5 component: ka.critical.hop
+(09:57:11) Ra6ft failed Chat check | send the same chat content (+1) | vl:1 ping:623 tps:20.0 lp:11 component: chat.same
+(09:57:47) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.24, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:30 tps:19.99 lp:11 component: speed.main
+(10:00:28) KAK_TO_CTPAHHO failed Chat check | send the same chat content (+1) | vl:1 ping:28 tps:20.0 lp:5 component: chat.same
+(10:07:54) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.178, expect:0.177, t:5, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:9 ping:32 tps:20.0 lp:5 component: speed.main
+(10:08:45) KAK_TO_CTPAHHO failed KillAura check | snap head: 17.486725 entity: PLAYER (+5) | vl:5 ping:41 tps:20.0 lp:6 component: ka.snap
+(10:08:50) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:53 tps:19.99 lp:2 component: ka.one.2
+(10:09:57) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.252, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:37 tps:20.0 lp:3 component: speed.main
+(10:09:57) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.233, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:37 tps:20.0 lp:3 component: speed.main
+(10:11:41) xxxoo123 failed Chat check | send the same chat content (+1) | vl:1 ping:57 tps:20.0 lp:11 component: chat.same
+(10:12:18) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+0) | vl:0 ping:26 tps:20.0 lp:20 component: interact.through
+(10:12:18) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+0) | vl:0 ping:26 tps:20.0 lp:20 component: interact.through
+(10:12:32) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:36 tps:19.99 lp:34 component: interact.through
+(10:12:45) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:30 tps:20.0 lp:30 component: interact.through
+(10:12:59) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: WOOD, block:CHEST) (+1) | vl:2 ping:25 tps:20.0 lp:26 component: interact.through
+(10:14:39) Ra6ft failed Chat check | send the same chat content (+1) | vl:1 ping:117 tps:20.0 lp:19 component: chat.same
+(10:17:16) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, predict: 0.594, friction: 0.6, ground:true, motY: 1.0, increase:0.33, preMove:0.264, motion: -1.0,1.0,0.012, attribute: 0.13, tag: pred) (+5) | vl:5 ping:0 tps:20.0 lp:48 component: move.xz
+(10:17:16) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:0.42 lm:0.99 (+8) | vl:8 ping:0 tps:20.0 lp:48 component: speed.step
+(10:17:16) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.4065, tag: ea) (+20) | vl:25 ping:0 tps:20.0 lp:48 component: speed.main
+(10:17:16) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, predict: 0.572, friction: 0.6, ground:false, motY: 1.0, increase:0.026, preMove:0.546, motion: -1.0,1.0,0.012, attribute: 0.13, tag: pred) (+5) | vl:30 ping:0 tps:20.0 lp:48 component: move.xz
+(10:17:16) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:0.333 lm:0.99 (+8) | vl:16 ping:0 tps:20.0 lp:48 component: speed.step
+(10:17:16) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:1 tag:sam (+5) | vl:21 ping:0 tps:20.0 lp:48 component: fly.main
+(10:17:16) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:26 ping:0 tps:20.0 lp:48 component: fly.main
+(10:18:17) KAK_TO_CTPAHHO failed Velocity check | (respond) ignore server velocity: -0.126,0.361,-0.382 (+5) | vl:5 ping:31 tps:19.99 lp:5 component: vel.expect
+(10:19:18) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:109 tps:20.0 lp:29 component: ka.one.2
+(10:19:20) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:2 ping:94 tps:20.0 lp:21 component: ka.one.2
+(10:19:21) FuLL_Ezka failed Speed check | suspicious movement (move: 0.206, expect:0.177, t:23, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:9 ping:94 tps:20.0 lp:15 component: speed.main
+(10:19:21) FuLL_Ezka failed Speed check | suspicious movement (move: 0.242, expect:0.177, t:24, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:18 ping:94 tps:20.0 lp:15 component: speed.main
+(10:19:21) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:3 ping:94 tps:20.0 lp:15 component: ka.one.2
+(10:19:21) FuLL_Ezka failed HitBox check | missed player hitbox (raytrace: 10/16 positions, lag: 9, prep: true) (+2) | vl:2 ping:94 tps:20.0 lp:15 component: hb.mis
+(10:19:21) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:4 ping:94 tps:20.0 lp:29 component: ka.one.2
+(10:19:21) FuLL_Ezka failed Speed check | suspicious movement (move: 0.207, expect:0.177, t:43, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:27 ping:94 tps:20.0 lp:29 component: speed.main
+(10:19:22) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:5 ping:94 tps:20.0 lp:38 component: ka.one.2
+(10:19:23) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:6 ping:94 tps:20.0 lp:38 component: ka.one.2
+(10:19:23) FuLL_Ezka failed HitBox check | missed player hitbox (raytrace: 13/16 positions, lag: 12, prep: true) (+2) | vl:4 ping:94 tps:20.0 lp:38 component: hb.mis
+(10:19:24) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:7 ping:94 tps:20.0 lp:46 component: ka.one.2
+(10:19:25) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:8 ping:94 tps:20.0 lp:50 component: ka.one.2
+(10:19:26) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:9 ping:94 tps:20.0 lp:50 component: ka.one.2
+(10:19:26) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:10 ping:94 tps:19.98 lp:51 component: ka.one.2
+(10:19:26) Execute command: matrix npc FuLL_Ezka 100
+(10:19:28) FuLL_Ezka failed Speed check | suspicious movement (move: 0.45, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:37 ping:94 tps:20.0 lp:61 component: speed.main
+(10:19:28) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:11 ping:94 tps:20.0 lp:69 component: ka.one.2
+(10:19:28) FuLL_Ezka failed HitBox check | missed player hitbox (raytrace: 13/16 positions, lag: 12, prep: true) (+2) | vl:6 ping:94 tps:20.0 lp:69 component: hb.mis
+(10:19:28) FuLL_Ezka failed Speed check | suspicious movement (move: 0.18, expect:0.177, t:100, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:46 ping:94 tps:20.0 lp:69 component: speed.main
+(10:19:33) FuLL_Ezka failed Jesus check | liquid speed (speed: 1.0, expect:0.86, dmg: false, flow:false, module: out) (+4) | vl:4 ping:745 tps:20.0 lp:52 component: jesus.out
+(10:19:33) FuLL_Ezka failed Jesus check | liquid speed (speed: 1.0, expect:0.31, dmg: false, flow:false, module: out) (+4) | vl:8 ping:745 tps:20.0 lp:52 component: jesus.out
+(10:19:33) FuLL_Ezka failed Jesus check | liquid speed (speed: 1.0, expect:0.31, dmg: false, flow:false, module: out) (+4) | vl:12 ping:745 tps:20.0 lp:52 component: jesus.out
+(10:19:34) KAK_TO_CTPAHHO failed Jesus check | suspicious movement in liquid (motion: 0.25,0.361,-0.109, down: STATIONARY_WATER, vel: -0.155, module: solid) (+5) | vl:5 ping:26 tps:19.99 lp:8 component: jesus.solid
+(10:19:34) FuLL_Ezka failed Jesus check | liquid speed (speed: 1.0, expect:0.16, dmg: false, flow:false, module: out) (+4) | vl:16 ping:745 tps:19.99 lp:28 component: jesus.out
+(10:19:34) FuLL_Ezka failed Jesus check | liquid speed (speed: 1.0, expect:0.16, dmg: false, flow:false, module: out) (+4) | vl:20 ping:745 tps:19.99 lp:28 component: jesus.out
+(10:19:34) Execute command: matrix notify FuLL_Ezka tried to move illegally in liquid (Jesus)
+(10:19:35) FuLL_Ezka failed Jesus check | liquid speed (speed: 1.0, expect:0.51, dmg: true, flow:false, module: out) (+4) | vl:24 ping:745 tps:19.99 lp:22 component: jesus.out
+(10:19:35) FuLL_Ezka failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 549 diff: 7 (+6) | vl:17 ping:745 tps:19.99 lp:22 component: ka.ac.9p
+(10:19:36) FuLL_Ezka failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 549 diff: 7 (+6) | vl:23 ping:745 tps:20.0 lp:22 component: ka.ac.9p
+(10:19:36) Execute command: matrix notify FuLL_Ezka might be using combat hacks (KillAura)
+(10:19:37) FuLL_Ezka failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 4 (+6) | vl:29 ping:745 tps:20.0 lp:17 component: ka.ac.9p
+(10:19:37) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:30 ping:745 tps:20.0 lp:17 component: ka.one.2
+(10:19:38) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:31 ping:745 tps:20.0 lp:16 component: ka.one.2
+(10:19:39) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:32 ping:745 tps:20.0 lp:13 component: ka.one.2
+(10:19:43) FuLL_Ezka failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:18 ping:96 tps:20.0 lp:6 component: ka.one.2
+(10:19:44) FuLL_Ezka failed HitBox check | attack player too far away (raytrace: 10/16 positions, lag: 9, distance: 3.373 blocks) (+3) | vl:3 ping:96 tps:20.0 lp:5 component: hb.reach
+(10:20:02) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 38.733, move: true) (+1) | vl:1 ping:26 tps:20.0 lp:1 component: hb.mis
+(10:20:03) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 51.827, move: true) (+1) | vl:2 ping:26 tps:20.0 lp:1 component: hb.mis
+(10:20:07) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 106.574, move: true) (+2) | vl:4 ping:24 tps:20.0 lp:1 component: hb.mis
+(10:20:09) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 97.231, move: true) (+2) | vl:6 ping:24 tps:20.0 lp:1 component: hb.mis
+(10:20:11) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 106.837, move: true) (+2) | vl:2 ping:24 tps:19.99 lp:1 component: hb.mis
+(10:20:14) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 69.548, move: true) (+2) | vl:4 ping:24 tps:20.0 lp:1 component: hb.mis
+(10:20:16) Zayer_MR failed HitBox check | missed entity hitbox (entity: enderman, angle: 58.104, move: true) (+1) | vl:5 ping:24 tps:20.0 lp:1 component: hb.mis
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, predict: 0.747, friction: 0.6, ground:true, motY: 1.0, increase:0.58, preMove:0.167, motion: -1.0,1.0,-0.012, attribute: 0.13, tag: pred) (+5) | vl:5 ping:92 tps:19.97 lp:4 component: move.xz
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:10 ping:92 tps:19.97 lp:4 component: speed.main
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, predict: 0.822, friction: 0.6, ground:false, motY: 1.0, increase:0.276, preMove:0.546, motion: -1.0,1.0,-0.012, attribute: 0.13, tag: pred) (+5) | vl:15 ping:92 tps:19.97 lp:4 component: move.xz
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:1 tag:sam (+5) | vl:5 ping:92 tps:19.97 lp:4 component: fly.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.338 vel:-0.078 air_t:1 tag:vt (+5) | vl:10 ping:92 tps:19.97 lp:4 component: fly.main
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:20 ping:92 tps:19.97 lp:9 component: speed.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement: 1.0/1.0 vel: -0.447 tag:nc (+2) | vl:12 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:2 tag:sam (+5) | vl:17 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.253 vel:-0.447 air_t:2 tag:vt (+5) | vl:22 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+20) | vl:40 ping:92 tps:19.97 lp:9 component: speed.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:3 tag:sam (+5) | vl:27 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.17 vel:-0.652 air_t:3 tag:vt (+5) | vl:32 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:45 ping:92 tps:19.97 lp:9 component: speed.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:4 tag:sam (+5) | vl:37 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.088 vel:-0.844 air_t:4 tag:vt (+5) | vl:42 ping:92 tps:19.97 lp:9 component: fly.main
+(10:20:25) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:50 ping:92 tps:19.97 lp:14 component: speed.main
+(10:20:25) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:5 tag:sam (+5) | vl:47 ping:92 tps:19.97 lp:14 component: fly.main
+(10:20:26) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:55 ping:92 tps:19.97 lp:14 component: speed.main
+(10:20:26) Execute command: matrix notify FuLL_Ezka tried to move faster than usual (Speed) #1
+(10:20:26) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:-0.377 lm:0.99 (+8) | vl:55 ping:92 tps:20.0 lp:14 component: speed.step
+(10:20:26) Execute command: matrix notify FuLL_Ezka tried to fly (Fly) #1
+(10:20:26) FuLL_Ezka failed Fly check | step | p:4 (+3) | vl:58 ping:92 tps:20.0 lp:14 component: speed.step
+(10:20:26) FuLL_Ezka failed Fly check | suspicious movement: 1.0/1.0 vel: -0.377 tag:nc (+2) | vl:60 ping:92 tps:20.0 lp:14 component: fly.main
+(10:20:26) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:6 tag:sam (+5) | vl:65 ping:92 tps:20.0 lp:14 component: fly.main
+(10:20:26) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:-0.231 lm:0.99 (+2) | vl:67 ping:432 tps:20.0 lp:14 component: speed.step
+(10:20:26) FuLL_Ezka failed Fly check | step | p:4 (+3) | vl:70 ping:432 tps:20.0 lp:14 component: speed.step
+(10:20:26) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:7 tag:sam (+5) | vl:75 ping:432 tps:20.0 lp:14 component: fly.main
+(10:20:26) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:60 ping:432 tps:20.0 lp:14 component: speed.main
+(10:20:26) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, predict: 0.276, friction: 0.6, ground:false, motY: 1.0, increase:0.276, preMove:0.0, motion: -1.0,1.0,-0.012, attribute: 0.13, tag: pred) (+5) | vl:65 ping:432 tps:20.0 lp:14 component: move.xz
+(10:20:26) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:-0.447 lm:0.99 (+2) | vl:77 ping:432 tps:20.0 lp:14 component: speed.step
+(10:20:26) FuLL_Ezka failed Fly check | step | p:4 (+3) | vl:80 ping:432 tps:20.0 lp:14 component: speed.step
+(10:20:26) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:8 tag:sam (+5) | vl:85 ping:432 tps:20.0 lp:14 component: fly.main
+(10:20:27) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:70 ping:432 tps:20.0 lp:20 component: speed.main
+(10:20:27) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, predict: 0.527, friction: 0.6, ground:false, motY: 1.0, increase:0.276, preMove:0.251, motion: -1.0,1.0,-0.012, attribute: 0.13, tag: pred) (+5) | vl:75 ping:432 tps:20.0 lp:20 component: move.xz
+(10:20:27) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:-0.652 lm:0.99 (+2) | vl:87 ping:432 tps:20.0 lp:20 component: speed.step
+(10:20:27) FuLL_Ezka failed Fly check | step | p:4 (+3) | vl:90 ping:432 tps:20.0 lp:20 component: speed.step
+(10:20:27) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:9 tag:sam (+5) | vl:95 ping:432 tps:20.0 lp:20 component: fly.main
+(10:20:27) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:80 ping:432 tps:20.0 lp:20 component: speed.main
+(10:20:27) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:-0.844 lm:0.99 (+2) | vl:97 ping:432 tps:20.0 lp:20 component: speed.step
+(10:20:27) FuLL_Ezka failed Fly check | step | p:4 (+3) | vl:100 ping:432 tps:20.0 lp:20 component: speed.step
+(10:20:27) Execute command: matrix notify FuLL_Ezka tried to fly (Fly) #2
+(10:20:27) FuLL_Ezka failed Fly check | suspicious movement: 1.0/1.0 vel: -0.844 tag:nc (+2) | vl:102 ping:432 tps:20.0 lp:20 component: fly.main
+(10:20:27) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:10 tag:sam (+5) | vl:107 ping:432 tps:20.0 lp:20 component: fly.main
+(10:20:27) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:85 ping:432 tps:20.0 lp:20 component: speed.main
+(10:20:27) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:0.42 lm:0.99 (+2) | vl:109 ping:432 tps:20.0 lp:20 component: speed.step
+(10:20:27) FuLL_Ezka failed Fly check | suspicious movement: 1.0/1.0 vel: 0.42 tag:nc (+2) | vl:111 ping:432 tps:20.0 lp:20 component: fly.main
+(10:20:27) FuLL_Ezka failed Fly check | suspicious movement:1.0 predict:0.902 air_t:11 tag:sam (+5) | vl:116 ping:432 tps:20.0 lp:20 component: fly.main
+(10:20:27) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:90 ping:432 tps:20.0 lp:20 component: speed.main
+(10:20:27) Execute command: matrix notify FuLL_Ezka tried to move faster than usual (Speed) #2
+(10:20:27) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:0.165 lm:0.99 (+2) | vl:118 ping:432 tps:20.0 lp:20 component: speed.step
+(10:20:27) FuLL_Ezka failed Fly check | suspicious movement: 1.0/1.0 vel: 0.165 tag:nc (+2) | vl:120 ping:432 tps:20.0 lp:20 component: fly.main
+(10:20:27) FuLL_Ezka failed Speed check | suspicious movement (move: 1.0, expect: 0.5065000000000001, tag: ea) (+5) | vl:95 ping:432 tps:20.0 lp:22 component: speed.main
+(10:20:27) FuLL_Ezka failed Fly check | step | p: 1 | m:1.0 ev:-0.075 lm:0.99 (+2) | vl:122 ping:432 tps:20.0 lp:22 component: speed.step
+(10:22:04) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: LOG, block:CHEST) (+1) | vl:1 ping:36 tps:20.0 lp:23 component: interact.through
+(10:22:26) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:36 tps:20.0 lp:28 component: interact.through
+(10:22:51) xxxoo123 failed Speed check | (toggle) send release use item packet frequently (+2) | vl:2 ping:58 tps:20.0 lp:1 component: speed.noslow.toggle
+(10:25:43) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:30 tps:20.0 lp:12 component: interact.through
+(10:26:19) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:41 tps:19.99 lp:8 component: interact.through
+(10:31:23) Firs_YT failed Chat check | send the same chat content (+1) | vl:1 ping:31 tps:20.0 lp:14 component: chat.same
+(10:31:28) Firs_YT failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:31 tps:20.0 lp:8 component: interact.through
+(10:34:25) Firs_YT failed HitBox check | missed entity hitbox (entity: cow, angle: 38.603, move: true) (+1) | vl:1 ping:25 tps:19.99 lp:7 component: hb.mis
+(10:34:27) xxxoo123 failed Chat check | send the same chat content (+1) | vl:1 ping:57 tps:20.0 lp:27 component: chat.same
+(10:36:30) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:35 tps:20.0 lp:20 component: interact.through
+(10:36:48) xxxoo123 failed Chat check | send the same chat content (+1) | vl:1 ping:56 tps:20.0 lp:9 component: chat.same
+(10:37:04) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:34 tps:20.0 lp:16 component: interact.through
+(10:40:05) xxxoo123 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:58 tps:20.0 lp:4 component: interact.through
+(10:44:34) xxxoo123 failed Phase check | moved into block (block: thin_glass, move: 0.01,0.0,0.151, at: -791.566,71.0,687.138, dist: 0.152, loop: false) (+2) | vl:2 ping:57 tps:19.99 lp:16 component: phase.main
+(10:45:35) 20sem08 failed BadPackets check | (timer) send 46 moving packets in 1449ms | tag: limit (+10) | vl:10 ping:90 tps:19.76 lp:16 component: net.timer
+(10:45:37) KAK_TO_CTPAHHO failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:28 tps:19.68 lp:20 component: interact.through
+(10:46:28) RyffiYT failed Chat check | send the same chat content (+1) | vl:1 ping:31 tps:20.0 lp:25 component: chat.same
+(10:47:05) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.188, expect:0.177, t:36, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:9 ping:33 tps:19.97 lp:6 component: speed.main
+(10:47:05) KAK_TO_CTPAHHO failed Speed check | suspicious movement (move: 0.201, expect:0.177, t:37, sprint: false, attr: 0.1, tag: a,noslow) (+9) | vl:18 ping:33 tps:20.0 lp:6 component: speed.main
+(10:47:53) TeodoreMladshiy failed Chat check | send the same chat content (+1) | vl:1 ping:55 tps:19.99 lp:4 component: chat.same
+(10:48:05) TeodoreMladshiy failed Chat check | send the same chat content (+1) | vl:2 ping:53 tps:19.93 lp:3 component: chat.same
+(10:48:20) xxxoo123 failed Speed check | suspicious movement (move: 0.234, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:56 tps:19.44 lp:1 component: speed.main
+(10:48:38) 20sem08 failed Speed check | sprint with weird direction (dist: 0.245, angle:92.402) (+5) | vl:5 ping:79 tps:19.85 lp:12 component: speed.sprint
+(10:48:45) 20sem08 failed Speed check | suspicious movement (move: 0.238, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:104 tps:19.95 lp:21 component: speed.main
+(10:50:13) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.011,0.051,0.0, at: -2448.311,119.251,1007.3, dist: 0.011, loop: false) (+2) | vl:2 ping:30 tps:20.0 lp:19 component: phase.main
+(10:50:52) KAK_TO_CTPAHHO failed Fly check | suspicious movement:0.045 predict:-0.078 air_t:12 e_t:5 tag:tk (+4) | vl:4 ping:32 tps:20.0 lp:4 component: fly.main
+(10:50:52) KAK_TO_CTPAHHO failed Fly check | suspicious movement:0.045 predict:-0.034 air_t:12 e_t:5 tag:tk (+4) | vl:8 ping:32 tps:20.0 lp:4 component: fly.main
+(10:51:22) tboi_angel5 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:63 tps:19.94 lp:3 component: interact.through
+(10:53:07) tboi_angel5 failed Chat check | send the same chat content (+1) | vl:1 ping:54 tps:20.0 lp:5 component: chat.same
+(10:55:52) KAK_TO_CTPAHHO failed Fly check | (levitation) move unexpected: 0.0 <> 0.293 level:1 (+5) | vl:5 ping:34 tps:19.99 lp:3 component: fly.levitation
+(10:56:53) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.033,0.027,0.002, at: -4106.566,106.227,1035.042, dist: 0.033, loop: false) (+2) | vl:2 ping:32 tps:19.99 lp:12 component: phase.main
+(10:56:53) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.049,0.032,-0.058, at: -4106.712,106.311,1034.937, dist: 0.076, loop: false) (+2) | vl:4 ping:32 tps:19.99 lp:12 component: phase.main
+(10:56:53) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.034,0.0,-0.155, at: -4106.958,106.35,1034.225, dist: 0.159, loop: false) (+2) | vl:6 ping:27 tps:19.99 lp:12 component: phase.main
+(10:56:53) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.032,0.0,-0.202, at: -4107.123,106.35,1033.299, dist: 0.205, loop: false) (+2) | vl:8 ping:27 tps:19.93 lp:12 component: phase.main
+(10:56:53) Execute command: matrix notify KAK_TO_CTPAHHO is phase into block (Phase)
+(10:56:54) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.003,0.0,-0.088, at: -4107.102,106.35,1033.27, dist: 0.088, loop: false) (+2) | vl:10 ping:27 tps:19.93 lp:11 component: phase.main
+(10:56:54) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.056,0.0,-0.044, at: -4107.214,106.35,1033.267, dist: 0.071, loop: false) (+2) | vl:12 ping:27 tps:19.93 lp:11 component: phase.main
+(10:56:54) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.02,0.0,-0.016, at: -4107.178,106.35,1033.295, dist: 0.026, loop: false) (+2) | vl:14 ping:27 tps:19.93 lp:11 component: phase.main
+(10:56:54) Execute command: matrix notify KAK_TO_CTPAHHO is phase into block (Phase) #2
+(10:56:54) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.074,0.0,0.393, at: -4107.084,106.35,1033.704, dist: 0.4, loop: false) (+4) | vl:18 ping:27 tps:19.93 lp:14 component: phase.main
+(10:56:56) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.058,0.0,0.308, at: -4106.889,106.35,1034.737, dist: 0.313, loop: false) (+4) | vl:22 ping:27 tps:20.0 lp:14 component: phase.main
+(10:56:58) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.0,0.0,-0.055, at: -4106.943,106.35,1034.25, dist: 0.055, loop: false) (+2) | vl:24 ping:27 tps:19.99 lp:23 component: phase.main
+(10:56:59) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.034,0.0,-0.038, at: -4106.978,106.35,1034.267, dist: 0.051, loop: false) (+2) | vl:26 ping:27 tps:19.99 lp:22 component: phase.main
+(10:57:00) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.036,0.0,-0.398, at: -4106.908,106.35,1033.907, dist: 0.4, loop: false) (+4) | vl:30 ping:27 tps:20.0 lp:24 component: phase.main
+(10:57:10) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.016,-0.078,-0.061, at: -4106.96,106.272,1034.244, dist: 0.063, loop: false) (+2) | vl:32 ping:30 tps:20.0 lp:21 component: phase.main
+(10:58:09) KAK_TO_CTPAHHO failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 level:1 (+5) | vl:5 ping:35 tps:19.99 lp:26 component: fly.levitation
+(10:58:09) KAK_TO_CTPAHHO failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 level:1 (+5) | vl:10 ping:35 tps:19.99 lp:26 component: fly.levitation
+(10:58:09) KAK_TO_CTPAHHO failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 level:1 (+5) | vl:15 ping:35 tps:19.99 lp:26 component: fly.levitation
+(10:58:47) xxxoo123 failed Chat check | send the same chat content (+1) | vl:1 ping:57 tps:20.0 lp:1 component: chat.same
+(10:59:32) xxxoo123 failed Speed check | suspicious movement (move: 0.237, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:60 tps:19.93 lp:1 component: speed.main
+(10:59:44) KAK_TO_CTPAHHO failed Fly check | (levitation) move unexpected: 0.0 <> 0.293 level:1 (+5) | vl:5 ping:32 tps:19.77 lp:5 component: fly.levitation
+(10:59:57) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.275,-0.155,-0.006, at: -4080.147,59.166,1037.128, dist: 0.275, loop: false) (+2) | vl:2 ping:33 tps:19.87 lp:5 component: phase.main
+(10:59:57) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.142,0.0,0.075, at: -4079.823,59.0,1037.249, dist: 0.16, loop: false) (+2) | vl:4 ping:33 tps:19.87 lp:5 component: phase.main
+(10:59:58) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: -0.096,0.0,-0.218, at: -4081.192,59.0,1037.121, dist: 0.238, loop: false) (+2) | vl:6 ping:33 tps:19.87 lp:5 component: phase.main
+(10:59:58) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.244,0.0,-0.049, at: -4080.49,59.0,1036.281, dist: 0.249, loop: false) (+2) | vl:8 ping:33 tps:19.99 lp:5 component: phase.main
+(10:59:58) Execute command: matrix notify KAK_TO_CTPAHHO is phase into block (Phase)
+(10:59:58) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.126,0.0,-0.033, at: -4080.608,59.0,1036.297, dist: 0.13, loop: false) (+2) | vl:10 ping:33 tps:19.99 lp:5 component: phase.main
+(10:59:58) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.126,0.0,-0.033, at: -4080.608,59.0,1036.297, dist: 0.13, loop: false) (+2) | vl:12 ping:33 tps:19.99 lp:5 component: phase.main
+(10:59:58) KAK_TO_CTPAHHO failed Phase check | moved into block (block: purpur_block, move: 0.126,0.0,-0.03, at: -4080.607,59.0,1036.299, dist: 0.13, loop: false) (+2) | vl:14 ping:33 tps:19.99 lp:5 component: phase.main
+(10:59:58) Execute command: matrix notify KAK_TO_CTPAHHO is phase into block (Phase) #2
+(11:00:18) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:57 tps:20.0 lp:1 component: interact.through
+(11:01:46) xxxoo123 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:58 tps:19.55 lp:2 component: interact.through
+(11:09:53) xxxoo123 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:56 tps:20.0 lp:4 component: interact.through
+(11:09:56) xxxoo123 failed Interact check | interact block through solid (through: WOOD, block:CHEST) (+1) | vl:2 ping:56 tps:19.99 lp:11 component: interact.through
+(11:09:56) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:3 ping:56 tps:19.99 lp:8 component: interact.through
+(11:09:56) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:4 ping:56 tps:19.99 lp:8 component: interact.through
+(11:09:57) xxxoo123 failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:5 ping:56 tps:20.0 lp:5 component: interact.through
+(11:10:28) Mishka_youtuber failed Interact check | interact block through solid (through: WOOD, block:CHEST) (+1) | vl:1 ping:64 tps:20.0 lp:41 component: interact.through
+(11:12:18) xxxoo123 failed Phase check | moved into block (block: wooden_door, move: 0.027,0.0,0.024, at: 654.326,75.0,-666.276, dist: 0.037, loop: false) (+2) | vl:2 ping:57 tps:20.0 lp:9 component: phase.main
+(11:12:57) xxxoo123 failed Phase check | moved into block (block: wood, move: 0.0,0.35,0.0, at: 654.7,75.35,-665.512, dist: 0.0, loop: false) (+2) | vl:2 ping:60 tps:20.0 lp:14 component: phase.main
+(11:13:13) Mishka_youtuber failed Fly check | suspicious movement:0.592 predict:-0.517 air:6 tag:dmf (+10) | vl:10 ping:64 tps:20.0 lp:8 component: fly.main
+(11:13:14) Mishka_youtuber failed Fly check | suspicious movement:0.593 predict:-0.517 air:6 tag:dmf (+10) | vl:20 ping:64 tps:20.0 lp:7 component: fly.main
+(11:19:54) Mishka_youtuber failed Chat check | send the same chat content (+1) | vl:1 ping:75 tps:20.0 lp:18 component: chat.same
+(11:20:09) Mishka_youtuber failed Chat check | send the same chat content (+1) | vl:2 ping:50 tps:19.99 lp:18 component: chat.same
+(11:20:10) 21WERICOS21 failed Speed check | suspicious movement (move: 0.523, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:34 tps:19.99 lp:6 component: speed.main
+(11:20:10) 21WERICOS21 failed Speed check | suspicious movement (move: 0.523, predict: 0.327, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.197, motion: 0.512,0.0,-0.106, attribute: 0.13, tag: pred) (+5) | vl:13 ping:34 tps:19.99 lp:6 component: move.xz
+(11:21:06) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: true) (+2) | vl:2 ping:34 tps:19.99 lp:5 component: hb.mis
+(11:21:07) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 2/16 positions, lag: 8, prep: true) (+2) | vl:4 ping:34 tps:20.0 lp:5 component: hb.mis
+(11:21:14) AFKirochka failed Chat check | send the same chat content (+1) | vl:1 ping:65 tps:19.84 lp:15 component: chat.same
+(11:21:17) Mishka_youtuber failed HitBox check | missed entity hitbox (entity: zombie, angle: 49.631, move: true) (+1) | vl:1 ping:53 tps:20.0 lp:14 component: hb.mis
+(11:22:26) _E_z_Z_k_A_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:34 tps:20.0 lp:5 component: ka.one.2
+(11:22:27) _E_z_Z_k_A_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:2 ping:34 tps:20.0 lp:5 component: ka.one.2
+(11:22:28) _E_z_Z_k_A_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:3 ping:34 tps:20.0 lp:5 component: ka.one.2
+(11:22:28) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: true) (+2) | vl:2 ping:34 tps:20.0 lp:5 component: hb.mis
+(11:22:28) _E_z_Z_k_A_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:4 ping:34 tps:20.0 lp:5 component: ka.one.2
+(11:22:28) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: false) (+2) | vl:4 ping:34 tps:20.0 lp:5 component: hb.mis
+(11:22:34) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: true) (+2) | vl:6 ping:34 tps:20.0 lp:18 component: hb.mis
+(11:23:10) xxxoo123 failed Chat check | send the same chat content (+1) | vl:1 ping:53 tps:20.0 lp:11 component: chat.same
+(11:23:17) _E_z_Z_k_A_ failed Fly check | ground spoof (expect: +-, move: -0.049,0.0,0.085, at: -224.628,88.0,88.383, type: air, pkt: false) (+5) | vl:5 ping:38 tps:20.0 lp:11 component: fly.gf
+(11:23:30) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: true) (+2) | vl:2 ping:38 tps:19.97 lp:3 component: hb.mis
+(11:23:31) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: true) (+2) | vl:4 ping:38 tps:20.0 lp:3 component: hb.mis
+(11:23:33) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 10/16 positions, lag: 8, prep: true) (+2) | vl:6 ping:38 tps:20.0 lp:3 component: hb.mis
+(11:23:38) _E_z_Z_k_A_ failed HitBox check | attack player too far away (raytrace: 11/16 positions, lag: 8, distance: 3.213 blocks) (+3) | vl:9 ping:38 tps:20.0 lp:2 component: hb.reach
+(11:23:42) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 1/16 positions, lag: 8, prep: true) (+2) | vl:11 ping:33 tps:20.0 lp:2 component: hb.mis
+(11:23:42) Execute command: matrix notify _E_z_Z_k_A_ tried to reach entity outside max reach distance (HitBox)
+(11:23:43) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 8/16 positions, lag: 8, prep: true) (+2) | vl:13 ping:33 tps:19.99 lp:2 component: hb.mis
+(11:23:43) Execute command: matrix npc _E_z_Z_k_A_ 120
+(11:23:44) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 9/16 positions, lag: 8, prep: true) (+2) | vl:15 ping:33 tps:19.99 lp:3 component: hb.mis
+(11:23:44) Execute command: matrix notify _E_z_Z_k_A_ tried to reach entity outside max reach distance (HitBox) #2
+(11:23:47) AFKirochka failed Speed check | t: spin (+10) | vl:10 ping:120 tps:19.99 lp:16 component: speed.spin
+(11:23:49) _E_z_Z_k_A_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:33 tps:20.0 lp:3 component: ka.one.2
+(11:23:49) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.279, expect:0.177, t:17, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:9 ping:33 tps:20.0 lp:3 component: speed.main
+(11:23:49) _E_z_Z_k_A_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:2 ping:33 tps:20.0 lp:2 component: ka.one.2
+(11:23:49) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.205, expect:0.177, t:18, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:18 ping:33 tps:20.0 lp:2 component: speed.main
+(11:23:49) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.239, expect:0.177, t:19, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:27 ping:33 tps:20.0 lp:2 component: speed.main
+(11:23:49) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.26, expect:0.177, t:20, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:36 ping:33 tps:20.0 lp:2 component: speed.main
+(11:23:49) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.252, expect:0.177, t:21, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:45 ping:33 tps:20.0 lp:2 component: speed.main
+(11:23:50) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.28, expect:0.177, t:31, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:54 ping:33 tps:20.0 lp:2 component: speed.main
+(11:23:51) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 0.46, expect: 0.44000000000000006, tag: c,noslow) (+10) | vl:64 ping:33 tps:20.0 lp:3 component: speed.main
+(11:23:51) Execute command: matrix notify _E_z_Z_k_A_ tried to move faster than usual (Speed) #1
+(11:24:06) _E_z_Z_k_A_ failed HitBox check | missed player hitbox (raytrace: 10/16 positions, lag: 8, prep: true) (+2) | vl:5 ping:34 tps:20.0 lp:3 component: hb.mis
+(11:24:14) _E_z_Z_k_A_ failed BadPackets check | (timer) send 43 moving packets in 1021ms | tag: limit (+10) | vl:10 ping:34 tps:20.0 lp:15 component: net.timer
+(11:24:14) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 1.886, expect: 1.7160249257272626, g_tk:2, tag: b) (+8) | vl:72 ping:34 tps:20.0 lp:15 component: speed.main
+(11:24:14) _E_z_Z_k_A_ failed Speed check | suspicious movement (move: 1.886, predict: 0.867, friction: 0.6, ground:true, motY: 0.0, increase:0.78, preMove:0.087, motion: 1.865,0.0,0.275, attribute: 0.13, tag: pred) (+5) | vl:77 ping:34 tps:20.0 lp:15 component: move.xz
+(11:25:20) Banks_QLT failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:66 tps:19.99 lp:23 component: interact.through
+(11:25:51) AFKirochka failed Velocity check | (respond) ignore server velocity: 0.207,0.361,0.342 (+5) | vl:5 ping:41 tps:20.0 lp:11 component: vel.expect
+(11:25:58) AFKirochka failed Speed check | suspicious movement (move: 0.428, vet: 0.361, tag: d) (+2) | vl:2 ping:3954 tps:20.0 lp:15 component: speed.main
+(11:25:58) AFKirochka failed Speed check | change direction in mid-air (dist: 0.4, angle:67.036, pre:0.218) (+5) | vl:7 ping:4984 tps:20.0 lp:15 component: speed.strafe
+(11:25:58) AFKirochka failed Speed check | suspicious movement (move: 0.4, expect: 0.3665, tag: ea) (+5) | vl:12 ping:4984 tps:20.0 lp:15 component: speed.main
+(11:25:58) AFKirochka failed Fly check | suspicious movement:0.361 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:5 ping:4984 tps:20.0 lp:15 component: fly.main
+(11:26:25) AFKirochka failed Speed check | t: spin (+10) | vl:10 ping:274 tps:19.99 lp:16 component: speed.spin
+(11:26:31) _E_z_Z_k_A_ failed Speed check | suspicious movement (0.306, air_t: 12, lm:0.179 acc: 0.12682681295022258, tag: ed) (+15) | vl:15 ping:40 tps:19.98 lp:5 component: speed.main
+(11:26:56) 21WERICOS21 failed Speed check | suspicious movement (move: 0.263, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:28 tps:20.0 lp:8 component: speed.main
+(11:26:56) 21WERICOS21 failed Speed check | suspicious movement (move: 0.243, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:28 tps:20.0 lp:8 component: speed.main
+(11:27:00) AFKirochka failed Chat check | send the same chat content (+1) | vl:1 ping:4952 tps:20.0 lp:15 component: chat.same
+(11:27:04) Banks_QLT failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 3) (+0) | vl:0 ping:67 tps:20.0 lp:20 component: ka.one.1
+(11:27:04) 21WERICOS21 failed FastBow check | fast bow (+1) | vl:1 ping:22 tps:20.0 lp:18 component: fastbow
+(11:27:05) Banks_QLT failed BadPackets check | (timer) send 44 moving packets in 1036ms | tag: limit (+10) | vl:10 ping:67 tps:19.71 lp:14 component: net.timer
+(11:27:05) xxxoo123 failed BadPackets check | (timer) send 44 moving packets in 1036ms | tag: limit (+10) | vl:10 ping:54 tps:19.71 lp:14 component: net.timer
+(11:27:05) 21WERICOS21 failed BadPackets check | (timer) send 44 moving packets in 1016ms | tag: limit (+10) | vl:10 ping:22 tps:19.71 lp:23 component: net.timer
+(11:27:05) Banks_QLT failed Speed check | suspicious movement (move: 2.064, expect: 0.3665, tag: ea) (+20) | vl:20 ping:67 tps:19.71 lp:14 component: speed.main
+(11:27:05) Banks_QLT failed Speed check | suspicious movement (move: 2.064, predict: 0.085, friction: 0.6, ground:false, motY: 1.0, increase:0.026, preMove:0.059, motion: -2.051,1.0,0.234, attribute: 0.13, tag: pred) (+5) | vl:25 ping:67 tps:19.71 lp:14 component: move.xz
+(11:27:05) Banks_QLT failed Fly check | step | p: 1 | m:1.0 ev:0.42 lm:0.99 (+8) | vl:8 ping:67 tps:19.71 lp:14 component: speed.step
+(11:27:05) 21WERICOS21 failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -868.436,76.001,626.971, type: air, pkt: true) (+5) | vl:5 ping:22 tps:19.71 lp:23 component: fly.gf
+(11:27:05) 21WERICOS21 failed Speed check | suspicious movement (move: 2.665, predict: 0.302, friction: 0.6, ground:false, motY: -1.001, increase:0.026, preMove:0.276, motion: -2.552,-1.001,0.771, attribute: 0.13, tag: pred) (+5) | vl:15 ping:22 tps:19.71 lp:23 component: move.xz
+(11:27:06) Banks_QLT failed Speed check | suspicious movement (move: 0.306, predict: 0.144, friction: 0.6, ground:false, motY: 0.42, increase:0.026, preMove:0.118, motion: -0.257,0.42,0.166, attribute: 0.13, tag: pred) (+5) | vl:30 ping:67 tps:19.71 lp:14 component: move.xz
+(11:27:06) Banks_QLT failed Fly check | suspicious movement: 0.42 vel: -0.078 pred: -0.078 (jump) (+5) | vl:13 ping:67 tps:19.71 lp:14 component: fly.jmp
+(11:27:52) xxxoo123 failed Speed check | suspicious movement (move: 0.241, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:56 tps:19.99 lp:2 component: speed.main
+(11:28:03) xxxoo123 failed Speed check | suspicious movement (move: 0.245, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:53 tps:20.0 lp:1 component: speed.main
+(11:28:12) xxxoo123 failed KillAura check | critical hit without correct jumping | tag: mini-jump | d:0.395575898673286 (+5) | vl:5 ping:55 tps:20.0 lp:2 component: ka.critical.hop
+(11:28:13) xxxoo123 failed Fly check | suspicious movement:0.086 predict:-0.078 air:6 tag:dmf (+10) | vl:10 ping:55 tps:20.0 lp:2 component: fly.main
+(11:28:13) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:6 ping:55 tps:20.0 lp:2 component: ka.one.2
+(11:28:16) xxxoo123 failed Fly check | suspicious movement:0.233 predict:-0.781 air:12 tag:dmf (+10) | vl:10 ping:55 tps:19.99 lp:2 component: fly.main
+(11:30:30) xxxoo123 failed Speed check | suspicious movement (move: 0.275, expect:0.177, t:17, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:9 ping:54 tps:20.0 lp:11 component: speed.main
+(11:30:30) xxxoo123 failed Speed check | suspicious movement (move: 0.278, expect:0.177, t:18, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:18 ping:54 tps:20.0 lp:11 component: speed.main
+(11:30:30) xxxoo123 failed Speed check | suspicious movement (move: 0.278, expect:0.177, t:19, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:27 ping:54 tps:20.0 lp:11 component: speed.main
+(11:30:30) xxxoo123 failed Speed check | suspicious movement (move: 0.278, expect:0.177, t:20, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:36 ping:54 tps:20.0 lp:11 component: speed.main
+(11:30:30) xxxoo123 failed Speed check | suspicious movement (move: 0.279, expect:0.177, t:21, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:45 ping:54 tps:20.0 lp:11 component: speed.main
+(11:30:30) xxxoo123 failed Speed check | suspicious movement (move: 0.278, expect:0.177, t:31, sprint: true, attr: 0.13, tag: a,noslow) (+9) | vl:54 ping:54 tps:20.0 lp:9 component: speed.main
+(11:31:02) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:55 tps:20.0 lp:33 component: ka.one.2
+(11:31:02) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:2 ping:55 tps:20.0 lp:33 component: ka.one.2
+(11:31:02) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:3 ping:55 tps:20.0 lp:33 component: ka.one.2
+(11:32:31) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 599 diff: 5 (+6) | vl:6 ping:57 tps:20.0 lp:1 component: ka.ac.9p
+(11:32:51) xxxoo123 failed Fly check | suspicious movement: 0.42 vel: -0.078 pred: -0.228 (jump) (+5) | vl:5 ping:55 tps:20.0 lp:4 component: fly.jmp
+(11:34:19) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:53 tps:20.0 lp:1 component: interact.through
+(11:35:03) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:50 tps:19.99 lp:20 component: interact.through
+(11:35:10) xxxoo123 failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:2 ping:53 tps:20.0 lp:16 component: interact.through
+(11:36:18) xxxoo123 failed Interact check | interact block through solid (through: SOUL_SAND, block:CHEST) (+1) | vl:1 ping:55 tps:19.99 lp:6 component: interact.through
+(11:38:03) EnderXlop failed Speed check | suspicious movement (move: 0.247, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:78 tps:20.0 lp:3 component: speed.main
+(11:38:12) Banks_QLT failed Phase check | moved into block (block: stone, move: 0.036,0.0,0.0, at: -816.285,44.0,653.3, dist: 0.036, loop: false) (+2) | vl:2 ping:59 tps:20.0 lp:33 component: phase.main
+(11:39:17) ForkNort failed Chat check | send the same chat content (+1) | vl:1 ping:53 tps:20.0 lp:17 component: chat.same
+(11:39:27) ForkNort failed Chat check | send the same chat content (+1) | vl:2 ping:58 tps:20.0 lp:17 component: chat.same
+(11:40:34) EnderXlop failed Speed check | suspicious movement (move: 0.248, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:89 tps:20.0 lp:1 component: speed.main
+(11:40:40) Banks_QLT failed Speed check | t: spin (+10) | vl:10 ping:66 tps:20.0 lp:2 component: speed.spin
+(11:41:33) xxxoo123 failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:55 tps:19.99 lp:6 component: interact.through
+(11:41:57) NeKotov failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -857.451,85.494,553.96, type: air, pkt: true) (+5) | vl:5 ping:0 tps:20.0 lp:0 component: fly.gf
+(11:43:04) EnderXlop failed Speed check | suspicious movement (move: 0.249, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:76 tps:19.99 lp:2 component: speed.main
+(11:43:04) EnderXlop failed Speed check | suspicious movement (move: 0.231, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:76 tps:19.99 lp:2 component: speed.main
+(11:43:20) EnderXlop failed Speed check | suspicious movement (move: 0.255, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:80 tps:20.0 lp:1 component: speed.main
+(11:48:13) 21WERICOS21 failed Speed check | sprint with weird direction (dist: 0.279, angle:113.917) (+5) | vl:5 ping:27 tps:20.0 lp:41 component: speed.sprint
+(11:48:13) 21WERICOS21 failed Speed check | sprint with weird direction (dist: 0.282, angle:114.579) (+5) | vl:10 ping:27 tps:20.0 lp:41 component: speed.sprint
+(11:50:06) ForkNort failed HitBox check | missed entity hitbox (entity: skeleton, angle: 40.129, move: true) (+1) | vl:1 ping:50 tps:20.0 lp:9 component: hb.mis
+(11:51:20) 21WERICOS21 failed Jesus check | suspicious movement in liquid (motion: 0.009, pre: 0.004, modules: p9) (+5) | vl:5 ping:26 tps:20.0 lp:6 component: jesus.p9
+(11:51:45) Banks_QLT failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:82 tps:19.99 lp:15 component: interact.through
+(11:51:48) 21WERICOS21 failed Speed check | suspicious movement (move: 0.146, predict: 0.125, friction: 0.6, ground:false, motY: 0.04, increase:0.026, preMove:0.099, motion: -0.068,0.04,0.129, attribute: 0.13, tag: pred) (+5) | vl:5 ping:37 tps:20.0 lp:3 component: move.xz
+(11:52:34) ForkNort failed FastBow check | fast bow (+1) | vl:1 ping:65 tps:20.0 lp:20 component: fastbow
+(11:52:45) xxxoo123 failed Phase check | moved into block (block: spruce_door, move: 0.05,0.0,-0.152, at: -817.25,44.0,661.349, dist: 0.16, loop: false) (+2) | vl:2 ping:60 tps:20.0 lp:8 component: phase.main
+(11:53:08) TheBustWanDoy_ failed Chat check | send the same chat content (+1) | vl:1 ping:50 tps:20.0 lp:27 component: chat.same
+(11:53:36) 21WERICOS21 failed Block check | no swing after place block | WOOD_STEP (+1) | vl:1 ping:31 tps:19.9 lp:16 component: block.noswing
+(11:53:41) xxxoo123 failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -818.44,50.043,659.739, type: air, pkt: true) (+5) | vl:5 ping:65 tps:19.95 lp:8 component: fly.gf
+(11:53:50) xxxoo123 failed FastBow check | fast bow (+1) | vl:1 ping:56 tps:20.0 lp:23 component: fastbow
+(11:54:31) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:45 tps:20.0 lp:7 component: interact.through
+(11:54:49) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:28 tps:20.0 lp:8 component: interact.through
+(11:56:35) xxxoo123 failed Speed check | suspicious movement (move: 0.257, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:54 tps:19.96 lp:1 component: speed.main
+(11:56:35) xxxoo123 failed Speed check | suspicious movement (move: 0.238, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:54 tps:19.96 lp:1 component: speed.main
+(12:02:09) Banks_QLT failed Fly check | suspicious movement:0.168 predict:-0.078 air:6 tag:dmf (+10) | vl:10 ping:18 tps:20.0 lp:5 component: fly.main
+(12:02:35) Banks_QLT failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:70 tps:20.0 lp:5 component: interact.through
+(12:03:11) TheBustWanDoy_ failed Chat check | send the same chat content (+1) | vl:1 ping:47 tps:19.99 lp:10 component: chat.same
+(12:03:36) TheBustWanDoy_ failed Chat check | send the same chat content (+1) | vl:1 ping:45 tps:20.0 lp:13 component: chat.same
+(12:03:53) xxxoo123 failed Speed check | suspicious movement (move: 0.609, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:54 tps:20.0 lp:2 component: speed.main
+(12:03:53) xxxoo123 failed Speed check | suspicious movement (move: 0.609, predict: 0.411, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.281, motion: -0.428,0.0,-0.433, attribute: 0.13, tag: pred) (+5) | vl:13 ping:54 tps:20.0 lp:2 component: move.xz
+(12:04:28) xxxoo123 failed Fly check | suspicious movement:-0.098 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.42 air_t:8 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:52 tps:20.0 lp:1 component: fly.main
+(12:04:28) xxxoo123 failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:0.333 air_t:9 fall_t:2 g:-- tag:gn (+5) | vl:10 ping:52 tps:20.0 lp:1 component: fly.main
+(12:04:28) xxxoo123 failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:0.248 air_t:10 fall_t:3 g:-- tag:gn (+5) | vl:15 ping:52 tps:20.0 lp:1 component: fly.main
+(12:04:39) Banks_QLT failed Interact check | breaking a block without looking at it (block: WEB) (+1) | vl:1 ping:67 tps:20.0 lp:9 component: interact.break
+(12:04:39) Banks_QLT failed Interact check | break block through walls (through: stone, block: web) (+1) | vl:2 ping:67 tps:20.0 lp:9 component: interact.break
+(12:05:29) Banks_QLT failed Fly check | suspicious movement:0.571 predict:-0.351 air:9 tag:dmf (+10) | vl:10 ping:66 tps:20.0 lp:19 component: fly.main
+(12:05:30) xxxoo123 failed KillAura check | critical hit without correct jumping | tag: mini-jump | d:0.20000004768371582 (+5) | vl:5 ping:53 tps:20.0 lp:1 component: ka.critical.hop
+(12:06:04) TheBustWanDoy_ failed Speed check | suspicious movement (move: 0.264, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:49 tps:20.0 lp:10 component: speed.main
+(12:06:04) TheBustWanDoy_ failed Speed check | suspicious movement (move: 0.245, expect: 0.23, tag: ea,noslow) (+5) | vl:10 ping:49 tps:20.0 lp:10 component: speed.main
+(12:08:32) TheBustWanDoy_ failed Speed check | suspicious movement (move: 0.256, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:65 tps:20.0 lp:10 component: speed.main
+(12:08:34) xxxoo123 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:53 tps:19.93 lp:16 component: interact.through
+(12:09:42) Banks_QLT failed Fly check | suspicious movement: -0.02/0.032 vel: 0.0 tag:nc (+2) | vl:2 ping:91 tps:20.0 lp:11 component: fly.main
+(12:11:18) AiStop08 failed Inventory check | inventory move | simple | d: 0.276 (+2) | vl:2 ping:119 tps:20.0 lp:8 component: inv.move
+(12:11:18) AiStop08 failed Inventory check | inventory move | simple | d: 0.279 (+2) | vl:4 ping:119 tps:20.0 lp:8 component: inv.move
+(12:11:18) AiStop08 failed Inventory check | inventory move | simple | d: 0.275 (+2) | vl:6 ping:119 tps:20.0 lp:8 component: inv.move
+(12:11:19) AiStop08 failed Inventory check | inventory move | simple | d: 0.279 (+2) | vl:8 ping:119 tps:20.0 lp:8 component: inv.move
+(12:11:19) AiStop08 failed Inventory check | inventory move | simple | d: 0.28 (+2) | vl:10 ping:119 tps:20.0 lp:8 component: inv.move
+(12:11:19) Execute command: matrix notify AiStop08 moved items in inventory too quickly (ChestSteal)
+(12:11:19) AiStop08 failed Inventory check | inventory move | simple | d: 0.28 (+2) | vl:12 ping:119 tps:20.0 lp:8 component: inv.move
+(12:11:31) AiStop08 failed Inventory check | inventory move | simple | d: 0.28 (+2) | vl:14 ping:83 tps:19.85 lp:8 component: inv.move
+(12:11:42) Banks_QLT failed Fly check | suspicious movement: -0.02/0.032 vel: 0.0 tag:nc (+2) | vl:2 ping:69 tps:19.99 lp:19 component: fly.main
+(12:11:44) TheBustWanDoy_ failed Chat check | chat too fast | delay: 0 (+1) | vl:1 ping:57 tps:19.99 lp:9 component: chat.delay
+(12:11:44) TheBustWanDoy_ failed Chat check | send the same chat content (+1) | vl:2 ping:57 tps:19.99 lp:9 component: chat.same
+(12:12:05) Banks_QLT failed Fly check | suspicious movement: -0.02/0.032 vel: 0.0 tag:nc (+2) | vl:2 ping:64 tps:20.0 lp:16 component: fly.main
+(12:12:10) 21WERICOS21 failed Fly check | suspicious movement: -0.02/0.032 vel: 0.0 tag:nc (+2) | vl:2 ping:33 tps:20.0 lp:12 component: fly.main
+(12:12:54) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:36 tps:19.99 lp:13 component: interact.through
+(12:12:57) TheBustWanDoy_ failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+15) | vl:15 ping:68 tps:20.0 lp:9 component: fly.bj
+(12:12:59) TheBustWanDoy_ failed Block check | no swing after place block | ANVIL (+1) | vl:1 ping:68 tps:20.0 lp:11 component: block.noswing
+(12:12:59) TheBustWanDoy_ failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+15) | vl:30 ping:68 tps:20.0 lp:11 component: fly.bj
+(12:13:00) TheBustWanDoy_ failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.302 air_t:12 tag:m4 (+10) | vl:40 ping:68 tps:19.99 lp:12 component: fly.main
+(12:13:00) TheBustWanDoy_ failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.302 pre:-0.152 (+15) | vl:55 ping:68 tps:19.99 lp:12 component: fly.bj
+(12:13:00) Execute command: matrix notify TheBustWanDoy_ tried to fly (Fly) #1
+(12:13:04) TheBustWanDoy_ failed Fly check | suspicious movement:0.396 predict:0.42 vel:-0.374 pre:0.0 (+15) | vl:70 ping:68 tps:20.0 lp:15 component: fly.bj
+(12:14:16) prafain failed Chat check | send the same chat content (+1) | vl:1 ping:22 tps:20.0 lp:13 component: chat.same
+(12:16:29) Banks_QLT failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:67 tps:20.0 lp:11 component: interact.through
+(12:17:45) RyffiYT failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:40 tps:19.99 lp:7 component: ka.one.2
+(12:20:15) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:34 tps:19.99 lp:9 component: interact.through
+(12:20:44) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:32 tps:19.99 lp:20 component: interact.through
+(12:21:11) Banks_QLT failed Chat check | send the same chat content (+1) | vl:1 ping:65 tps:20.0 lp:17 component: chat.same
+(12:21:29) Banks_QLT failed Chat check | send the same chat content (+1) | vl:1 ping:64 tps:20.0 lp:12 component: chat.same
+(12:22:29) 21WERICOS21 failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:230 tps:19.99 lp:8 component: interact.through
+(12:26:41) Mishka_youtuber failed HitBox check | missed entity hitbox (entity: skeleton, angle: 72.185, move: true) (+2) | vl:2 ping:81 tps:20.0 lp:30 component: hb.mis
+(12:26:45) Mishka_youtuber failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 657.7,76.177,-661.576, type: air, pkt: true) (+5) | vl:5 ping:81 tps:20.0 lp:14 component: fly.gf
+(12:28:55) Mishka_youtuber failed Speed check | sprint with weird direction (dist: 0.264, angle:103.95) (+5) | vl:5 ping:37 tps:19.99 lp:29 component: speed.sprint
+(12:29:43) _KILERBRO_ failed Speed check | t: spin (+10) | vl:10 ping:77 tps:19.99 lp:25 component: speed.spin
+(12:35:38) 21WERICOS21 failed Fly check | suspicious movement:0.417 predict:-0.228 air_t:8 e_t:5 tag:tk (+4) | vl:4 ping:34 tps:20.0 lp:19 component: fly.main
+(12:35:38) 21WERICOS21 failed Fly check | suspicious movement:0.417 predict:0.33 air_t:9 tag:sam (+5) | vl:9 ping:34 tps:20.0 lp:19 component: fly.main
+(12:35:38) 21WERICOS21 failed Fly check | suspicious movement:0.417 predict:0.33 air_t:9 e_t:5 tag:tk (+4) | vl:13 ping:34 tps:20.0 lp:19 component: fly.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, expect: 0.4065, tag: ea) (+5) | vl:5 ping:34 tps:20.0 lp:19 component: speed.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, expect: 0.4065, tag: ea) (+5) | vl:10 ping:34 tps:20.0 lp:19 component: speed.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, predict: 0.472, friction: 0.6, ground:false, motY: 0.417, increase:0.026, preMove:0.446, motion: 0.437,0.417,-0.221, attribute: 0.13, tag: pred) (+5) | vl:15 ping:34 tps:20.0 lp:19 component: move.xz
+(12:35:38) 21WERICOS21 failed Fly check | suspicious movement:0.417 predict:0.33 vel:-0.231 air_t:12 tag:m4 (+10) | vl:23 ping:34 tps:20.0 lp:19 component: fly.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, expect: 0.4065, tag: ea) (+5) | vl:20 ping:34 tps:20.0 lp:15 component: speed.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (0.49, air_t: 12, lm:0.0 acc: 0.4900000677198876, tag: ed) (+15) | vl:35 ping:34 tps:20.0 lp:15 component: speed.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, predict: 0.026, friction: 0.6, ground:false, motY: 0.417, increase:0.026, preMove:0.0, motion: 0.436,0.417,-0.223, attribute: 0.13, tag: pred) (+5) | vl:40 ping:34 tps:20.0 lp:15 component: move.xz
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, expect: 0.4065, tag: ea) (+5) | vl:45 ping:34 tps:20.0 lp:15 component: speed.main
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (0.49, air_t: 12, lm:0.0 acc: 0.4900000902474848, tag: ed) (+15) | vl:60 ping:34 tps:20.0 lp:15 component: speed.main
+(12:35:38) Execute command: matrix notify 21WERICOS21 tried to move faster than usual (Speed) #1
+(12:35:38) 21WERICOS21 failed Speed check | suspicious movement (move: 0.49, predict: 0.026, friction: 0.6, ground:false, motY: 0.417, increase:0.026, preMove:0.0, motion: 0.437,0.417,-0.222, attribute: 0.13, tag: pred) (+5) | vl:65 ping:34 tps:20.0 lp:15 component: move.xz
+(12:35:39) 21WERICOS21 failed Speed check | suspicious movement (move: 0.961, expect: 0.4065, tag: ea) (+5) | vl:70 ping:34 tps:20.0 lp:15 component: speed.main
+(12:35:39) 21WERICOS21 failed Speed check | suspicious movement (0.961, air_t: 12, lm:0.0 acc: 0.9613801545189093, tag: ed) (+15) | vl:85 ping:34 tps:20.0 lp:15 component: speed.main
+(12:35:39) 21WERICOS21 failed Speed check | suspicious movement (move: 0.961, predict: 0.026, friction: 0.6, ground:false, motY: 0.747, increase:0.026, preMove:0.0, motion: 0.858,0.747,-0.434, attribute: 0.13, tag: pred) (+5) | vl:90 ping:34 tps:20.0 lp:15 component: move.xz
+(12:35:39) Execute command: matrix notify 21WERICOS21 tried to move faster than usual (Speed) #2
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.228 air_t:8 e_t:5 tag:tk (+4) | vl:27 ping:35 tps:20.0 lp:19 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:9 e_t:5 tag:tk (+4) | vl:31 ping:35 tps:20.0 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:10 e_t:5 tag:tk (+4) | vl:35 ping:35 tps:20.0 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:11 e_t:5 tag:tk (+4) | vl:39 ping:35 tps:20.0 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 e_t:5 tag:tk (+4) | vl:43 ping:35 tps:20.0 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 e_t:5 tag:tk (+4) | vl:47 ping:35 tps:20.0 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078/-0.715 air_t:12 s:false tag:m1 (+15) | vl:62 ping:35 tps:20.0 lp:15 component: fly.main
+(12:35:44) Execute command: matrix notify 21WERICOS21 tried to fly (Fly) #1
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 e_t:5 tag:tk (+4) | vl:66 ping:35 tps:19.99 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078/-0.779 air_t:12 s:false tag:m1 (+15) | vl:81 ping:35 tps:19.99 lp:15 component: fly.main
+(12:35:44) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 e_t:5 tag:tk (+4) | vl:85 ping:35 tps:19.99 lp:15 component: fly.main
+(12:35:47) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.374 air_t:10 e_t:5 tag:tk (+4) | vl:49 ping:35 tps:20.0 lp:14 component: fly.main
+(12:35:47) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:11 e_t:5 tag:tk (+4) | vl:53 ping:35 tps:20.0 lp:14 component: fly.main
+(12:35:47) Execute command: matrix notify 21WERICOS21 tried to fly (Fly) #1
+(12:35:48) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078/-0.779 air_t:12 s:false tag:m1 (+15) | vl:68 ping:35 tps:20.0 lp:14 component: fly.main
+(12:35:48) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 e_t:5 tag:tk (+4) | vl:72 ping:35 tps:20.0 lp:14 component: fly.main
+(12:35:50) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.302 air_t:9 e_t:5 tag:tk (+4) | vl:76 ping:35 tps:19.97 lp:16 component: fly.main
+(12:35:52) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.152 air_t:7 e_t:5 tag:tk (+4) | vl:80 ping:35 tps:20.0 lp:21 component: fly.main
+(12:35:54) 21WERICOS21 failed Fly check | suspicious movement:0.0 predict:-0.374 air_t:10 e_t:5 tag:tk (+4) | vl:84 ping:29 tps:20.0 lp:18 component: fly.main
+(12:37:44) cola_x failed Fly check | suspicious movement:0.333 predict:0.17 vel:0.248 air_t:3 tag:vt (+5) | vl:5 ping:66 tps:20.0 lp:19 component: fly.main
+(12:38:31) Banks_QLT failed Fly check | suspicious movement: 0.0/0.122 vel: -0.228 tag:nc (+2) | vl:2 ping:63 tps:20.0 lp:7 component: fly.main
+(12:40:13) 21WERICOS21 failed Phase check | moved into block (block: netherrack, move: -0.078,0.0,0.059, at: -202.614,91.0,225.739, dist: 0.098, loop: false) (+2) | vl:2 ping:25 tps:19.85 lp:13 component: phase.main
+(12:40:22) cola_x failed Interact check | breaking a block without looking at it (block: LEAVES) (+1) | vl:1 ping:55 tps:19.83 lp:10 component: interact.break
+(12:40:22) cola_x failed Interact check | break block through walls (through: leaves, block: leaves) (+1) | vl:2 ping:55 tps:19.83 lp:10 component: interact.break
+(12:40:47) 21WERICOS21 failed Interact check | break block through walls (through: glowstone, block: glowstone) (+1) | vl:1 ping:27 tps:20.0 lp:21 component: interact.break
+(12:40:52) Banks_QLT failed Phase check | moved into block (block: netherrack, move: 0.093,0.0,0.18, at: -174.547,90.0,305.703, dist: 0.202, loop: false) (+2) | vl:2 ping:71 tps:20.0 lp:20 component: phase.main
+(12:42:44) _KILERBRO_ failed Speed check | t: spin (+10) | vl:10 ping:73 tps:20.0 lp:37 component: speed.spin
+(12:42:51) _KILERBRO_ failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:75 tps:19.98 lp:23 component: ka.one.2
+(12:43:01) _KILERBRO_ failed HitBox check | missed entity hitbox (entity: enderman, angle: 100.115, move: true) (+2) | vl:2 ping:75 tps:20.0 lp:29 component: hb.mis
+(12:43:03) _KILERBRO_ failed Speed check | t: spin (+10) | vl:10 ping:75 tps:20.0 lp:28 component: speed.spin
+(12:43:37) cola_x failed Chat check | send the same chat content (+1) | vl:1 ping:59 tps:20.0 lp:5 component: chat.same
+(12:44:11) 21WERICOS21 failed KillAura check | critical hit without correct jumping | tag: mini-jump | d:0.395575898673286 (+5) | vl:5 ping:35 tps:20.0 lp:12 component: ka.critical.hop
+(12:45:02) Banks_QLT failed Fly check | suspicious movement:0.023 predict:-0.152 air:7 tag:dmf (+10) | vl:10 ping:68 tps:19.99 lp:7 component: fly.main
+(12:45:04) Banks_QLT failed HitBox check | missed entity hitbox (entity: pig_zombie, angle: 97.231, move: true) (+2) | vl:2 ping:73 tps:20.0 lp:9 component: hb.mis
+(12:45:20) RyffiYT failed Chat check | send the same chat content (+1) | vl:1 ping:930 tps:20.0 lp:8 component: chat.same
+(12:45:32) Banks_QLT failed KillAura check | (onehit) attack in an abnormal state (pattern: #04, val: -3.0) (+4) | vl:4 ping:73 tps:20.0 lp:8 component: ka.one.4
+(12:46:19) Banks_QLT failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:203 tps:20.0 lp:16 component: sfd.place.a
+(12:48:07) Banks_QLT failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -109.283,71.001,426.117, type: air, pkt: true) (+5) | vl:5 ping:79 tps:20.0 lp:4 component: fly.gf
+(12:48:58) Banks_QLT failed Fly check | ground spoof (expect: +-, move: 0.081,0.0,0.056, at: -111.698,71.0,425.399, type: air, pkt: false) (+5) | vl:5 ping:72 tps:20.0 lp:21 component: fly.gf
+(12:49:40) Banks_QLT failed Interact check | interact block through solid (through: GRASS, block:CHEST) (+1) | vl:1 ping:68 tps:19.97 lp:12 component: interact.through
+(12:50:30) Banks_QLT failed Velocity check | (analyser) knockback reducement (vx: 0.277, vz: 0.643, cs: 0.05386112156839304) (+3) | vl:3 ping:75 tps:20.0 lp:6 component: vel.ana
+(12:50:41) 21WERICOS21 failed Velocity check | (respond) ignore server velocity: 0.446,0.4,-0.542 (+5) | vl:5 ping:27 tps:20.0 lp:5 component: vel.expect
+(12:50:41) cola_x failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:55 tps:20.0 lp:4 component: sfd.place.a
+(12:51:11) cola_x failed FastHeal check | regen health too fast (difficulty: easy, delay: 0.235, ver: 12) (+2) | vl:2 ping:95 tps:20.0 lp:8 component: heal
+(12:51:41) cola_x failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:47 tps:20.0 lp:2 component: sfd.place.a
+(12:51:42) cola_x failed Scaffold check | scaffold-like placement | type A (+1) | vl:2 ping:47 tps:20.0 lp:2 component: sfd.place.a
+(12:53:08) Banks_QLT failed Fly check | suspicious movement:-0.646 predict:-0.078 lm:0.083 hard_pred:0.003 sev_pred:-0.152 air_t:5 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:10037 tps:20.0 lp:10 component: fly.main
+(12:53:08) Banks_QLT failed Fly check | suspicious movement: 0.42 vel: -0.078 pred: -0.712 (jump) (+5) | vl:10 ping:10037 tps:20.0 lp:14 component: fly.jmp
+(12:53:26) xxxoo123 failed KillAura check | (onehit) attack in an abnormal state (pattern: #02, val: -+-) (+1) | vl:1 ping:54 tps:20.0 lp:5 component: ka.one.2
+(12:53:44) 21WERICOS21 failed HitBox check | missed player hitbox (raytrace: 9/16 positions, lag: 8, prep: true) (+2) | vl:2 ping:27 tps:20.0 lp:8 component: hb.mis
+(12:54:08) cola_x failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:51 tps:20.0 lp:3 component: sfd.place.a
+(12:54:11) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 197, d_n: 0.87, d_h: 0.867, avg: 209.0, block: true) (+2) | vl:3 ping:51 tps:20.0 lp:4 component: sfd.twr
+(12:54:47) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 100, d_n: 0.961, d_h: 0.927, avg: 239.0, block: true) (+2) | vl:2 ping:59 tps:19.99 lp:5 component: sfd.twr
+(12:54:48) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 301, d_n: 1.124, d_h: 1.121, avg: 280.0, block: true) (+2) | vl:4 ping:59 tps:20.0 lp:4 component: sfd.twr
+(12:54:53) cola_x failed Jesus check | liquid speed (speed: 0.128, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:47 tps:19.94 lp:5 component: jesus.speed.in
+(12:54:53) cola_x failed Jesus check | liquid speed (speed: 0.122, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:6 ping:47 tps:19.94 lp:5 component: jesus.speed.in
+(12:54:55) cola_x failed Jesus check | suspicious movement in liquid (motion: 0.004, pre: 0.0, modules: p9) (+5) | vl:11 ping:47 tps:20.0 lp:3 component: jesus.p9
+(12:55:01) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 151, d_n: 0.914, d_h: 0.626, avg: 269.0, block: true) (+2) | vl:2 ping:47 tps:20.0 lp:15 component: sfd.twr
+(12:55:01) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 100, d_n: 0.977, d_h: 0.945, avg: 230.0, block: true) (+2) | vl:4 ping:47 tps:20.0 lp:15 component: sfd.twr
+(12:55:02) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 552, d_n: 1.038, d_h: 0.986, avg: 240.0, block: true) (+2) | vl:6 ping:47 tps:20.0 lp:15 component: sfd.twr
+(12:55:14) cola_x failed Fly check | suspicious movement:-0.103 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:0.0 air_t:8 fall_t:3 g:-- tag:gn (+5) | vl:5 ping:56 tps:20.0 lp:2 component: fly.main
+(12:55:15) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 102, d_n: 1.041, d_h: 1.011, avg: 290.0, block: true) (+2) | vl:8 ping:56 tps:20.0 lp:2 component: sfd.twr
+(12:55:15) cola_x failed Scaffold check | (tower) quickly build blocks up (t: 101, d_n: 1.091, d_h: 1.042, avg: 250.0, block: true) (+2) | vl:10 ping:56 tps:20.0 lp:2 component: sfd.twr
+(12:55:15) Execute command: matrix notify cola_x tried to bridge blocks quickly (Scaffold)
+(12:55:16) 21WERICOS21 failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:27 tps:20.0 lp:5 component: interact.through
+(12:56:41) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:28 tps:20.0 lp:10 component: interact.through
+(12:57:13) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:28 tps:20.0 lp:6 component: interact.through
+(12:57:45) Banks_QLT failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:69 tps:19.99 lp:14 component: interact.through
+(12:59:23) xxxoo123 failed Phase check | moved into block (block: leaves, move: 0.0,0.083,0.0, at: -821.341,70.249,657.353, dist: 0.0, loop: false) (+2) | vl:2 ping:61 tps:19.99 lp:24 component: phase.main
+(12:59:23) xxxoo123 failed Phase check | moved into block (block: leaves, move: 0.0,0.083,0.0, at: -821.341,70.249,657.353, dist: 0.0, loop: false) (+2) | vl:4 ping:61 tps:19.99 lp:20 component: phase.main
+(12:59:24) xxxoo123 failed Phase check | moved into block (block: leaves, move: 0.0,0.083,0.0, at: -821.341,70.249,657.353, dist: 0.0, loop: false) (+2) | vl:6 ping:61 tps:20.0 lp:20 component: phase.main
+(12:59:39) 21WERICOS21 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:36 tps:20.0 lp:5 component: interact.through
+(12:59:45) xxxoo123 failed Speed check | suspicious movement (move: 0.266, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:54 tps:20.0 lp:1 component: speed.main
+(13:00:25) xxxoo123 failed Fly check | suspicious movement:0.42 predict:-0.445 air:11 tag:dmf (+10) | vl:10 ping:65 tps:20.0 lp:3 component: fly.main
+(13:00:52) owowow failed Speed check | t: spin (+10) | vl:10 ping:129 tps:19.99 lp:37 component: speed.spin
+(13:02:03) xxxoo123 failed Inventory check | t: chest steal m:pka d:149 (+1) | vl:1 ping:49 tps:20.0 lp:2 component: inv.cs.c
+(13:02:11) LeaderQGlex failed Speed check | suspicious movement (move: 0.422, expect: 0.4065, tag: ea) (+5) | vl:5 ping:72 tps:20.0 lp:2 component: speed.main
+(13:02:11) LeaderQGlex failed Fly check | suspicious movement:0.263 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:5 ping:72 tps:20.0 lp:2 component: fly.main
+(13:02:37) ZabiF_So_Dwor_ failed KillAura check | (npc) force field (+5) | vl:5 ping:162 tps:20.0 lp:2 component: ka.ff
+(13:03:39) Banks_QLT failed Fly check | suspicious movement:0.086 predict:-0.078 air:6 tag:dmf (+10) | vl:10 ping:65 tps:19.99 lp:11 component: fly.main
+(13:04:13) 21WERICOS21 failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -817.113,64.937,665.761, type: air, pkt: true) (+5) | vl:5 ping:28 tps:19.99 lp:31 component: fly.gf
+(13:04:14) 21WERICOS21 failed BadPackets check | (timer) send 51 moving packets in 1012ms | tag: limit (+10) | vl:10 ping:28 tps:19.99 lp:31 component: net.timer
+(13:04:14) 21WERICOS21 failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -817.113,64.937,665.761, type: air, pkt: true) (+5) | vl:10 ping:28 tps:19.99 lp:31 component: fly.gf
+(13:04:14) 21WERICOS21 failed Speed check | suspicious movement (move: 3.539, expect: 0.6165, tag: ea) (+20) | vl:20 ping:28 tps:19.99 lp:31 component: speed.main
+(13:04:14) 21WERICOS21 failed Speed check | suspicious movement (move: 3.539, predict: 0.36, friction: 0.6, ground:false, motY: -1.937, increase:0.026, preMove:0.334, motion: -1.5,-1.937,3.205, attribute: 0.13, tag: pred) (+5) | vl:25 ping:28 tps:19.99 lp:31 component: move.xz
+(13:04:17) LeaderQGlex failed Fly check | ground spoof (expect: +-, move: -0.05,0.0,-0.272, at: -147.621,77.0,78.514, type: air, pkt: false) (+5) | vl:5 ping:81 tps:20.0 lp:4 component: fly.gf
+(13:04:33) xxxoo123 failed Speed check | suspicious movement (move: 0.24, expect: 0.23, tag: ea,noslow) (+5) | vl:5 ping:54 tps:20.0 lp:1 component: speed.main
+(13:04:42) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 4 (+6) | vl:6 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:42) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 2 (+6) | vl:12 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:42) Execute command: matrix npc xxxoo123 100
+(13:04:43) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 1 (+6) | vl:18 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:43) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 2 (+6) | vl:24 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:43) Execute command: matrix notify xxxoo123 might be using combat hacks (KillAura)
+(13:04:44) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 4 (+6) | vl:30 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:44) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 549 diff: 5 (+6) | vl:36 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:44) Execute command: matrix notify xxxoo123 is using combat hacks (KillAura) #2
+(13:04:45) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 6 (+6) | vl:42 ping:53 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:48) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 5 (+6) | vl:48 ping:53 tps:19.99 lp:1 component: ka.ac.9p
+(13:04:48) Execute command: matrix delay 12 matrix kick xxxoo123 KillAura
+(13:04:48) Owner_GG failed Velocity check | (respond) ignore server velocity: 0.373,0.361,-0.166 (+5) | vl:5 ping:14 tps:19.99 lp:1 component: vel.expect
+(13:04:56) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 549 diff: 5 (+6) | vl:39 ping:54 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:56) Execute command: matrix notify xxxoo123 is using combat hacks (KillAura) #2
+(13:04:57) xxxoo123 failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 550 diff: 4 (+6) | vl:45 ping:54 tps:20.0 lp:1 component: ka.ac.9p
+(13:04:57) Execute command: matrix delay 12 matrix kick xxxoo123 KillAura
+(22:44:40) Matrix Enabled!
+(22:44:40) Version: 5.1.7
+(23:00:54) Matrix Enabled!
+(23:00:54) Version: 5.1.7
+(23:45:01) _KILERBRO_ failed Jesus check | suspicious movement in liquid (motion: 0.0,-0.078,0.0, down: STATIONARY_WATER, vel: -1.602, module: solid) (+5) | vl:5 ping:659 tps:20.0 lp:10 component: jesus.solid

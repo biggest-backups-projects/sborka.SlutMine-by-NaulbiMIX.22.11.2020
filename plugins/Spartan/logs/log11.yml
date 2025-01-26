@@ -1,0 +1,18 @@
+(1)[2020/11/20 23:02:32]: '[Spartan Build 338-12345/987654321] Pepsimaks failed Speed
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 11ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 7), (t: normal, reason: air, d: 1.590309217731146,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(2)[2020/11/20 23:02:35]: '[Spartan Build 338-12345/987654321] Pepsimaks failed Speed
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 11ms), (TPS: 20.0), (Plib:
+  true), (Async: false), (Online: 7), (t: normal, reason: air, d: 1.6885784239681254,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(3)[2020/11/20 23:05:47]: '(False Positive) [Spartan Build 338-12345/987654321] TOP_PVP_NA_YT
+  failed Jesus (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 188ms),
+  (TPS: 19.94), (Plib: true), (Async: false), (Online: 6), (t: upwards(after), dy:
+  0.21560001587867816, l: 0.17)]'
+(4)[2020/11/20 23:12:51]: '[Spartan Build 338] TOP_PVP_NA_YT has been considered a
+  legitimate player and is exempted from all checks.'
+(5)[2020/11/20 23:12:51]: '[Spartan Build 338] Mishka_youtuber has been considered
+  a legitimate player and is exempted from all checks.'
+(6)[2020/11/20 23:12:51]: '[Spartan Build 338] Apostal has been considered a legitimate
+  player and is exempted from all checks.'

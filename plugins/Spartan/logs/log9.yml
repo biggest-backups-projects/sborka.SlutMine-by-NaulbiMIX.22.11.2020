@@ -1,0 +1,1693 @@
+(1)[2020/11/20 18:33:25]: '[Spartan Build 338-12345/987654321] Qwert1397 failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 161ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 6), (t: ratio, b: 11)]'
+(2)[2020/11/20 18:39:18]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 10), (t: normal, reason: ground, d: 0.47997727683035885,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(3)[2020/11/20 18:39:18]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 10), (t: normal, reason: ground, d: 0.47997727683035885,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(4)[2020/11/20 18:39:18]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 10), (t: normal, reason: air, d: 0.46225933383486567,
+  dm: 0.3675, dm_s: 0.3675, a: 1)]'
+(5)[2020/11/20 18:41:09]: '[Spartan Build 338-12345/987654321] Itachiii failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 9)]'
+(6)[2020/11/20 18:42:02]: '[Spartan Build 338-12345/987654321] ItzDerix failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 13ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 11), (t: normal, reason: ground, d: 0.42373596361031074,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(7)[2020/11/20 18:42:41]: '[Spartan Build 338-12345/987654321] Qwert1397 failed Fly
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 79ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 11), (t: neutral, d: 0.026999998092648525,
+  r: 0.9019999980926485, od: -0.026999998092648525, ds: 0.05399999618529705, a: 26,
+  i: true, c: 1)]'
+(8)[2020/11/20 18:42:42]: '[Spartan Build 338-12345/987654321] Qwert1397 failed Fly
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 79ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 11), (t: neutral, d: -0.026999998092648525,
+  r: 0.875, od: 0.026999998092648525, ds: 0.05399999618529705, a: 41, i: true, c:
+  4)]'
+(9)[2020/11/20 18:42:46]: '(False Positive) [Spartan Build 338-12345/987654321] BeJluKuu_0Leg
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  31ms), (TPS: 19.89), (Plib: true), (Async: false), (Online: 11), (t: jump(unusual),
+  d: 0.4166666666666714, a: 11, r: 0.41186754367259937)]'
+(10)[2020/11/20 18:42:46]: '[Spartan Build 338-12345/987654321] BeJluKuu_0Leg failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 11), (t: normal, reason: air, d: 3.761647602232152,
+  dm: 0.3675, dm_s: 0.3675, a: 11)]'
+(11)[2020/11/20 18:42:46]: '[Spartan Build 338-12345/987654321] BeJluKuu_0Leg failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 11), (t: air(decreased), d: 0.49000001982921)]'
+(12)[2020/11/20 18:42:46]: '[Spartan Build 338-12345/987654321] BeJluKuu_0Leg failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 11), (t: normal, reason: air, d: 0.98000003965842,
+  dm: 0.3675, dm_s: 0.3675, a: 1)]'
+(13)[2020/11/20 18:43:03]: '(False Positive) [Spartan Build 338-12345/987654321] BeJluKuu_0Leg
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 41ms), (TPS:
+  19.99), (Plib: true), (Async: false), (Online: 10), (t: normal, reason: air, d:
+  3.374004102936955, dm: 0.3675, dm_s: 0.3675, a: 11)]'
+(14)[2020/11/20 18:43:03]: '[Spartan Build 338-12345/987654321] BeJluKuu_0Leg failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 41ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 10), (t: air(decreased), d: 0.4899868234674457)]'
+(15)[2020/11/20 18:43:14]: '[Spartan Build 338-12345/987654321] Qwert1397 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 98ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 10), (t: delay, ct: 18, ms: 1)]'
+(16)[2020/11/20 18:43:15]: '[Spartan Build 338-12345/987654321] Qwert1397 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 98ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 10), (t: instant, a: 20, l: false)]'
+(17)[2020/11/20 18:43:15]: '[Spartan Build 338-12345/987654321] Qwert1397 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 98ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 10), (t: difference, c: 9.57869998084493,
+  n: 2.1768176021658725, d: 7.401882378679057, t: 25, l: 1.5, p: true)]'
+(18)[2020/11/20 18:43:21]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Clip (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 44ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 10), (t: instant, d: 1.5849032225860924,
+  l: 1.35, r: down, a: 9)]'
+(19)[2020/11/20 18:43:21]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 44ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 10), (t: normal, reason: walking, d: 0.4003094434738159,
+  dm: 0.292, dm_s: 0.292, a: 1)]'
+(20)[2020/11/20 18:43:21]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 44ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 10), (t: normal, reason: walking, d: 0.4799561006729861,
+  dm: 0.292, dm_s: 0.292, a: 2)]'
+(21)[2020/11/20 18:43:21]: '[Spartan Build 338-12345/987654321] MRLauncher_45321 failed
+  Clip (VL: 2) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 44ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 10), (t: instant, d: 1.632575790087401, l:
+  1.35, r: down, a: 3)]'
+(22)[2020/11/20 18:45:11]: '[Spartan Build 338-12345/987654321] cola_x failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 57ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 12), (t: ratio, b: 12)]'
+(23)[2020/11/20 18:46:57]: '(False Positive) [Spartan Build 338-12345/987654321] BeJluKuu_0Leg
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 33ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 11), (t: ratio, b: 4)]'
+(24)[2020/11/20 18:47:02]: '(False Positive) [Spartan Build 338-12345/987654321] BeJluKuu_0Leg
+  failed Jesus (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 33ms), (TPS:
+  19.97), (Plib: true), (Async: false), (Online: 11), (t: upwards(after), dy: 0.21560001587867816,
+  l: 0.17)]'
+(25)[2020/11/20 18:48:38]: '[Spartan Build 338] Qwert1397 has been considered a legitimate
+  player and is exempted from all checks.'
+(26)[2020/11/20 18:48:38]: '[Spartan Build 338] prafain_yt has been considered a legitimate
+  player and is exempted from all checks.'
+(27)[2020/11/20 18:48:38]: '[Spartan Build 338] vert123 has been considered a legitimate
+  player and is exempted from all checks.'
+(28)[2020/11/20 18:48:38]: '[Spartan Build 338] FakeEagle has been considered a legitimate
+  player and is exempted from all checks.'
+(29)[2020/11/20 18:48:38]: '[Spartan Build 338] 21WERICOS21 has been considered a
+  legitimate player and is exempted from all checks.'
+(30)[2020/11/20 18:50:38]: '[Spartan Build 338] Itachiii has been considered a legitimate
+  player and is exempted from all checks.'
+(31)[2020/11/20 18:51:46]: '[Spartan Build 338-12345/987654321] Horvex__ failed Sprint
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 123ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 13), (t: omnidirectional, d: backwards, l:
+  0.35)]'
+(32)[2020/11/20 18:52:26]: '[Spartan Build 338-12345/987654321] cola_x failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 25ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 15), (t: ratio, b: 11)]'
+(33)[2020/11/20 18:52:45]: '[Spartan Build 338-12345/987654321] Dencik_YT failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 41ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 15), (t: difference, c: 11.477991211430297,
+  n: 3.7548881405610377, d: 7.723103070869259, t: 26, l: 1.5, p: true)]'
+(34)[2020/11/20 18:54:14]: '(False Positive) [Spartan Build 338-12345/987654321] Horvex__
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 124ms),
+  (TPS: 19.99), (Plib: true), (Async: false), (Online: 14), (t: normal, reason: air,
+  d: 0.8346222334324895, dm: 0.3675, dm_s: 0.6675, a: 7)]'
+(35)[2020/11/20 18:56:37]: '[Spartan Build 338-12345/987654321] TheVusal failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 70ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 17), (t: difference, c: 10.561318936356805,
+  n: 1.474206123420108, d: 9.087112812936697, t: 30, l: 1.5, p: true)]'
+(36)[2020/11/20 18:56:44]: '(False Positive) [Spartan Build 338-12345/987654321] Dencik_YT
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 61ms),
+  (TPS: 19.92), (Plib: true), (Async: false), (Online: 17), (t: ratio, b: 5)]'
+(37)[2020/11/20 18:57:39]: '[Spartan Build 338] CMEPTb has been considered a legitimate
+  player and is exempted from all checks.'
+(38)[2020/11/20 18:58:15]: '[Spartan Build 338-12345/987654321] Vaneneuro failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 44ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 15), (t: ratio, b: 4)]'
+(39)[2020/11/20 19:01:40]: '[Spartan Build 338] ItzDerix has been considered a legitimate
+  player and is exempted from all checks.'
+(40)[2020/11/20 19:01:40]: '[Spartan Build 338] Horvex__ has been considered a legitimate
+  player and is exempted from all checks.'
+(41)[2020/11/20 19:02:33]: '[Spartan Build 338-12345/987654321] Rnon failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 79ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 15), (t: normal, reason: air, d: 0.5364830468340246,
+  dm: 0.525, dm_s: 0.525, a: 0)]'
+(42)[2020/11/20 19:04:22]: '(False Positive) [Spartan Build 338-12345/987654321] Dencik_YT
+  failed FastClicks (VL: 0) [(Version: 1.12), (C-V: 0) (Silent: true), (Ping: 60ms),
+  (TPS: 19.86), (Plib: true), (Async: false), (Online: 15), (t: cps, l: 15, cl: 15,
+  tm: 53)]'
+(43)[2020/11/20 19:04:23]: '[Spartan Build 338-12345/987654321] Dencik_YT failed FastClicks
+  (VL: 1) [(Version: 1.12), (C-V: 0) (Silent: true), (Ping: 60ms), (TPS: 19.84), (Plib:
+  true), (Async: false), (Online: 15), (t: click-consistency, c: 55, p: 53, m: 2)]'
+(44)[2020/11/20 19:04:26]: '[Spartan Build 338-12345/987654321] Dencik_YT failed GhostHand
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 60ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 15), (t: interact, c: trap-door, r: note-block)]'
+(45)[2020/11/20 19:06:46]: '[Spartan Build 338-12345/987654321] MrGuffik failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.96), (Plib:
+  true), (Async: false), (Online: 17), (t: normal, reason: air, d: 2.0139987729821724,
+  dm: 0.525, dm_s: 0.525, a: 7)]'
+(46)[2020/11/20 19:08:05]: '(False Positive) [Spartan Build 338-12345/987654321] Dencik_YT
+  failed FastClicks (VL: 0) [(Version: 1.12), (C-V: 0) (Silent: true), (Ping: 110ms),
+  (TPS: 19.77), (Plib: true), (Async: false), (Online: 17), (t: click-consistency,
+  c: 8, p: 48, m: 40)]'
+(47)[2020/11/20 19:08:05]: '[Spartan Build 338-12345/987654321] Dencik_YT failed FastClicks
+  (VL: 1) [(Version: 1.12), (C-V: 0) (Silent: true), (Ping: 110ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 17), (t: cps, l: 15, cl: 15, tm: 28)]'
+(48)[2020/11/20 19:08:09]: '(False Positive) [Spartan Build 338-12345/987654321] Vaneneuro
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 63ms),
+  (TPS: 19.84), (Plib: true), (Async: false), (Online: 17), (t: ratio, b: 5)]'
+(49)[2020/11/20 19:08:19]: '(False Positive) [Spartan Build 338-12345/987654321] Vaneneuro
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 58ms),
+  (TPS: 19.82), (Plib: true), (Async: false), (Online: 16), (t: ratio, b: 6)]'
+(50)[2020/11/20 19:10:11]: '(False Positive) [Spartan Build 338-12345/987654321] Vaneneuro
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 47ms), (TPS:
+  19.84), (Plib: true), (Async: false), (Online: 16), (t: normal, reason: air, d:
+  0.377592323658889, dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(51)[2020/11/20 19:14:48]: '[Spartan Build 338-12345/987654321] Rnon failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 168ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 11.080687664626657,
+  n: 7.003876000706812, d: 4.076811663919845, t: 25, l: 1.5, p: false)]'
+(52)[2020/11/20 19:14:49]: '[Spartan Build 338-12345/987654321] Serzhik08 failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 19)]'
+(53)[2020/11/20 19:14:52]: '[Spartan Build 338-12345/987654321] Serzhik08 failed NoFall
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 4)]'
+(54)[2020/11/20 19:15:16]: '[Spartan Build 338-12345/987654321] flyguyluis12 failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 47ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 24), (t: ratio, b: 6)]'
+(55)[2020/11/20 19:16:49]: '(False Positive) [Spartan Build 338-12345/987654321] Serzhik08
+  failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 86ms), (TPS:
+  19.95), (Plib: true), (Async: false), (Online: 20), (t: upwards(after), dy: 0.21560001587867816,
+  l: 0.17)]'
+(56)[2020/11/20 19:21:53]: '[Spartan Build 338-12345/987654321] Mishka_youtuber failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 52ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 21), (t: ratio, b: 4)]'
+(57)[2020/11/20 19:22:21]: '(False Positive) [Spartan Build 338-12345/987654321] Mishka_youtuber
+  failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 51ms), (TPS:
+  19.99), (Plib: true), (Async: false), (Online: 20), (t: upwards(after), dy: 0.21560001587867816,
+  l: 0.17)]'
+(58)[2020/11/20 19:24:24]: '(False Positive) [Spartan Build 338-12345/987654321] DimaToplo
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  18ms), (TPS: 19.99), (Plib: true), (Async: false), (Online: 21), (t: jump(unusual),
+  d: 0.4166666666666714, a: 3, r: 0.2500000000000142)]'
+(59)[2020/11/20 19:24:24]: '[Spartan Build 338-12345/987654321] DimaToplo failed Fly
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 18ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 21), (t: stable, d: -0.4166666666666714,
+  a: 6, r: 0.0)]'
+(60)[2020/11/20 19:24:25]: '(False Positive) [Spartan Build 338-12345/987654321] vert1237
+  failed Jesus (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 216ms),
+  (TPS: 19.99), (Plib: true), (Async: false), (Online: 21), (t: upwards(after), dy:
+  0.21560001587867816, l: 0.17)]'
+(61)[2020/11/20 19:26:31]: '[Spartan Build 338] prafain_yt has been considered a legitimate
+  player and is exempted from all checks.'
+(62)[2020/11/20 19:26:31]: '[Spartan Build 338] FakeEagle has been considered a legitimate
+  player and is exempted from all checks.'
+(63)[2020/11/20 19:26:31]: '[Spartan Build 338] Itachiii has been considered a legitimate
+  player and is exempted from all checks.'
+(64)[2020/11/20 19:26:31]: '[Spartan Build 338] cola_x has been considered a legitimate
+  player and is exempted from all checks.'
+(65)[2020/11/20 19:26:31]: '[Spartan Build 338] TeodoreMladshiy has been considered
+  a legitimate player and is exempted from all checks.'
+(66)[2020/11/20 19:26:31]: '[Spartan Build 338] ivankilinich1234 has been considered
+  a legitimate player and is exempted from all checks.'
+(67)[2020/11/20 19:26:31]: '[Spartan Build 338] _FoReL_YT has been considered a legitimate
+  player and is exempted from all checks.'
+(68)[2020/11/20 19:26:31]: '[Spartan Build 338] vert123 has been considered a legitimate
+  player and is exempted from all checks.'
+(69)[2020/11/20 19:26:31]: '[Spartan Build 338] Horvex__ has been considered a legitimate
+  player and is exempted from all checks.'
+(70)[2020/11/20 19:26:31]: '[Spartan Build 338] AndorikTV has been considered a legitimate
+  player and is exempted from all checks.'
+(71)[2020/11/20 19:27:31]: '[Spartan Build 338] 21WERICOS21 has been considered a
+  legitimate player and is exempted from all checks.'
+(72)[2020/11/20 19:27:31]: '(False Positive) [Spartan Build 338-12345/987654321] cTrAx000
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  44ms), (TPS: 19.82), (Plib: true), (Async: false), (Online: 24), (t: jump(unusual),
+  d: 0.6441360083065035, a: 3, r: 0.5973359918079382)]'
+(73)[2020/11/20 19:27:31]: '(False Positive) [Spartan Build 338-12345/987654321] cTrAx000
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  44ms), (TPS: 19.82), (Plib: true), (Async: false), (Online: 24), (t: jump(unusual),
+  d: 0.8593962516569178, a: 5, r: 0.20958554534550444)]'
+(74)[2020/11/20 19:27:32]: '[Spartan Build 338-12345/987654321] cTrAx000 failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 44ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, d: 4.17339388981533, l:
+  1.35, r: down, a: 7)]'
+(75)[2020/11/20 19:27:33]: '(False Positive) [Spartan Build 338-12345/987654321] cTrAx000
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  44ms), (TPS: 19.88), (Plib: true), (Async: false), (Online: 24), (t: jump(unusual),
+  d: 0.4545107394075245, a: 8, r: 0.3689748503442871)]'
+(76)[2020/11/20 19:27:33]: '(False Positive) [Spartan Build 338-12345/987654321] cTrAx000
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  44ms), (TPS: 19.88), (Plib: true), (Async: false), (Online: 24), (t: jump(unusual),
+  d: 0.6772801363173926, a: 10, r: 0.6132755214045176)]'
+(77)[2020/11/20 19:27:33]: '[Spartan Build 338-12345/987654321] cTrAx000 failed Clip
+  (VL: 2) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 44ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, d: 4.398610069368004, l:
+  1.35, r: down, a: 12)]'
+(78)[2020/11/20 19:28:16]: '(False Positive) [Spartan Build 338-12345/987654321] vert1237
+  failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 158ms),
+  (TPS: 19.95), (Plib: true), (Async: false), (Online: 24), (t: blink, l: 22)]'
+(79)[2020/11/20 19:28:24]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 158ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 24), (t: delay, ct: 20, ms: 1)]'
+(80)[2020/11/20 19:28:24]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 158ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 24), (t: delay, ct: 20, ms: 34)]'
+(81)[2020/11/20 19:29:07]: '[Spartan Build 338-12345/987654321] l3addiGaming failed
+  GhostHand (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 29ms), (TPS:
+  19.92), (Plib: true), (Async: false), (Online: 25), (t: interact, c: chest, r: furnace)]'
+(82)[2020/11/20 19:31:32]: '[Spartan Build 338] Mishka_youtuber has been considered
+  a legitimate player and is exempted from all checks.'
+(83)[2020/11/20 19:31:42]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 152ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 22), (t: difference, c: 13.755474711529315,
+  n: 4.242208092961384, d: 9.51326661856793, t: 27, l: 1.5, p: false)]'
+(84)[2020/11/20 19:31:44]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 156ms), (TPS: 19.85),
+  (Plib: true), (Async: false), (Online: 22), (t: difference, c: 17.48679939262667,
+  n: 7.502377548042787, d: 9.984421844583881, t: 27, l: 1.5, p: false)]'
+(85)[2020/11/20 19:32:33]: '[Spartan Build 338] Qwert1397 has been considered a legitimate
+  player and is exempted from all checks.'
+(86)[2020/11/20 19:33:04]: '(False Positive) [Spartan Build 338-12345/987654321] Itachiii
+  failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 51ms), (TPS:
+  16.34), (Plib: true), (Async: false), (Online: 22), (t: upwards(before), dy: 0.24813599859093927,
+  l: 0.17)]'
+(87)[2020/11/20 19:35:38]: '(False Positive) [Spartan Build 338-12345/987654321] vert1237
+  failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 160ms),
+  (TPS: 19.71), (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l:
+  true)]'
+(88)[2020/11/20 19:35:40]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 160ms), (TPS: 19.65),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: true)]'
+(89)[2020/11/20 19:35:43]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 160ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 21, l: true)]'
+(90)[2020/11/20 19:35:44]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 160ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 21, l: true)]'
+(91)[2020/11/20 19:35:44]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 160ms), (TPS: 19.58),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 20, l: true)]'
+(92)[2020/11/20 19:35:50]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 139ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: false)]'
+(93)[2020/11/20 19:35:52]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 139ms), (TPS: 19.85),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: false)]'
+(94)[2020/11/20 19:35:59]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 139ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: false)]'
+(95)[2020/11/20 19:36:02]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 149ms), (TPS: 19.66),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: false)]'
+(96)[2020/11/20 19:36:08]: '[Spartan Build 338-12345/987654321] vert1237 failed Fly
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 149ms), (TPS: 19.63),
+  (Plib: true), (Async: false), (Online: 22), (t: stable, d: 0.0, a: 13, r: 0.5625)]'
+(97)[2020/11/20 19:36:08]: '[Spartan Build 338-12345/987654321] vert1237 failed Fly
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 149ms), (TPS: 19.62),
+  (Plib: true), (Async: false), (Online: 22), (t: stable, d: 0.0, a: 13, r: 0.5625)]'
+(98)[2020/11/20 19:36:08]: '[Spartan Build 338-12345/987654321] vert1237 failed Fly
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 149ms), (TPS: 19.61),
+  (Plib: true), (Async: false), (Online: 22), (t: stable, d: 0.0, a: 13, r: 0.5625)]'
+(99)[2020/11/20 19:36:14]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 149ms), (TPS: 19.75),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 20, l: true)]'
+(100)[2020/11/20 19:36:15]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.73),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 20, l: true)]'
+(101)[2020/11/20 19:36:16]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.24),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 21, l: true)]'
+(102)[2020/11/20 19:36:20]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.75),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 20, l: true)]'
+(103)[2020/11/20 19:36:24]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.71),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 20, l: true)]'
+(104)[2020/11/20 19:36:34]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.85),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: false)]'
+(105)[2020/11/20 19:36:36]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 21, l: false)]'
+(106)[2020/11/20 19:36:46]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 184ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 22, l: true)]'
+(107)[2020/11/20 19:36:49]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 9) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 184ms), (TPS: 19.83),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 22, l: true)]'
+(108)[2020/11/20 19:36:51]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 10) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 184ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 22, l: true)]'
+(109)[2020/11/20 19:36:51]: '[Spartan Build 338] vert1237 was kicked for MorePackets'
+(110)[2020/11/20 19:38:03]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 42ms), (TPS: 19.65),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 21, l: true)]'
+(111)[2020/11/20 19:38:07]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 42ms), (TPS: 19.71),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(112)[2020/11/20 19:38:13]: '[Spartan Build 338-12345/987654321] vert1237 failed Jesus
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 94ms), (TPS: 19.57),
+  (Plib: true), (Async: false), (Online: 25), (t: speed(13), d: 0.2541659540974389,
+  dm: 0.19, dm_s: 0.19)]'
+(113)[2020/11/20 19:38:13]: '[Spartan Build 338-12345/987654321] vert1237 failed Jesus
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 94ms), (TPS: 19.56),
+  (Plib: true), (Async: false), (Online: 25), (t: speed(11), d: 0.24109805876679488,
+  dm: 0.225, dm_s: 0.225)]'
+(114)[2020/11/20 19:38:13]: '[Spartan Build 338-12345/987654321] vert1237 failed Jesus
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 94ms), (TPS: 19.55),
+  (Plib: true), (Async: false), (Online: 25), (t: speed(11), d: 0.2329664476380958,
+  dm: 0.225, dm_s: 0.225)]'
+(115)[2020/11/20 19:38:14]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 94ms), (TPS: 19.57),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(116)[2020/11/20 19:38:15]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 94ms), (TPS: 19.56),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(117)[2020/11/20 19:38:16]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 94ms), (TPS: 19.46),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(118)[2020/11/20 19:38:24]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 94ms), (TPS: 19.62),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(119)[2020/11/20 19:38:28]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 127ms), (TPS: 19.58),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(120)[2020/11/20 19:38:31]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 127ms), (TPS: 19.58),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(121)[2020/11/20 19:39:36]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 152ms), (TPS: 19.75),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: true)]'
+(122)[2020/11/20 19:39:36]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 152ms), (TPS: 19.71),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: true)]'
+(123)[2020/11/20 19:39:37]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 152ms), (TPS: 19.68),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: true)]'
+(124)[2020/11/20 19:39:38]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 152ms), (TPS: 19.71),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: true)]'
+(125)[2020/11/20 19:39:42]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.68),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: true)]'
+(126)[2020/11/20 19:39:48]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: true)]'
+(127)[2020/11/20 19:39:51]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: true)]'
+(128)[2020/11/20 19:41:19]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 182ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(129)[2020/11/20 19:41:20]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 182ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: true)]'
+(130)[2020/11/20 19:41:25]: '[Spartan Build 338-12345/987654321] vert1237 failed Jesus
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 182ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 25), (t: speed(11), d: 1.2974563876008935,
+  dm: 0.225, dm_s: 0.825)]'
+(131)[2020/11/20 19:41:27]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 174ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 25), (t: difference, c: 12.991455800487433,
+  n: 2.564911529822516, d: 10.426544270664916, t: 30, l: 1.5, p: false)]'
+(132)[2020/11/20 19:41:28]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 174ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 24), (t: difference, c: 15.41546313303269,
+  n: 1.5223721322855097, d: 13.89309100074718, t: 27, l: 1.5, p: false)]'
+(133)[2020/11/20 19:41:31]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 174ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: true)]'
+(134)[2020/11/20 19:41:38]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 174ms), (TPS: 19.81),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 12.66184933492019,
+  n: 3.2312665668625753, d: 9.430582768057615, t: 29, l: 1.5, p: false)]'
+(135)[2020/11/20 19:41:44]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 158ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: true)]'
+(136)[2020/11/20 19:41:46]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 158ms), (TPS: 19.83),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: true)]'
+(137)[2020/11/20 19:41:49]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 9) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 158ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 20, l: true)]'
+(138)[2020/11/20 19:41:57]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 10) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 154ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 13.128992516799277,
+  n: 2.9772399231483164, d: 10.151752593650961, t: 25, l: 1.5, p: false)]'
+(139)[2020/11/20 19:41:57]: '[Spartan Build 338] vert1237 was kicked for MorePackets'
+(140)[2020/11/20 19:42:32]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 24ms), (TPS: 19.94),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: true)]'
+(141)[2020/11/20 19:42:33]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 24ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 20, l: true)]'
+(142)[2020/11/20 19:42:33]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 24ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: true)]'
+(143)[2020/11/20 19:42:47]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 37ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: true)]'
+(144)[2020/11/20 19:42:50]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 37ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 21, l: true)]'
+(145)[2020/11/20 19:42:54]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 93ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 21, l: true)]'
+(146)[2020/11/20 19:42:56]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 93ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: true)]'
+(147)[2020/11/20 19:43:01]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 93ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 21, l: true)]'
+(148)[2020/11/20 19:43:04]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 9) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 93ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, a: 22, l: true)]'
+(149)[2020/11/20 19:46:02]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 165ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 20), (t: difference, c: 12.142940358396206,
+  n: 5.347684417966658, d: 6.7952559404295485, t: 24, l: 1.5, p: false)]'
+(150)[2020/11/20 19:46:26]: '[Spartan Build 338-12345/987654321] WarsShadow failed
+  GhostHand (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 66ms), (TPS:
+  19.75), (Plib: true), (Async: false), (Online: 22), (t: interact, c: chest, r: burning-furnace)]'
+(151)[2020/11/20 19:46:36]: '[Spartan Build 338-12345/987654321] madetov failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 0ms), (TPS: 19.90), (Plib:
+  true), (Async: false), (Online: 22), (t: blink, l: 22)]'
+(152)[2020/11/20 19:46:36]: '[Spartan Build 338-12345/987654321] madetov failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 0ms), (TPS: 19.88), (Plib:
+  true), (Async: false), (Online: 22), (t: instant, a: 20, l: false)]'
+(153)[2020/11/20 19:47:17]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 22), (t: blink, l: 22)]'
+(154)[2020/11/20 19:47:21]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 22), (t: jump(illegal), d: 0.33319999363422426,
+  od: 0.41999998688697815, a: 8, r: 0.7531999805212024, c: (frequency cannot be too
+  fast), diff: 0.014463991726953895, f: -20)]'
+(155)[2020/11/20 19:47:21]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 22), (t: jump(illegal), d: 0.24813599859093927,
+  od: 0.33319999363422426, a: 8, r: 0.001335979112141672, c: (frequency cannot be
+  too fast), diff: 0.012727993517484992, f: -20)]'
+(156)[2020/11/20 19:47:21]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 22), (t: jump(illegal), d: 0.1647732818260721,
+  od: 0.24813599859093927, a: 8, r: 0.16610926093821377, c: (frequency cannot be too
+  fast), diff: 0.011026715239067175, f: -20)]'
+(157)[2020/11/20 19:47:21]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 173ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 22), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 8, r: 0.24918707874468282, c: (frequency cannot be too
+  fast), diff: 0.009359462493803039, f: -20)]'
+(158)[2020/11/20 19:47:46]: '[Spartan Build 338-12345/987654321] vert1237 failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 300ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, d: 19.0, l: 1.35, r: down,
+  a: 0)]'
+(159)[2020/11/20 19:47:49]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 300ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: false)]'
+(160)[2020/11/20 19:47:53]: '[Spartan Build 338-12345/987654321] vert1237 failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 300ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 23), (t: normal, reason: air, d: 0.7492573048602681,
+  dm: 0.3675, dm_s: 0.3675, a: 20)]'
+(161)[2020/11/20 19:47:59]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 267ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 20, l: false)]'
+(162)[2020/11/20 19:48:07]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 267ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 21, l: false)]'
+(163)[2020/11/20 19:50:21]: '[Spartan Build 338-12345/987654321] Trafer_YT failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 84ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 4)]'
+(164)[2020/11/20 19:50:22]: '(False Positive) [Spartan Build 338-12345/987654321]
+  WarsShadow failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  62ms), (TPS: 19.84), (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 10)]'
+(165)[2020/11/20 19:51:38]: '[Spartan Build 338-12345/987654321] KanoriKun failed
+  KillAura (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 33ms), (TPS:
+  19.89), (Plib: true), (Async: false), (Online: 22), (t: area, d: cases, c: 3)]'
+(166)[2020/11/20 19:52:25]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 169ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 10.530709269941921,
+  n: 4.3644781126936145, d: 6.166231157248307, t: 24, l: 1.5, p: false)]'
+(167)[2020/11/20 19:52:29]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.63),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: false)]'
+(168)[2020/11/20 19:52:30]: '(False Positive) [Spartan Build 338-12345/987654321]
+  WarsShadow failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  60ms), (TPS: 19.64), (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 9)]'
+(169)[2020/11/20 19:52:30]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 188ms), (TPS: 19.61),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: false)]'
+(170)[2020/11/20 19:52:40]: '[Spartan Build 338-12345/987654321] WarsShadow failed
+  MorePackets (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.73), (Plib: true), (Async: false), (Online: 23), (t: delay, ct: 18, ms: 1)]'
+(171)[2020/11/20 19:52:41]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 186ms), (TPS: 19.70),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 20, l: false)]'
+(172)[2020/11/20 19:52:52]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 186ms), (TPS: 19.85),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 21, l: false)]'
+(173)[2020/11/20 19:52:55]: '(False Positive) [Spartan Build 338-12345/987654321]
+  WarsShadow failed MorePackets (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 60ms), (TPS: 19.80), (Plib: true), (Async: false), (Online: 23), (t: instant,
+  a: 20, l: false)]'
+(174)[2020/11/20 19:52:55]: '[Spartan Build 338-12345/987654321] WarsShadow failed
+  MorePackets (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 60ms), (TPS:
+  19.78), (Plib: true), (Async: false), (Online: 23), (t: instant, a: 21, l: false)]'
+(175)[2020/11/20 19:52:56]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 162ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 22, l: false)]'
+(176)[2020/11/20 19:52:58]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 162ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 11.80844040326066,
+  n: 4.738699523951952, d: 7.069740879308708, t: 26, l: 1.5, p: false)]'
+(177)[2020/11/20 19:52:58]: '[Spartan Build 338-12345/987654321] KapitanForder failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 7)]'
+(178)[2020/11/20 19:53:41]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 153ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 15.431938673479111,
+  n: 4.226983409975953, d: 11.204955263503159, t: 29, l: 1.5, p: false)]'
+(179)[2020/11/20 19:53:47]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 153ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 15.911289438326952,
+  n: 4.415435648122372, d: 11.49585379020458, t: 28, l: 1.5, p: false)]'
+(180)[2020/11/20 19:53:49]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 153ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 20, l: false)]'
+(181)[2020/11/20 19:53:50]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 153ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 21, l: false)]'
+(182)[2020/11/20 19:54:04]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 131ms), (TPS: 19.83),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 21, l: false)]'
+(183)[2020/11/20 19:54:08]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 131ms), (TPS: 19.94),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, a: 21, l: false)]'
+(184)[2020/11/20 19:54:20]: '[Spartan Build 338-12345/987654321] No4b__YT failed GhostHand
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 233ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 23), (t: break, c: tripwire, r: stone)]'
+(185)[2020/11/20 19:54:37]: '[Spartan Build 338-12345/987654321] madetov failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 105ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 23), (t: ratio, b: 15)]'
+(186)[2020/11/20 19:54:41]: '[Spartan Build 338-12345/987654321] madetov failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 101ms), (TPS: 19.70),
+  (Plib: true), (Async: false), (Online: 23), (t: difference, c: 13.309686938301013,
+  n: 9.092072788839257, d: 4.217614149461756, t: 24, l: 1.5, p: false)]'
+(187)[2020/11/20 19:54:55]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 144ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 24), (t: difference, c: 10.526486680497289,
+  n: 5.371334971245199, d: 5.15515170925209, t: 29, l: 1.5, p: false)]'
+(188)[2020/11/20 19:54:57]: '(False Positive) [Spartan Build 338-12345/987654321]
+  madetov failed NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  95ms), (TPS: 19.83), (Plib: true), (Async: false), (Online: 24), (t: ratio, b: 7)]'
+(189)[2020/11/20 19:55:06]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 144ms), (TPS: 19.67),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 21, l: false)]'
+(190)[2020/11/20 19:55:07]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 144ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 24), (t: difference, c: 16.371507102033398,
+  n: 5.178036290030756, d: 11.19347081200264, t: 30, l: 1.5, p: false)]'
+(191)[2020/11/20 19:55:12]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 190ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: false)]'
+(192)[2020/11/20 19:55:50]: '[Spartan Build 338-12345/987654321] endermanlouco failed
+  FastHeal (VL: 1) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 36ms), (TPS:
+  19.91), (Plib: true), (Async: false), (Online: 24), (t: illegal, fl: 17)]'
+(193)[2020/11/20 19:56:42]: '[Spartan Build 338-12345/987654321] DarkSpace failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 118ms), (TPS:
+  19.80), (Plib: true), (Async: false), (Online: 26), (t: ratio, b: 5)]'
+(194)[2020/11/20 19:56:43]: '[Spartan Build 338-12345/987654321] DarkSpace failed
+  NoFall (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 118ms), (TPS:
+  19.77), (Plib: true), (Async: false), (Online: 26), (t: ratio, b: 5)]'
+(195)[2020/11/20 19:58:09]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 76ms), (TPS: 19.94),
+  (Plib: true), (Async: false), (Online: 26), (t: ratio, b: 16)]'
+(196)[2020/11/20 19:58:09]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 26), (t: blink, l: 22)]'
+(197)[2020/11/20 19:58:12]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 151ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: false)]'
+(198)[2020/11/20 19:58:13]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 151ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 26), (t: blink, l: 22)]'
+(199)[2020/11/20 19:58:14]: '[Spartan Build 338] prafain_yt has been considered a
+  legitimate player and is exempted from all checks.'
+(200)[2020/11/20 19:58:14]: '[Spartan Build 338] FakeEagle has been considered a legitimate
+  player and is exempted from all checks.'
+(201)[2020/11/20 19:58:14]: '[Spartan Build 338] Itachiii has been considered a legitimate
+  player and is exempted from all checks.'
+(202)[2020/11/20 19:58:14]: '[Spartan Build 338] TeodoreMladshiy has been considered
+  a legitimate player and is exempted from all checks.'
+(203)[2020/11/20 19:58:14]: '[Spartan Build 338] ivankilinich1234 has been considered
+  a legitimate player and is exempted from all checks.'
+(204)[2020/11/20 19:58:14]: '[Spartan Build 338] vert123 has been considered a legitimate
+  player and is exempted from all checks.'
+(205)[2020/11/20 19:58:14]: '[Spartan Build 338] AndorikTV has been considered a legitimate
+  player and is exempted from all checks.'
+(206)[2020/11/20 19:58:14]: '[Spartan Build 338] 21WERICOS21 has been considered a
+  legitimate player and is exempted from all checks.'
+(207)[2020/11/20 19:58:14]: '[Spartan Build 338] Qwert1397 has been considered a legitimate
+  player and is exempted from all checks.'
+(208)[2020/11/20 19:58:14]: '[Spartan Build 338] 5001_YT_pvp_ton has been considered
+  a legitimate player and is exempted from all checks.'
+(209)[2020/11/20 19:58:14]: '[Spartan Build 338] No4b__YT has been considered a legitimate
+  player and is exempted from all checks.'
+(210)[2020/11/20 19:58:14]: '[Spartan Build 338] DarkSpace has been considered a legitimate
+  player and is exempted from all checks.'
+(211)[2020/11/20 19:58:14]: '[Spartan Build 338] WarsShadow has been considered a
+  legitimate player and is exempted from all checks.'
+(212)[2020/11/20 19:58:14]: '[Spartan Build 338] _Selen2__ has been considered a legitimate
+  player and is exempted from all checks.'
+(213)[2020/11/20 19:58:14]: '[Spartan Build 338] ItzDerix has been considered a legitimate
+  player and is exempted from all checks.'
+(214)[2020/11/20 19:58:14]: '[Spartan Build 338] Trafer_YT has been considered a legitimate
+  player and is exempted from all checks.'
+(215)[2020/11/20 19:58:14]: '[Spartan Build 338] Apostal has been considered a legitimate
+  player and is exempted from all checks.'
+(216)[2020/11/20 19:58:19]: '[Spartan Build 338-12345/987654321] 4CBwHuK failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 31ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: true)]'
+(217)[2020/11/20 19:58:48]: '(False Positive) [Spartan Build 338-12345/987654321]
+  4CBwHuK failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  31ms), (TPS: 19.81), (Plib: true), (Async: false), (Online: 26), (t: upwards(after),
+  dy: 0.21560001587867816, l: 0.17)]'
+(218)[2020/11/20 19:58:55]: '(False Positive) [Spartan Build 338-12345/987654321]
+  KapitanForder failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  143ms), (TPS: 19.80), (Plib: true), (Async: false), (Online: 26), (t: normal, reason:
+  ground, d: 0.4698122183066197, dm: 0.325, dm_s: 0.325, a: 0)]'
+(219)[2020/11/20 19:59:18]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  67ms), (TPS: 19.92), (Plib: true), (Async: false), (Online: 26), (t: ratio, b: 4)]'
+(220)[2020/11/20 19:59:38]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed Fly (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  61ms), (TPS: 19.96), (Plib: true), (Async: false), (Online: 26), (t: change, d:
+  -0.07840000152587834, od: -0.3015347236627832, a: 39, r: 0.4168008754800496)]'
+(221)[2020/11/20 19:59:59]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS: 19.83),
+  (Plib: true), (Async: false), (Online: 25), (t: blink, l: 22)]'
+(222)[2020/11/20 20:00:00]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS: 19.76),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 20, l: false)]'
+(223)[2020/11/20 20:00:04]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS: 19.83),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 21, l: false)]'
+(224)[2020/11/20 20:00:05]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 115ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 25), (t: blink, l: 22)]'
+(225)[2020/11/20 20:00:15]: '[Spartan Build 338] madetov has been considered a legitimate
+  player and is exempted from all checks.'
+(226)[2020/11/20 20:00:25]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 105ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 26), (t: difference, c: 15.850186583120244,
+  n: 3.75012816395991, d: 12.100058419160334, t: 37, l: 1.5, p: false)]'
+(227)[2020/11/20 20:00:28]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 134ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: false)]'
+(228)[2020/11/20 20:00:32]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 134ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: false)]'
+(229)[2020/11/20 20:00:36]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 134ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(230)[2020/11/20 20:00:39]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 134ms), (TPS: 19.81),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(231)[2020/11/20 20:00:41]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 197ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(232)[2020/11/20 20:00:46]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 197ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(233)[2020/11/20 20:00:59]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 186ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: false)]'
+(234)[2020/11/20 20:01:10]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 9) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 186ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(235)[2020/11/20 20:01:13]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 10) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 165ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 26), (t: difference, c: 13.137233828542636,
+  n: 4.107840047041916, d: 9.029393781500719, t: 23, l: 1.5, p: false)]'
+(236)[2020/11/20 20:01:13]: '[Spartan Build 338] vert1237 was kicked for MorePackets'
+(237)[2020/11/20 20:01:15]: '[Spartan Build 338] endermanlouco has been considered
+  a legitimate player and is exempted from all checks.'
+(238)[2020/11/20 20:02:01]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 113ms), (TPS: 19.72),
+  (Plib: true), (Async: false), (Online: 26), (t: jump(unusual), d: 0.2980000495910673,
+  a: 26, r: 0.20000004768371582)]'
+(239)[2020/11/20 20:02:15]: '[Spartan Build 338] CMEPTb has been considered a legitimate
+  player and is exempted from all checks.'
+(240)[2020/11/20 20:02:46]: '(False Positive) [Spartan Build 338-12345/987654321]
+  madetov failed Clip (VL: 0) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 100ms),
+  (TPS: 16.73), (Plib: true), (Async: false), (Online: 25), (t: speed(block-change),
+  block(s): grass, ds: 110.1376418798896, dm: 0.25, dm_s: 0.3973927670311186)]'
+(241)[2020/11/20 20:02:47]: '(False Positive) [Spartan Build 338-12345/987654321]
+  madetov failed Clip (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 100ms),
+  (TPS: 16.31), (Plib: true), (Async: false), (Online: 25), (t: speed(block-change),
+  block(s): grass, ds: 110.1376418798896, dm: 0.25, dm_s: 0.410397860247409)]'
+(242)[2020/11/20 20:02:47]: '(False Positive) [Spartan Build 338-12345/987654321]
+  madetov failed Clip (VL: 2) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 5574ms),
+  (TPS: 16.24), (Plib: true), (Async: false), (Online: 25), (t: speed(block-change),
+  block(s): grass, ds: 110.1376418798896, dm: 0.25, dm_s: 0.46151337247227664)]'
+(243)[2020/11/20 20:02:58]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 238ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 25), (t: step[packets(normal)], d: 0.11760000228882461,
+  c: 0.5880000114441231)]'
+(244)[2020/11/20 20:02:58]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 238ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 25), (t: step[packets(normal)], d: 0.11760000228882461,
+  c: 0.7056000137329477)]'
+(245)[2020/11/20 20:02:58]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 238ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 25), (t: step[packets(normal)], d: 0.11760000228882461,
+  c: 0.8232000160217723)]'
+(246)[2020/11/20 20:04:28]: '[Spartan Build 338-12345/987654321] vert1237 failed GhostHand
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 170ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 24), (t: interact, c: ender-chest, r: workbench)]'
+(247)[2020/11/20 20:04:49]: '(False Positive) [Spartan Build 338-12345/987654321]
+  KapitanForder failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false),
+  (Ping: 86ms), (TPS: 19.87), (Plib: true), (Async: false), (Online: 25), (t: ratio,
+  b: 5)]'
+(248)[2020/11/20 20:07:44]: '(False Positive) [Spartan Build 338-12345/987654321]
+  KapitanForder failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 97ms), (TPS: 19.78), (Plib: true), (Async: false), (Online: 25),
+  (t: jump(unusual), d: 0.2000000476836874, a: 2, r: 0.2000000476836874)]'
+(249)[2020/11/20 20:08:57]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 165ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 25), (t: difference, c: 11.327240181013766,
+  n: 3.5873067110718067, d: 7.739933469941959, t: 29, l: 1.5, p: false)]'
+(250)[2020/11/20 20:11:02]: '[Spartan Build 338-12345/987654321] _9PlayYT_ failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 60ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 28), (t: ratio, b: 5)]'
+(251)[2020/11/20 20:12:10]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Zaharbedwars2282 failed Jesus (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false),
+  (Ping: 81ms), (TPS: 19.57), (Plib: true), (Async: false), (Online: 27), (t: upwards(after),
+  dy: 0.21560001587867816, l: 0.17)]'
+(252)[2020/11/20 20:13:21]: '(False Positive) [Spartan Build 338-12345/987654321]
+  _9PlayYT_ failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  81ms), (TPS: 19.79), (Plib: true), (Async: false), (Online: 26), (t: ratio, b: 10)]'
+(253)[2020/11/20 20:13:52]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 320ms), (TPS: 19.67),
+  (Plib: true), (Async: false), (Online: 26), (t: delay, ct: 18, ms: 0)]'
+(254)[2020/11/20 20:15:22]: '[Spartan Build 338-12345/987654321] _9PlayYT_ failed
+  Velocity (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 59ms), (TPS:
+  19.74), (Plib: true), (Async: false), (Online: 25), (d: 0.0, h: 0.3607499999999959,
+  ddiff: 0.5402593854912296, hdiff: 0.15000000000000568, dcorr: 0.7999439974498865,
+  hcorr: 0.0, in: 0.3, mp: 0.3, kb: false)]'
+(255)[2020/11/20 20:15:31]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed Fly (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  46ms), (TPS: 19.60), (Plib: true), (Async: false), (Online: 25), (t: neutral, d:
+  0.0, r: 0.029899593683467174, od: -1.5042840636440644, ds: 1.5042840636440644, a:
+  31, i: true, c: 1)]'
+(256)[2020/11/20 20:15:31]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 46ms), (TPS: 19.65), (Plib: true), (Async: false), (Online: 25),
+  (t: jump(illegal), d: 0.41999998688697815, od: 0.0, a: 31, r: 0.4498995805704453,
+  c: (air-ticks must be analogous to the jump), diff: 0.36509798536117816, f: -20)]'
+(257)[2020/11/20 20:15:31]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 46ms), (TPS: 19.61), (Plib: true), (Async: false), (Online: 25),
+  (t: jump(illegal), d: 0.1647732818260721, od: 0.24813599859093927, a: 35, r: 0.19600885462168094,
+  c: (jump movement must start on ground), diff: 0.03149271523906717, f: -20)]'
+(258)[2020/11/20 20:16:40]: '[Spartan Build 338-12345/987654321] vert1237 failed GhostHand
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 174ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 25), (t: interact, c: ender-chest, r: dirt)]'
+(259)[2020/11/20 20:17:05]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  38ms), (TPS: 19.67), (Plib: true), (Async: false), (Online: 25), (t: normal, reason:
+  air, d: 0.5078111280337912, dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(260)[2020/11/20 20:17:05]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 38ms), (TPS: 19.67),
+  (Plib: true), (Async: false), (Online: 25), (t: air(decreased), d: 0.40289773505063137)]'
+(261)[2020/11/20 20:18:57]: '(False Positive) [Spartan Build 338-12345/987654321]
+  KapitanForder failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false),
+  (Ping: 85ms), (TPS: 19.70), (Plib: true), (Async: false), (Online: 25), (t: ratio,
+  b: 18)]'
+(262)[2020/11/20 20:19:08]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 268ms), (TPS: 19.73),
+  (Plib: true), (Async: false), (Online: 25), (t: step[packets(repeated)], d: 0.3500000238418579,
+  v: 0.3500000235391781)]'
+(263)[2020/11/20 20:19:35]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 202ms), (TPS: 19.76),
+  (Plib: true), (Async: false), (Online: 27), (t: jump(illegal), d: 0.1647732818260721,
+  od: 0.24813599859093927, a: 6, r: 0.16610926093821377, c: (frequency cannot be too
+  fast), diff: 0.009510715239067172, f: -20)]'
+(264)[2020/11/20 20:19:35]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 202ms), (TPS: 19.75),
+  (Plib: true), (Async: false), (Online: 27), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 6, r: 0.24918707874468282, c: (frequency cannot be too
+  fast), diff: 0.007843462493803036, f: -20)]'
+(265)[2020/11/20 20:20:54]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 205ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 27), (t: jump(illegal), d: 0.1647732818260721,
+  od: 0.24813599859093927, a: 9, r: 0.16610926093821377, c: (frequency cannot be too
+  fast), diff: 0.01178471523906717, f: -20)]'
+(266)[2020/11/20 20:20:54]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 205ms), (TPS: 19.81),
+  (Plib: true), (Async: false), (Online: 27), (t: jump(illegal), d: 0.08307781780646906,
+  od: 0.1647732818260721, a: 9, r: 0.24918707874468282, c: (frequency cannot be too
+  fast), diff: 0.010117462493803034, f: -20)]'
+(267)[2020/11/20 20:21:00]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 195ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 27), (t: instant, a: 22, l: true)]'
+(268)[2020/11/20 20:21:03]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 195ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 28), (t: instant, a: 22, l: true)]'
+(269)[2020/11/20 20:21:03]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 195ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 28), (t: difference, c: 16.606220433130204,
+  n: 2.7797858880119133, d: 13.82643454511829, t: 30, l: 8.555625, p: false)]'
+(270)[2020/11/20 20:21:06]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 195ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 28), (t: difference, c: 16.300435485787776,
+  n: 3.7835492211654556, d: 12.516886264622322, t: 27, l: 8.555625, p: false)]'
+(271)[2020/11/20 20:21:09]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 195ms), (TPS: 19.72),
+  (Plib: true), (Async: false), (Online: 27), (t: difference, c: 12.860725465957305,
+  n: 2.3025209703547898, d: 10.558204495602515, t: 28, l: 8.555625, p: false)]'
+(272)[2020/11/20 20:21:11]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 195ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 27), (t: instant, a: 21, l: true)]'
+(273)[2020/11/20 20:21:15]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 203ms), (TPS: 19.94),
+  (Plib: true), (Async: false), (Online: 27), (t: instant, a: 20, l: false)]'
+(274)[2020/11/20 20:21:17]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 203ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 27), (t: instant, a: 20, l: false)]'
+(275)[2020/11/20 20:21:57]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed GhostHand (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping:
+  212ms), (TPS: 19.84), (Plib: true), (Async: false), (Online: 29), (t: interact,
+  c: ender-chest, r: dirt)]'
+(276)[2020/11/20 20:22:17]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 118ms), (TPS: 19.85),
+  (Plib: true), (Async: false), (Online: 29), (t: normal, reason: air, d: 0.5677474254532101,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(277)[2020/11/20 20:22:18]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 213ms), (TPS: 19.77), (Plib: true), (Async: false), (Online: 29), (t: jump(illegal),
+  d: 0.1647732818260721, od: 0.24813599859093927, a: 9, r: 0.16610926093821377, c:
+  (frequency cannot be too fast), diff: 0.01178471523906717, f: -20)]'
+(278)[2020/11/20 20:22:30]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 182ms), (TPS: 19.86), (Plib: true), (Async: false), (Online: 29), (t: blink,
+  l: 22)]'
+(279)[2020/11/20 20:22:40]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 131ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 29), (t: difference, c: 19.898492206943896,
+  n: 4.239905204495444, d: 15.658587002448453, t: 38, l: 1.5, p: false)]'
+(280)[2020/11/20 20:23:18]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 179ms), (TPS: 19.77), (Plib: true), (Async: false), (Online: 28), (t: blink,
+  l: 22)]'
+(281)[2020/11/20 20:23:29]: '[Spartan Build 338-12345/987654321] YaTigr failed KillAura
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 140ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 28), (t: comparison(hard), r: 0.9834675246934609)]'
+(282)[2020/11/20 20:23:34]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 158ms), (TPS: 19.91), (Plib: true), (Async: false), (Online: 28), (t: blink,
+  l: 22)]'
+(283)[2020/11/20 20:23:44]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 147ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 26), (t: blink, l: 22)]'
+(284)[2020/11/20 20:23:46]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 147ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: false)]'
+(285)[2020/11/20 20:23:46]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 147ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 21, l: false)]'
+(286)[2020/11/20 20:23:46]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 147ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 26), (t: blink, l: 22)]'
+(287)[2020/11/20 20:23:51]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 282ms), (TPS: 19.74),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: false)]'
+(288)[2020/11/20 20:23:57]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 152ms), (TPS: 19.84), (Plib: true), (Async: false), (Online: 27), (t: blink,
+  l: 22)]'
+(289)[2020/11/20 20:23:58]: '[Spartan Build 338-12345/987654321] vert1237 failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 152ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 27), (t: normal, reason: air, d: 2.3066906516268664,
+  dm: 0.3675, dm_s: 0.3675, a: 19)]'
+(290)[2020/11/20 20:24:08]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 154ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 27), (t: blink, l: 22)]'
+(291)[2020/11/20 20:24:14]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 133ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: false)]'
+(292)[2020/11/20 20:24:15]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 133ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: false)]'
+(293)[2020/11/20 20:24:15]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 133ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(294)[2020/11/20 20:24:21]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 133ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 22, l: false)]'
+(295)[2020/11/20 20:24:27]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 133ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 26), (t: blink, l: 22)]'
+(296)[2020/11/20 20:24:33]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 124ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 26), (t: instant, a: 20, l: false)]'
+(297)[2020/11/20 20:24:49]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 111ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 21, l: false)]'
+(298)[2020/11/20 20:24:52]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 111ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 20, l: false)]'
+(299)[2020/11/20 20:25:03]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 149ms), (TPS: 19.81),
+  (Plib: true), (Async: false), (Online: 24), (t: difference, c: 11.430919590145347,
+  n: 4.003605204002551, d: 7.427314386142796, t: 24, l: 1.5, p: false)]'
+(300)[2020/11/20 20:25:05]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 149ms), (TPS: 19.74),
+  (Plib: true), (Async: false), (Online: 24), (t: difference, c: 11.69775589359336,
+  n: 3.648821376225015, d: 8.048934517368345, t: 27, l: 1.5, p: false)]'
+(301)[2020/11/20 20:25:07]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 149ms), (TPS: 19.67),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 22, l: true)]'
+(302)[2020/11/20 20:25:09]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 149ms), (TPS: 19.75),
+  (Plib: true), (Async: false), (Online: 24), (t: instant, a: 22, l: true)]'
+(303)[2020/11/20 20:25:14]: '[Spartan Build 338-12345/987654321] vert1237 failed Exploits
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 145ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 24), (t: undetected movement, ms: 992, d:
+  0.0)]'
+(304)[2020/11/20 20:25:38]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 149ms), (TPS: 19.95), (Plib: true), (Async: false), (Online: 25), (t: blink,
+  l: 22)]'
+(305)[2020/11/20 20:25:55]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 180ms), (TPS: 19.71), (Plib: true), (Async: false), (Online: 25), (t: blink,
+  l: 22)]'
+(306)[2020/11/20 20:25:57]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.81),
+  (Plib: true), (Async: false), (Online: 25), (t: blink, l: 22)]'
+(307)[2020/11/20 20:25:57]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 20, l: false)]'
+(308)[2020/11/20 20:25:58]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.74),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 21, l: false)]'
+(309)[2020/11/20 20:25:58]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 180ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 25), (t: delay, ct: 21, ms: 2)]'
+(310)[2020/11/20 20:26:05]: '[Spartan Build 338-12345/987654321] vert1237 failed Velocity
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 201ms), (TPS: 19.82),
+  (Plib: true), (Async: false), (Online: 25), (d: 0.0, h: 0.0, ddiff: 0.2999999999999995,
+  hdiff: 0.18551556812695935, dcorr: 0.0, hcorr: 0.0, in: 0.3, mp: 0.3, kb: false)]'
+(311)[2020/11/20 20:26:28]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 187ms), (TPS: 19.70),
+  (Plib: true), (Async: false), (Online: 25), (t: blink, l: 22)]'
+(312)[2020/11/20 20:26:28]: '[Spartan Build 338-12345/987654321] YaTigr failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 187ms), (TPS: 19.67),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 21, l: false)]'
+(313)[2020/11/20 20:26:52]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 197ms), (TPS: 19.74), (Plib: true), (Async: false), (Online: 25), (t: blink,
+  l: 22)]'
+(314)[2020/11/20 20:26:52]: '[Spartan Build 338-12345/987654321] Ya_Do3a failed GhostHand
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 69ms), (TPS: 19.68),
+  (Plib: true), (Async: false), (Online: 25), (t: interact, c: wooden-door, r: smooth-brick)]'
+(315)[2020/11/20 20:28:25]: '[Spartan Build 338-12345/987654321] YaTigr failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 149ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, d: 13.0, l: 1.35, r: up,
+  a: 15)]'
+(316)[2020/11/20 20:28:39]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 165ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 25), (t: difference, c: 22.462703238241563,
+  n: 7.999863088793524, d: 14.462840149448038, t: 27, l: 1.5, p: false)]'
+(317)[2020/11/20 20:28:40]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 165ms), (TPS: 19.70),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 20, l: false)]'
+(318)[2020/11/20 20:28:42]: '[Spartan Build 338-12345/987654321] vert1237 failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 165ms), (TPS: 19.76),
+  (Plib: true), (Async: false), (Online: 25), (t: normal, reason: air, d: 0.5893629685510952,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(319)[2020/11/20 20:28:42]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 165ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: false)]'
+(320)[2020/11/20 20:28:47]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 157ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 21, l: false)]'
+(321)[2020/11/20 20:29:01]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 135ms), (TPS: 19.94), (Plib: true), (Async: false), (Online: 25), (t: climbing(ladder/vine),
+  d: 0.11087066901143909, t: 36)]'
+(322)[2020/11/20 20:29:02]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 135ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 25), (t: climbing(ladder/vine),
+  d: 0.058800001144412306, t: 36)]'
+(323)[2020/11/20 20:29:02]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 135ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 25), (t: climbing(ladder/vine),
+  d: 0.058800001144412306, t: 36)]'
+(324)[2020/11/20 20:29:02]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 135ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 25), (t: climbing(ladder/vine),
+  d: 0.058800001144412306, t: 36)]'
+(325)[2020/11/20 20:29:02]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 135ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 20, l: false)]'
+(326)[2020/11/20 20:29:07]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 135ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: false)]'
+(327)[2020/11/20 20:29:09]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 135ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 22, l: false)]'
+(328)[2020/11/20 20:29:12]: '[Spartan Build 338-12345/987654321] vert1237 failed MorePackets
+  (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 135ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 25), (t: instant, a: 20, l: false)]'
+(329)[2020/11/20 20:29:14]: '(False Positive) [Spartan Build 338-12345/987654321]
+  4CBwHuK failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  31ms), (TPS: 19.88), (Plib: true), (Async: false), (Online: 25), (t: instant, a:
+  20, l: true)]'
+(330)[2020/11/20 20:29:17]: '[Spartan Build 338-12345/987654321] vert1237 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 131ms), (TPS: 19.75),
+  (Plib: true), (Async: false), (Online: 25), (t: jump(unusual), d: 0.2980000495910673,
+  a: 23, r: 0.20000004768371582)]'
+(331)[2020/11/20 20:30:20]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 236ms), (TPS: 19.81), (Plib: true), (Async: false), (Online: 25), (t: delay,
+  ct: 18, ms: 1)]'
+(332)[2020/11/20 20:30:38]: '(False Positive) [Spartan Build 338-12345/987654321]
+  vert1237 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 195ms), (TPS: 19.77), (Plib: true), (Async: false), (Online: 25), (t: jump(illegal),
+  d: 0.41999998688697815, od: -0.6421985436761304, a: 14, r: 0.35749998688697815,
+  c: (start cannot be bound to negative values), diff: 0.9837985290373086, f: -20)]'
+(333)[2020/11/20 20:30:54]: '[Spartan Build 338] prafain_yt has been considered a
+  legitimate player and is exempted from all checks.'
+(334)[2020/11/20 20:30:54]: '[Spartan Build 338] Itachiii has been considered a legitimate
+  player and is exempted from all checks.'
+(335)[2020/11/20 20:30:54]: '[Spartan Build 338] ivankilinich1234 has been considered
+  a legitimate player and is exempted from all checks.'
+(336)[2020/11/20 20:30:54]: '[Spartan Build 338] AndorikTV has been considered a legitimate
+  player and is exempted from all checks.'
+(337)[2020/11/20 20:30:54]: '[Spartan Build 338] 21WERICOS21 has been considered a
+  legitimate player and is exempted from all checks.'
+(338)[2020/11/20 20:30:54]: '[Spartan Build 338] DarkSpace has been considered a legitimate
+  player and is exempted from all checks.'
+(339)[2020/11/20 20:30:54]: '[Spartan Build 338] WarsShadow has been considered a
+  legitimate player and is exempted from all checks.'
+(340)[2020/11/20 20:30:54]: '[Spartan Build 338] _Selen2__ has been considered a legitimate
+  player and is exempted from all checks.'
+(341)[2020/11/20 20:30:54]: '[Spartan Build 338] CMEPTb has been considered a legitimate
+  player and is exempted from all checks.'
+(342)[2020/11/20 20:30:54]: '[Spartan Build 338] KapitanForder has been considered
+  a legitimate player and is exempted from all checks.'
+(343)[2020/11/20 20:30:54]: '[Spartan Build 338] NaulbiMIX has been considered a legitimate
+  player and is exempted from all checks.'
+(344)[2020/11/20 20:30:54]: '[Spartan Build 338] 4CBwHuK has been considered a legitimate
+  player and is exempted from all checks.'
+(345)[2020/11/20 20:30:54]: '[Spartan Build 338] 21WERICOS210 has been considered
+  a legitimate player and is exempted from all checks.'
+(346)[2020/11/20 20:30:54]: '[Spartan Build 338] Apostal has been considered a legitimate
+  player and is exempted from all checks.'
+(347)[2020/11/20 20:30:54]: '[Spartan Build 338] Mishka_youtuber has been considered
+  a legitimate player and is exempted from all checks.'
+(348)[2020/11/20 20:31:55]: '[Spartan Build 338] endermanlouco has been considered
+  a legitimate player and is exempted from all checks.'
+(349)[2020/11/20 20:32:55]: '[Spartan Build 338] Ya_Do3a has been considered a legitimate
+  player and is exempted from all checks.'
+(350)[2020/11/20 20:33:22]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 196ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 22), (t: normal, reason: air, d: 2.6688222911756867,
+  dm: 0.525, dm_s: 0.525, a: 4)]'
+(351)[2020/11/20 20:38:14]: '[Spartan Build 338-12345/987654321] MineVine_YT failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 22), (t: normal, reason: air, d: 0.4509221383604713,
+  dm: 0.42, dm_s: 0.42, a: 7)]'
+(352)[2020/11/20 20:38:14]: '[Spartan Build 338-12345/987654321] MineVine_YT failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 22), (t: normal, reason: air, d: 0.5279333460817128,
+  dm: 0.42, dm_s: 0.42, a: 7)]'
+(353)[2020/11/20 20:38:14]: '[Spartan Build 338-12345/987654321] MineVine_YT failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 22), (t: normal, reason: air, d: 0.598013595952292,
+  dm: 0.42, dm_s: 0.42, a: 7)]'
+(354)[2020/11/20 20:38:14]: '[Spartan Build 338-12345/987654321] MineVine_YT failed
+  Speed (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 22), (t: normal, reason: walking, d: 0.3094166752118497,
+  dm: 0.292, dm_s: 0.292, a: 2)]'
+(355)[2020/11/20 20:38:15]: '[Spartan Build 338-12345/987654321] MineVine_YT failed
+  Clip (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 22), (t: instant, d: 21.0, l: 1.01, r: up,
+  a: 0)]'
+(356)[2020/11/20 20:38:22]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 180ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 21), (t: normal, reason: air, d: 0.43292350144633146,
+  dm: 0.3675, dm_s: 0.3675, a: 2)]'
+(357)[2020/11/20 20:39:12]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 220ms), (TPS: 19.96), (Plib: true), (Async: false), (Online: 22), (t: jump(illegal),
+  d: 0.3330775064825957, od: 0.41987500000000466, a: 10, r: 0.7773765946962925, c:
+  (jump movement must start on ground), diff: 0.015977491991608958, f: -20)]'
+(358)[2020/11/20 20:42:29]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 197ms), (TPS: 19.96), (Plib: true), (Async: false), (Online: 20), (t: jump(unusual),
+  d: 0.19123230896968835, a: 2, r: 0.8271173143245676)]'
+(359)[2020/11/20 20:43:58]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 249ms),
+  (TPS: 19.94), (Plib: true), (Async: false), (Online: 20), (t: normal, reason: air,
+  d: 1.1775210872512762, dm: 0.3675, dm_s: 0.6675, a: 9)]'
+(360)[2020/11/20 20:43:58]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 249ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 20), (t: normal, reason: air, d: 1.0042291611183591,
+  dm: 0.3675, dm_s: 0.6675, a: 11)]'
+(361)[2020/11/20 20:43:58]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 249ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 20), (t: normal, reason: air, d: 0.9304175780752405,
+  dm: 0.3675, dm_s: 0.6675, a: 11)]'
+(362)[2020/11/20 20:43:58]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 249ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 20), (t: normal, reason: air, d: 0.8465209004212321,
+  dm: 0.3675, dm_s: 0.6675, a: 0)]'
+(363)[2020/11/20 20:44:17]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 278ms),
+  (TPS: 19.99), (Plib: true), (Async: false), (Online: 20), (t: upwards(after), dy:
+  0.21560001587867816, l: 0.17)]'
+(364)[2020/11/20 20:44:19]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 252ms),
+  (TPS: 19.99), (Plib: true), (Async: false), (Online: 20), (t: upwards(after), dy:
+  0.21560001587867816, l: 0.17)]'
+(365)[2020/11/20 20:44:21]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed Jesus (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 252ms),
+  (TPS: 19.99), (Plib: true), (Async: false), (Online: 20), (t: speed(11), d: 0.4818294077005268,
+  dm: 0.225, dm_s: 0.475)]'
+(366)[2020/11/20 20:54:03]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Itachii failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 37ms), (TPS: 19.91), (Plib: true), (Async: false), (Online: 25), (t: jump(unusual),
+  d: 0.22892801043701638, a: 2, r: 0.9425280165405354)]'
+(367)[2020/11/20 20:54:03]: '[Spartan Build 338-12345/987654321] Itachii failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 37ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 25), (t: hop(illegal), d: 0.275807993835231,
+  dm: 0.3675)]'
+(368)[2020/11/20 20:54:04]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Itachii failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 37ms), (TPS: 19.92), (Plib: true), (Async: false), (Online: 25), (t: jump(unusual),
+  d: 0.22892801043701638, a: 2, r: 0.9425280165405354)]'
+(369)[2020/11/20 20:54:04]: '[Spartan Build 338-12345/987654321] Itachii failed Speed
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 37ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 25), (t: hop(illegal), d: 0.27580799383518084,
+  dm: 0.3675)]'
+(370)[2020/11/20 20:54:04]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Itachii failed IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 37ms), (TPS: 19.92), (Plib: true), (Async: false), (Online: 25), (t: hop(frequent),
+  r: down, v: 0.13804579054163924, diff: 0.015062144333100491, ms: 47)]'
+(371)[2020/11/20 20:54:04]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Itachii failed IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 37ms), (TPS: 19.93), (Plib: true), (Async: false), (Online: 25), (t: jump(unusual),
+  d: 0.22892801043701638, a: 2, r: 0.9425280165405354)]'
+(372)[2020/11/20 20:54:04]: '[Spartan Build 338-12345/987654321] Itachii failed Speed
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 37ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 25), (t: normal, reason: air, d: 0.827411293531019,
+  dm: 0.3675, dm_s: 0.3675, a: 3)]'
+(373)[2020/11/20 20:54:05]: '[Spartan Build 338-12345/987654321] Itachii failed Speed
+  (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 37ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 25), (t: normal, reason: air, d: 1.3789359207316378,
+  dm: 0.3675, dm_s: 0.3675, a: 4)]'
+(374)[2020/11/20 20:54:23]: '[Spartan Build 338] Itachiii has been considered a legitimate
+  player and is exempted from all checks.'
+(375)[2020/11/20 20:54:23]: '[Spartan Build 338] 21WERICOS21 has been considered a
+  legitimate player and is exempted from all checks.'
+(376)[2020/11/20 20:54:23]: '[Spartan Build 338] WarsShadow has been considered a
+  legitimate player and is exempted from all checks.'
+(377)[2020/11/20 20:54:23]: '[Spartan Build 338] _Selen2__ has been considered a legitimate
+  player and is exempted from all checks.'
+(378)[2020/11/20 20:54:23]: '[Spartan Build 338] KapitanForder has been considered
+  a legitimate player and is exempted from all checks.'
+(379)[2020/11/20 20:54:23]: '[Spartan Build 338] NaulbiMIX has been considered a legitimate
+  player and is exempted from all checks.'
+(380)[2020/11/20 20:54:23]: '[Spartan Build 338] 21WERICOS210 has been considered
+  a legitimate player and is exempted from all checks.'
+(381)[2020/11/20 20:54:23]: '[Spartan Build 338] endermanlouco has been considered
+  a legitimate player and is exempted from all checks.'
+(382)[2020/11/20 20:54:23]: '[Spartan Build 338] Mishka_youtuber has been considered
+  a legitimate player and is exempted from all checks.'
+(383)[2020/11/20 20:54:23]: '[Spartan Build 338] abaldui_love has been considered
+  a legitimate player and is exempted from all checks.'
+(384)[2020/11/20 20:54:23]: '[Spartan Build 338] madetov has been considered a legitimate
+  player and is exempted from all checks.'
+(385)[2020/11/20 20:54:23]: '[Spartan Build 338] Qwert1397 has been considered a legitimate
+  player and is exempted from all checks.'
+(386)[2020/11/20 20:54:23]: '[Spartan Build 338] FakeEagle has been considered a legitimate
+  player and is exempted from all checks.'
+(387)[2020/11/20 20:56:53]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 34ms), (TPS: 15.13),
+  (Plib: true), (Async: false), (Online: 25), (t: ypos, d: 0.5879427476082532, dm:
+  0.68, dm_s: 0.68)]'
+(388)[2020/11/20 20:56:56]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE1 failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 34ms), (TPS: 10.73), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(389)[2020/11/20 20:56:58]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 66ms), (TPS: 8.918),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.6107344929555257, dm:
+  0.68, dm_s: 0.68)]'
+(390)[2020/11/20 20:56:59]: '[Spartan Build 338-12345/987654321] Qwert1397 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 107ms), (TPS: 7.895),
+  (Plib: true), (Async: false), (Online: 24), (t: ground(jump-speed), d: 0.3876470942047747,
+  dm: 0.525)]'
+(391)[2020/11/20 20:57:00]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 66ms), (TPS: 7.480), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(392)[2020/11/20 20:57:01]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Qwert1397 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 107ms), (TPS: 6.724), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(393)[2020/11/20 20:57:02]: '[Spartan Build 338-12345/987654321] Apostal failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 897ms), (TPS: 6.464),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.5858319285966435, dm:
+  0.68, dm_s: 0.68)]'
+(394)[2020/11/20 20:57:04]: '[Spartan Build 338-12345/987654321] Mishka_youtuber failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 61ms), (TPS: 5.628),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.4836715381834968, dm:
+  0.68, dm_s: 0.68)]'
+(395)[2020/11/20 20:57:05]: '[Spartan Build 338-12345/987654321] Owner_GG failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 11ms), (TPS: 5.243),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.4643869546850101, dm:
+  0.68, dm_s: 0.68)]'
+(396)[2020/11/20 20:57:11]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 255ms), (TPS: 4.083),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.5315739324204969, dm:
+  0.68, dm_s: 0.68)]'
+(397)[2020/11/20 20:57:11]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE1 failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 31ms), (TPS: 3.985), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(398)[2020/11/20 20:57:14]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 64ms), (TPS: 3.677), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(399)[2020/11/20 20:57:14]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 64ms), (TPS: 3.560), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(400)[2020/11/20 20:57:16]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Mishka_youtuber failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 59ms), (TPS: 3.348), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(401)[2020/11/20 20:57:17]: '[Spartan Build 338-12345/987654321] Ya_Do3a failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 68ms), (TPS: 3.219),
+  (Plib: true), (Async: false), (Online: 24), (t: hop(static), r: down, v: 0.02442408821367792)]'
+(402)[2020/11/20 20:57:19]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 63ms), (TPS: 3.105),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.4434165846505622, dm:
+  0.68, dm_s: 0.68)]'
+(403)[2020/11/20 20:57:19]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 63ms), (TPS: 3.081), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(404)[2020/11/20 20:57:19]: '[Spartan Build 338-12345/987654321] Ya_Do3a failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 68ms), (TPS: 3.025),
+  (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic), r: down, diff: 0.07242780368044421)]'
+(405)[2020/11/20 20:57:20]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 63ms), (TPS: 2.965), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(406)[2020/11/20 20:57:21]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 32ms), (TPS: 2.876),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.47955555712671655, dm:
+  0.68, dm_s: 0.68)]'
+(407)[2020/11/20 20:57:22]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 63ms), (TPS: 2.819), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(408)[2020/11/20 20:57:24]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 32ms), (TPS: 2.651), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(409)[2020/11/20 20:57:25]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 63ms), (TPS: 2.606), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(410)[2020/11/20 20:57:25]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 63ms), (TPS: 2.603), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(411)[2020/11/20 20:57:25]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 32ms), (TPS: 2.576), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(412)[2020/11/20 20:57:26]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 11ms), (TPS: 2.498), (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(413)[2020/11/20 20:57:29]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 11ms), (TPS: 2.348), (Plib: true), (Async: false), (Online: 24), (t: hop(static),
+  r: down, v: 0.02442408821369213)]'
+(414)[2020/11/20 20:57:29]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 11ms), (TPS: 2.321), (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(415)[2020/11/20 20:57:31]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 62ms), (TPS: 2.238), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(416)[2020/11/20 20:57:33]: '[Spartan Build 338-12345/987654321] Ya_Do3a failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 66ms), (TPS: 2.156),
+  (Plib: true), (Async: false), (Online: 24), (t: hop(static), r: down, v: 0.02442408821369213)]'
+(417)[2020/11/20 20:57:34]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Qwert1397 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 95ms), (TPS: 2.115), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(418)[2020/11/20 20:57:35]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Qwert1397 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 95ms), (TPS: 2.054), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(419)[2020/11/20 20:57:35]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 62ms), (TPS: 2.054), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(420)[2020/11/20 20:57:35]: '[Spartan Build 338-12345/987654321] Itachii failed Speed
+  (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 40ms), (TPS: 2.050),
+  (Plib: true), (Async: false), (Online: 23), (t: ypos, d: 0.4261757511399107, dm:
+  0.68, dm_s: 0.68)]'
+(421)[2020/11/20 20:57:36]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Exploits (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS:
+  2.023), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 17)]'
+(422)[2020/11/20 20:57:36]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 62ms), (TPS: 2.009), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(423)[2020/11/20 20:57:38]: '[Spartan Build 338-12345/987654321] Qwert1397 failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 95ms), (TPS: 1.942),
+  (Plib: true), (Async: false), (Online: 23), (t: ground(jump-speed), d: 0.36194447231347987,
+  dm: 0.525)]'
+(424)[2020/11/20 20:57:39]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 11ms), (TPS: 1.896), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(425)[2020/11/20 20:57:39]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 32ms), (TPS: 1.893),
+  (Plib: true), (Async: false), (Online: 23), (t: ground(jump-speed), d: 0.38334733095539947,
+  dm: 0.525)]'
+(426)[2020/11/20 20:57:40]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Exploits (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS:
+  1.865), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 18)]'
+(427)[2020/11/20 20:57:40]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 32ms), (TPS: 1.857), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(428)[2020/11/20 20:57:40]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Qwert1397 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 95ms), (TPS: 1.851), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(429)[2020/11/20 20:57:41]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 62ms), (TPS: 1.835), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(430)[2020/11/20 20:57:41]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Mishka_youtuber failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 58ms), (TPS: 1.832), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(431)[2020/11/20 20:57:42]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 62ms), (TPS: 1.812), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(432)[2020/11/20 20:57:42]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 32ms), (TPS: 1.783), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(433)[2020/11/20 20:57:43]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 11ms), (TPS: 1.766), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(434)[2020/11/20 20:57:43]: '[Spartan Build 338-12345/987654321] Apostal failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 417ms), (TPS: 1.758),
+  (Plib: true), (Async: false), (Online: 23), (t: hop(static), r: down, v: 0.02442408821369213)]'
+(435)[2020/11/20 20:57:44]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 11ms), (TPS: 1.744), (Plib: true), (Async: false), (Online: 23), (t: hop(static),
+  r: down, v: 0.02442408821369213)]'
+(436)[2020/11/20 20:57:44]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Exploits (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS:
+  1.744), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 19)]'
+(437)[2020/11/20 20:57:44]: '[Spartan Build 338-12345/987654321] Itachii failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 41ms), (TPS: 1.739),
+  (Plib: true), (Async: false), (Online: 23), (t: ypos, d: 0.5938169422930761, dm:
+  0.68, dm_s: 0.68)]'
+(438)[2020/11/20 20:57:44]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Exploits (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS:
+  1.720), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 20)]'
+(439)[2020/11/20 20:57:45]: '(False Positive) [Spartan Build 338-12345/987654321]
+  NaulbiMIX failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 62ms), (TPS: 1.700), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(440)[2020/11/20 20:57:47]: '[Spartan Build 338-12345/987654321] Apostal failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 417ms), (TPS: 1.652),
+  (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(441)[2020/11/20 20:57:47]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 61ms),
+  (TPS: 1.641), (Plib: true), (Async: false), (Online: 24), (t: hop(static), r: down,
+  v: 0.02442408821369213)]'
+(442)[2020/11/20 20:57:48]: '[Spartan Build 338-12345/987654321] SmikG_R1ef failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 48ms), (TPS: 1.613),
+  (Plib: true), (Async: false), (Online: 24), (t: ypos, d: 0.5496037517220637, dm:
+  0.68, dm_s: 0.68)]'
+(443)[2020/11/20 20:57:49]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 61ms),
+  (TPS: 1.606), (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic), r: up,
+  diff: 0.003016261509046103)]'
+(444)[2020/11/20 20:57:49]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 61ms), (TPS: 1.597),
+  (Plib: true), (Async: false), (Online: 24), (t: ground(jump-speed), d: 0.3807041655224664,
+  dm: 0.525)]'
+(445)[2020/11/20 20:57:49]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Exploits (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 61ms), (TPS:
+  1.583), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 21)]'
+(446)[2020/11/20 20:57:53]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 61ms),
+  (TPS: 1.499), (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic), r: up,
+  diff: 0.003016261509046103)]'
+(447)[2020/11/20 20:57:54]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 61ms),
+  (TPS: 1.481), (Plib: true), (Async: false), (Online: 24), (t: hop(static), r: down,
+  v: 0.02442408821369213)]'
+(448)[2020/11/20 20:57:55]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  Exploits (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 61ms), (TPS:
+  1.459), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 22)]'
+(449)[2020/11/20 20:57:55]: '[Spartan Build 338] NaulbiMIX was kicked for Exploits'
+(450)[2020/11/20 20:57:56]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Mishka_youtuber failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 71ms), (TPS: 1.435), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(451)[2020/11/20 20:57:57]: '[Spartan Build 338-12345/987654321] Ya_Do3a failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 66ms), (TPS: 1.419),
+  (Plib: true), (Async: false), (Online: 23), (t: ypos, d: 0.458580598817733, dm:
+  0.68, dm_s: 0.68)]'
+(452)[2020/11/20 20:57:57]: '[Spartan Build 338-12345/987654321] Apostal failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 333ms), (TPS: 1.407),
+  (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(453)[2020/11/20 20:57:57]: '[Spartan Build 338-12345/987654321] Owner_GG failed Exploits
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 1.405),
+  (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 17)]'
+(454)[2020/11/20 20:57:58]: '[Spartan Build 338-12345/987654321] Qwert1397 failed
+  GhostHand (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 90ms), (TPS:
+  1.404), (Plib: true), (Async: false), (Online: 23), (t: interact, c: chest, r: grass)]'
+(455)[2020/11/20 20:57:58]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 225ms), (TPS: 1.398),
+  (Plib: true), (Async: false), (Online: 23), (t: ypos, d: 0.47491782376990965, dm:
+  0.68, dm_s: 0.68)]'
+(456)[2020/11/20 20:57:58]: '[Spartan Build 338-12345/987654321] Apostal failed IrregularMovements
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 333ms), (TPS: 1.393),
+  (Plib: true), (Async: false), (Online: 23), (t: hop(static), r: down, v: 0.02442408821369213)]'
+(457)[2020/11/20 20:57:59]: '[Spartan Build 338-12345/987654321] Owner_GG failed Exploits
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 1.382),
+  (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 18)]'
+(458)[2020/11/20 20:58:00]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 10ms), (TPS: 1.362), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(459)[2020/11/20 20:58:01]: '[Spartan Build 338-12345/987654321] Owner_GG failed Exploits
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 1.346),
+  (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 19)]'
+(460)[2020/11/20 20:58:02]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Itachii failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 39ms), (TPS: 1.317), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(461)[2020/11/20 20:58:03]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 10ms), (TPS: 1.306), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(462)[2020/11/20 20:58:03]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Itachii failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 39ms), (TPS: 1.305), (Plib: true), (Async: false), (Online: 23), (t: hop(static),
+  r: down, v: 0.02442408821369213)]'
+(463)[2020/11/20 20:58:03]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 10ms), (TPS: 1.304), (Plib: true), (Async: false), (Online: 23), (t: hop(static),
+  r: down, v: 0.02442408821369213)]'
+(464)[2020/11/20 20:58:05]: '[Spartan Build 338-12345/987654321] Apostal failed IrregularMovements
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 333ms), (TPS: 1.278),
+  (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(465)[2020/11/20 20:58:05]: '[Spartan Build 338-12345/987654321] Owner_GG failed Exploits
+  (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 1.278),
+  (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 20)]'
+(466)[2020/11/20 20:58:06]: '(False Positive) [Spartan Build 338-12345/987654321]
+  madetov failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 80ms), (TPS: 1.257), (Plib: true), (Async: false), (Online: 23), (t: hop(static),
+  r: down, v: 0.02442408821369213)]'
+(467)[2020/11/20 20:58:06]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 10ms), (TPS: 1.249), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(468)[2020/11/20 20:58:07]: '[Spartan Build 338-12345/987654321] Owner_GG failed Exploits
+  (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 10ms), (TPS: 1.246),
+  (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 21)]'
+(469)[2020/11/20 20:58:08]: '[Spartan Build 338-12345/987654321] madetov failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 80ms), (TPS: 1.230),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, d: 1.353344078953839, l:
+  1.35, r: down, a: 0)]'
+(470)[2020/11/20 20:58:08]: '[Spartan Build 338-12345/987654321] madetov failed Clip
+  (VL: 2) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 80ms), (TPS: 1.229),
+  (Plib: true), (Async: false), (Online: 23), (t: instant, d: 1.4046772247136232,
+  l: 1.35, r: down, a: 0)]'
+(471)[2020/11/20 20:58:09]: '(False Positive) [Spartan Build 338-12345/987654321]
+  madetov failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 80ms), (TPS: 1.215), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic),
+  r: down, diff: 0.034276275776633724)]'
+(472)[2020/11/20 20:58:09]: '(False Positive) [Spartan Build 338-12345/987654321]
+  Owner_GG failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 9ms), (TPS: 1.212), (Plib: true), (Async: false), (Online: 23), (t: hop(static),
+  r: down, v: 0.02442408821369213)]'
+(473)[2020/11/20 20:58:09]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 198ms), (TPS: 1.207), (Plib: true), (Async: false), (Online: 24), (t: hop(dynamic),
+  r: down, diff: 0.07242780368044421)]'
+(474)[2020/11/20 20:58:10]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 25ms), (TPS: 1.194),
+  (Plib: true), (Async: false), (Online: 24), (t: hop(motion), d: 0.34572508198220453,
+  dm: 0.3675)]'
+(475)[2020/11/20 20:58:10]: '[Spartan Build 338-12345/987654321] Owner_GG failed Exploits
+  (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 9ms), (TPS: 1.188), (Plib:
+  true), (Async: false), (Online: 24), (t: chunk updates, a: 22)]'
+(476)[2020/11/20 20:58:11]: '[Spartan Build 338] Owner_GG was kicked for Exploits'
+(477)[2020/11/20 20:58:11]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE1 failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 25ms), (TPS: 1.174), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(478)[2020/11/20 20:58:13]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 198ms), (TPS: 1.154),
+  (Plib: true), (Async: false), (Online: 23), (t: ypos, d: 0.5587771595234097, dm:
+  0.68, dm_s: 0.68)]'
+(479)[2020/11/20 20:58:16]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 25ms), (TPS: 1.120),
+  (Plib: true), (Async: false), (Online: 23), (t: hop(motion), d: 0.3483923482067131,
+  dm: 0.3675)]'
+(480)[2020/11/20 20:58:16]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 35ms), (TPS: 1.110), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(481)[2020/11/20 20:58:16]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 0ms),
+  (TPS: 1.110), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic), r: up,
+  diff: 0.003016261509046103)]'
+(482)[2020/11/20 20:58:17]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Exploits (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS:
+  1.102), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 17)]'
+(483)[2020/11/20 20:58:17]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Exploits (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS:
+  1.098), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 18)]'
+(484)[2020/11/20 20:58:18]: '(False Positive) [Spartan Build 338-12345/987654321]
+  YaTigr failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false),
+  (Ping: 198ms), (TPS: 1.096), (Plib: true), (Async: false), (Online: 24), (t: hop(static),
+  r: down, v: 0.02442408821367792)]'
+(485)[2020/11/20 20:58:18]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 31ms), (TPS: 1.095), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(486)[2020/11/20 20:58:19]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Exploits (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 25ms), (TPS:
+  1.084), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 17)]'
+(487)[2020/11/20 20:58:20]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Exploits (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS:
+  1.062), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 19)]'
+(488)[2020/11/20 20:58:22]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Exploits (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 23ms), (TPS:
+  1.048), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 18)]'
+(489)[2020/11/20 20:58:22]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 31ms), (TPS: 1.048), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(490)[2020/11/20 20:58:22]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE1 failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 23ms), (TPS: 1.046), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(491)[2020/11/20 20:58:22]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Exploits (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS:
+  1.041), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 20)]'
+(492)[2020/11/20 20:58:23]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 31ms), (TPS: 1.039), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(static), r: down, v: 0.015555072702198913)]'
+(493)[2020/11/20 20:58:24]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Exploits (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS:
+  1.023), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 21)]'
+(494)[2020/11/20 20:58:25]: '[Spartan Build 338-12345/987654321] Owner_GG failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 0ms), (TPS: 1.018), (Plib:
+  true), (Async: false), (Online: 24), (t: hop(static), r: down, v: 0.02442408821369213)]'
+(495)[2020/11/20 20:58:26]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Exploits (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 23ms), (TPS:
+  1.005), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 19)]'
+(496)[2020/11/20 20:58:26]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE2 failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 31ms), (TPS: 1.003), (Plib: true), (Async: false), (Online: 24),
+  (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(497)[2020/11/20 20:58:26]: '[Spartan Build 338-12345/987654321] SUPERxBEE2 failed
+  Exploits (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 31ms), (TPS:
+  1.001), (Plib: true), (Async: false), (Online: 24), (t: chunk updates, a: 22)]'
+(498)[2020/11/20 20:58:26]: '[Spartan Build 338] SUPERxBEE2 was kicked for Exploits'
+(499)[2020/11/20 20:58:26]: '[Spartan Build 338-12345/987654321] Owner_GG failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 0ms), (TPS: 0.998), (Plib:
+  true), (Async: false), (Online: 23), (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(500)[2020/11/20 20:58:27]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SUPERxBEE1 failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 23ms), (TPS: 0.997), (Plib: true), (Async: false), (Online: 23),
+  (t: hop(static), r: down, v: 0.02442408821369213)]'
+(501)[2020/11/20 20:58:28]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Exploits (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 23ms), (TPS:
+  0.985), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 20)]'
+(502)[2020/11/20 20:58:29]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 6) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 16ms),
+  (TPS: 0.974), (Plib: true), (Async: false), (Online: 23), (t: hop(static), r: down,
+  v: 0.02442408821369213)]'
+(503)[2020/11/20 20:58:30]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 7) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 16ms),
+  (TPS: 0.963), (Plib: true), (Async: false), (Online: 23), (t: hop(dynamic), r: up,
+  diff: 0.003016261509046103)]'
+(504)[2020/11/20 20:58:32]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Exploits (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 23ms), (TPS:
+  0.943), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 21)]'
+(505)[2020/11/20 20:58:33]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  Exploits (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 23ms), (TPS:
+  0.939), (Plib: true), (Async: false), (Online: 23), (t: chunk updates, a: 22)]'
+(506)[2020/11/20 20:58:33]: '[Spartan Build 338] SUPERxBEE1 was kicked for Exploits'
+(507)[2020/11/20 20:58:35]: '[Spartan Build 338-12345/987654321] No4b__YT failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 396ms), (TPS: 0.922),
+  (Plib: true), (Async: false), (Online: 22), (t: ypos, d: 0.6092703705492294, dm:
+  0.68, dm_s: 0.68)]'
+(508)[2020/11/20 20:58:36]: '[Spartan Build 338-12345/987654321] NaulbiMIX failed
+  IrregularMovements (VL: 8) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 16ms),
+  (TPS: 0.908), (Plib: true), (Async: false), (Online: 22), (t: hop(dynamic), r: up,
+  diff: 0.003016261509046103)]'
+(509)[2020/11/20 20:58:39]: '(False Positive) [Spartan Build 338-12345/987654321]
+  SmikG_R1ef failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent:
+  false), (Ping: 43ms), (TPS: 0.884), (Plib: true), (Async: false), (Online: 22),
+  (t: hop(static), r: down, v: 0.0548933470320776)]'
+(510)[2020/11/20 20:58:40]: '[Spartan Build 338-12345/987654321] Owner_GG failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 3ms), (TPS: 0.879), (Plib:
+  true), (Async: false), (Online: 22), (t: hop(dynamic), r: up, diff: 0.003016261509046103)]'
+(511)[2020/11/20 20:58:40]: '[Spartan Build 338-12345/987654321] Owner_GG failed IrregularMovements
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 3ms), (TPS: 0.878), (Plib:
+  true), (Async: false), (Online: 22), (t: hop(static), r: down, v: 0.02442408821369213)]'

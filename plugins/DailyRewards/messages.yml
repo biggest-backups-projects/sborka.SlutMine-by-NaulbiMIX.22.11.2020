@@ -1,0 +1,7 @@
+no-rewards: '&f'
+cooldown-msg: '&6&lSLUT&F&LMINE&8: &fСледущая награда: %time%'
+no-permission: '&6&lSLUT&F&LMINE&8: &fНет прав'
+reward-available: '&6&lSLUT&F&LMINE&8: &fТы не взял бонус - Команда: &6/reward'
+PlaceholderAPI:
+  reward-available: Unclaimed Rewards Available!
+  no-rewards: No Rewards Available

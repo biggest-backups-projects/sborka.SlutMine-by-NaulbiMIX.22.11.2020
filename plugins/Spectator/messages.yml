@@ -1,0 +1,22 @@
+Messages:
+  Spectate:
+    General: '&bВы успешно вошли в режим наблюдения'
+    Other: '&bВы вошли в режим наблюдения за <player>'
+    GiveOther: '&bПереносим <player> в режим наблюдения'
+    'Off': '&eВы вышли из режима наблюдения'
+    CycleStart: '&bЦикл наблюдения начат с интервалом <interval>!'
+    CycleStop: '&eЦикл наблюдения был завершён.'
+    CycleRunning: '&cВы уже в режиме цикла наблюдения.'
+    CycleInactive: '&cВы не в режиме цикла наблюдения'
+    CycleNoDismount: '&cPlayer dismount blocked, you are currently cycling! Use &7/speccycle
+      stop &cto stop!'
+    Self: '&cВы не можете начать наблюдение за собой!'
+    NoChange: '&cВы уже следите за <player>!'
+    NoSpectate: '&cВы не можете начать наблюдение за <player> в текущий момент.'
+  Player:
+    NotPlayer: '&cТы даже не человек. Ты даже не даже.'
+    Offline: '&c<player> не в сети'
+    GameModeBlocked: '&cGamemode change blocked, you are currently spectating. Use
+      &7/spec &cto leave spectator mode!'
+  Plugin:
+    Reload: '&bПерезагружаем хуйню'

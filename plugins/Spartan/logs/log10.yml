@@ -1,0 +1,64 @@
+(1)[2020/11/20 21:29:32]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 59ms), (TPS: 16.60),
+  (Plib: true), (Async: false), (Online: 22), (t: ypos, d: 0.6120589391775366, dm:
+  0.68, dm_s: 0.68)]'
+(2)[2020/11/20 21:29:34]: '[Spartan Build 338-12345/987654321] Kinamorgam1212 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 125ms), (TPS: 13.91),
+  (Plib: true), (Async: false), (Online: 22), (t: ypos, d: 0.5240599110864743, dm:
+  0.68, dm_s: 0.68)]'
+(3)[2020/11/20 21:29:34]: '[Spartan Build 338-12345/987654321] clanf1retop failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 46ms), (TPS: 13.16),
+  (Plib: true), (Async: false), (Online: 22), (t: ypos, d: 0.5526233160854598, dm:
+  0.68, dm_s: 0.68)]'
+(4)[2020/11/20 21:29:34]: '[Spartan Build 338-12345/987654321] _KILERBRO_ failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 68ms), (TPS: 12.73),
+  (Plib: true), (Async: false), (Online: 22), (t: hop(repeated), v: 0.02442, ms: 342)]'
+(5)[2020/11/20 21:29:38]: '(False Positive) [Spartan Build 338-12345/987654321] clanf1retop
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  46ms), (TPS: 9.547), (Plib: true), (Async: false), (Online: 22), (t: hop(dynamic),
+  r: up, diff: 0.003016261509046103)]'
+(6)[2020/11/20 21:29:38]: '[Spartan Build 338-12345/987654321] clanf1retop failed
+  IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 46ms),
+  (TPS: 9.521), (Plib: true), (Async: false), (Online: 22), (t: hop(repeated), v:
+  0.02442, ms: 194)]'
+(7)[2020/11/20 21:29:38]: '[Spartan Build 338-12345/987654321] clanf1retop failed
+  IrregularMovements (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 46ms),
+  (TPS: 9.394), (Plib: true), (Async: false), (Online: 22), (t: hop(repeated), v:
+  0.02442, ms: 306)]'
+(8)[2020/11/20 21:29:38]: '[Spartan Build 338-12345/987654321] IFill_Love failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 50ms), (TPS: 9.311),
+  (Plib: true), (Async: false), (Online: 22), (t: ypos, d: 0.4833924604532474, dm:
+  0.68, dm_s: 0.68)]'
+(9)[2020/11/20 21:29:39]: '[Spartan Build 338-12345/987654321] YaTigr failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 188ms), (TPS: 9.394),
+  (Plib: true), (Async: false), (Online: 22), (t: ypos, d: 0.6107890008529009, dm:
+  0.68, dm_s: 0.68)]'
+(10)[2020/11/20 21:29:46]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed
+  Jesus (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 20), (t: ypos(normal), dy: 0.4799999999999969,
+  l: 0.38)]'
+(11)[2020/11/20 21:29:46]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed
+  Jesus (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 20), (t: speed(10), d: 0.4799999999999911,
+  dm: 0.17, dm_s: 0.2)]'
+(12)[2020/11/20 21:29:47]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed
+  Jesus (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 20), (t: speed(10), d: 0.47999999999999704,
+  dm: 0.17, dm_s: 0.2)]'
+(13)[2020/11/20 21:29:47]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed
+  Jesus (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 20), (t: speed(10), d: 0.47999999999999704,
+  dm: 0.17, dm_s: 0.2)]'
+(14)[2020/11/20 21:29:47]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed
+  Jesus (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 20), (t: speed(10), d: 0.47999999999999704,
+  dm: 0.17, dm_s: 0.2)]'
+(15)[2020/11/20 21:29:47]: '[Spartan Build 338-12345/987654321] Sdq_5ekFly failed
+  Jesus (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 20), (t: speed(10), d: 0.47999999999999704,
+  dm: 0.17, dm_s: 0.2)]'
+(16)[2020/11/20 21:29:47]: '[Spartan Build 338] Sdq_5ekFly was kicked for Jesus'
+(17)[2020/11/20 21:29:47]: '[Spartan Build 338-12345/987654321] SUPERxBEE1 failed
+  MorePackets (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 28ms), (TPS:
+  20.0), (Plib: true), (Async: false), (Online: 19), (t: difference, c: 9.133405042449382,
+  n: 1.5300623322998577, d: 7.603342710149525, t: 36, l: 1.5, p: true)]'

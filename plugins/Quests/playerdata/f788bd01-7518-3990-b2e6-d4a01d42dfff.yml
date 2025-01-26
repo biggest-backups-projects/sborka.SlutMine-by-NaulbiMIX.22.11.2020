@@ -1,0 +1,136 @@
+quest-progress:
+  farmingquest7:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605803984152
+    task-progress:
+      mining:
+        completed: true
+        progress: 50
+  farmingquest6:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605803833758
+    task-progress:
+      mining:
+        completed: true
+        progress: 100
+  farmingquest9:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605804078887
+    task-progress:
+      mining:
+        completed: true
+        progress: 100
+  farmingquest8:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605804024200
+    task-progress:
+      mining:
+        completed: true
+        progress: 75
+  farmingquest1:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605803523497
+    task-progress:
+      mining:
+        completed: true
+        progress: 50
+  farmingquest3:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605803725438
+    task-progress:
+      mining:
+        completed: true
+        progress: 100
+  farmingquest2:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605803633711
+    task-progress:
+      mining:
+        completed: true
+        progress: 75
+  farmingquest5:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605804112396
+    task-progress:
+      mining:
+        completed: true
+        progress: 75
+  farmingquest4:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605803785682
+    task-progress:
+      mining:
+        completed: true
+        progress: 50
+  farmingquest20:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605804364226
+    task-progress:
+      mining:
+        completed: true
+        progress: 256
+  farmingquest21:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605804739606
+    task-progress:
+      mining:
+        completed: true
+        progress: 512
+  farmingquest19:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605804241649
+    task-progress:
+      mining:
+        completed: true
+        progress: 128
+  farmingquest35:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605805452559
+    task-progress:
+      mining:
+        completed: true
+        progress: 100
+  farmingquest36:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605806120763
+    task-progress:
+      mining:
+        completed: true
+        progress: 150
+  farmingquest34:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605805165322
+    task-progress:
+      mining:
+        completed: true
+        progress: 50

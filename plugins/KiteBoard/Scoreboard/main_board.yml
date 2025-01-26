@@ -1,0 +1,28 @@
+setting:
+  priority: 1
+  advanced: false
+
+# Scoreboard criteria, see the wiki for more information.
+criteria:
+  default-permissions:
+    type: PERMISSION
+    permission: "kiteboard.group.default"
+    default: true
+
+# Scoreboard content, configured simply
+# Adding "100|" sets the refresh rate for this line.
+content:
+  - "&6&lＳＬＵＴ&f&lＭＩＮＥ"
+  - "   "
+  - '  &fНик: &e%player_name%'
+  - '  &fПинг: &6%player_ping%' #%server_ping%'    
+  - ''
+  - '  &fРанг: &e%vault_rankprefix%'
+  - '  &fТитул:&7%javascript_titul%'
+  - '  &fФранки: &6&l₣%tm_tokens%'
+  - '&3'
+  - "  &fБаланс: &e⛂%vault_eco_balance_formatted%" 
+  - "  &fPVP: &6%statistic_player_kills% &7/ &6%statistic_deaths%"   
+  - '  &fДо кейса: &6%dailyrewards_remaining_minutes%&7 мин' #%server_ping%'    
+  - '&2'
+  - '  &ewww.SlutMine.Ru'

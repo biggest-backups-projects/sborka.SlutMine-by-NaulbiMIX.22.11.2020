@@ -1,0 +1,82 @@
+Menu-Name: '&c&l⚠ &0&lМАГАЗИН '#&r              &lБУСТЕРЫ:'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command: 
+  Name: boost; boosters
+  Fallback: '123'
+Items:
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 1
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:7
+  Name: '&d'
+  Commands:  
+- Slot: 9, 3
+  Material: skull:1:3
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=='
+  Name: '&3◒ &b&lНАЗАД'
+  Lore:
+  - ''
+  Commands:
+  - 'menu: shop' 
+- Slot: 5, 4
+  Material: 356
+  Name: '&6Убрать все бустеры'
+  Lore:
+  Commands:
+  - 'message: &6&lМАГАЗИН: &fВы успешно убрали бустеры'
+  - 'console: effect %player_name% clear'
+- Slot: 2, 2
+  Material: 288
+  Name: '&6ЭФФЕКТ СКОРОСТИ III'
+  Lore:
+  - '&7'
+  - '&fДает эффект: &cСкорость III &fна &e7 минут'
+  - '&7'
+  - '&DЛКМ &7- &fкупить за &635.000 $'
+  - '&dПКМ &7- &fкупить за &e20 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 20
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cЭФФЕКТ СКОРОСТИ III &fна &e7 минут'
+    - 'console: effect %player_name% 1 420 2'
+  - Click-Type: Left
+    Price: 35000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cЭФФЕКТ СКОРОСТИ III &fна &e7 минут'
+    - 'console: effect %player_name% 1 420 2'
+- Slot: 3, 2
+  Material: 376
+  Name: '&6ЭФФЕКТ СИЛЫ III'
+  Lore:
+  - '&7'
+  - '&fДает эффект: &cСИЛА III &fна &e7 минут'
+  - '&7'
+  - '&DЛКМ &7- &fкупить за &670.000 $'
+  - '&dПКМ &7- &fкупить за &e35 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 35
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cЭФФЕКТ СИЛЫ III &fна &e7 минут'
+    - 'console: effect %player_name% 5 420 2'
+  - Click-Type: Left
+    Price: 70000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cЭФФЕКТ СИЛЫ III &fна &e7 минут'
+    - 'console: effect %player_name% 5 420 2'  

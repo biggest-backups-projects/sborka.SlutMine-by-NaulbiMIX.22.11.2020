@@ -1,0 +1,13 @@
+(1)[2020/11/22 08:18:48]: '[Spartan Build 338-12345/987654321] Itachiii failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 35ms), (TPS: 19.84),
+  (Plib: true), (Async: false), (Online: 3), (t: difference, c: 18.38267336549217,
+  n: 3.8080933468748404, d: 14.574580018617329, t: 25, l: 1.5, p: true)]'
+(2)[2020/11/22 08:18:50]: '[Spartan Build 338-12345/987654321] Itachiii failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 35ms), (TPS: 19.81),
+  (Plib: true), (Async: false), (Online: 3), (t: difference, c: 18.12609086733326,
+  n: 4.514438966141361, d: 13.6116519011919, t: 27, l: 1.5, p: true)]'
+(3)[2020/11/22 08:22:42]: '(False Positive) [Spartan Build 338-12345/987654321] Itachiii
+  failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  65ms), (TPS: 19.99), (Plib: true), (Async: false), (Online: 3), (t: jump(illegal),
+  d: 0.16477328182605788, od: 0.24813599859095348, a: 12, r: 0.19053334915187747,
+  c: (jump movement must start on ground), diff: 0.014058715239095604, f: -20)]'

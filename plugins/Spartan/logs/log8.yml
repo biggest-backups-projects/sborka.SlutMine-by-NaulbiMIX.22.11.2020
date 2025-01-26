@@ -1,0 +1,325 @@
+(1)[2020/11/20 17:12:08]: '[Spartan Build 338-12345/987654321] xxxoo123 failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 4)]'
+(2)[2020/11/20 17:15:16]: '[Spartan Build 338-12345/987654321] No4b__YT failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 139ms), (TPS: 20.0),
+  (Plib: true), (Async: false), (Online: 10), (t: normal, reason: air, d: 1.6310204924315288,
+  dm: 0.7, dm_s: 0.7, a: 6)]'
+(3)[2020/11/20 17:16:14]: '[Spartan Build 338-12345/987654321] BotikB failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 54ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 11), (t: ratio, b: 23)]'
+(4)[2020/11/20 17:16:27]: '[Spartan Build 338-12345/987654321] IIIazan4ik_v3 failed
+  KillAura (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 52ms), (TPS:
+  19.96), (Plib: true), (Async: false), (Online: 9), (t: area, d: cases, c: 1)]'
+(5)[2020/11/20 17:16:54]: '[Spartan Build 338-12345/987654321] IIIazan4ik_v3 failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 52ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 14)]'
+(6)[2020/11/20 17:18:26]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 66ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 5)]'
+(7)[2020/11/20 17:19:39]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 176ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 8), (t: delay, ct: 21, ms: 1)]'
+(8)[2020/11/20 17:19:39]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 176ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 8), (t: delay, ct: 22, ms: 2)]'
+(9)[2020/11/20 17:19:40]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 176ms), (TPS: 19.90),
+  (Plib: true), (Async: false), (Online: 8), (t: delay, ct: 18, ms: 1)]'
+(10)[2020/11/20 17:19:40]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 176ms), (TPS: 19.89),
+  (Plib: true), (Async: false), (Online: 8), (t: delay, ct: 19, ms: 2)]'
+(11)[2020/11/20 17:21:07]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 168ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 6)]'
+(12)[2020/11/20 17:21:30]: '(False Positive) [Spartan Build 338-12345/987654321] acideaa
+  failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1815ms),
+  (TPS: 19.86), (Plib: true), (Async: false), (Online: 7), (t: blink, l: 22)]'
+(13)[2020/11/20 17:21:32]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1815ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 7), (t: blink, l: 22)]'
+(14)[2020/11/20 17:21:32]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1815ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 7), (t: instant, a: 22, l: false)]'
+(15)[2020/11/20 17:21:39]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1815ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 7), (t: instant, a: 22, l: false)]'
+(16)[2020/11/20 17:21:41]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1815ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 7), (t: instant, a: 22, l: false)]'
+(17)[2020/11/20 17:21:49]: '[Spartan Build 338-12345/987654321] acideaa failed MorePackets
+  (VL: 5) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1707ms), (TPS: 19.86),
+  (Plib: true), (Async: false), (Online: 7), (t: instant, a: 22, l: false)]'
+(18)[2020/11/20 17:24:21]: '[Spartan Build 338-12345/987654321] IIIazan4ik_v3 failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 68ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 7), (t: ratio, b: 4)]'
+(19)[2020/11/20 17:28:18]: '[Spartan Build 338-12345/987654321] Fulf_Fram failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 77ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 7), (t: normal, reason: air, d: 0.5073081075638284,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(20)[2020/11/20 17:28:19]: '(False Positive) [Spartan Build 338-12345/987654321] acideaa
+  failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  474ms), (TPS: 19.99), (Plib: true), (Async: false), (Online: 7), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.164773281826065, a: 15, r: 0.24918707874468282, c:
+  (frequency cannot be too fast), diff: 0.014665462493795939, f: -20)]'
+(21)[2020/11/20 17:29:21]: '[Spartan Build 338] NeKotov has been considered a legitimate
+  player and is exempted from all checks.'
+(22)[2020/11/20 17:34:26]: '[Spartan Build 338-12345/987654321] TBink_Wizera_B failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 91ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: air, d: 0.5071672718731627,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(23)[2020/11/20 17:34:26]: '[Spartan Build 338-12345/987654321] TBink_Wizera_B failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 91ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: air(decreased), d: 0.5070630316954865)]'
+(24)[2020/11/20 17:34:44]: '(False Positive) [Spartan Build 338-12345/987654321] TBink_Wizera_B
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 162ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 5), (t: ratio, b: 5)]'
+(25)[2020/11/20 17:36:54]: '(False Positive) [Spartan Build 338-12345/987654321] TBink_Wizera_B
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 94ms), (TPS:
+  19.95), (Plib: true), (Async: false), (Online: 5), (t: normal, reason: air, d: 0.3739980828680047,
+  dm: 0.3675, dm_s: 0.3675, a: 12)]'
+(26)[2020/11/20 17:38:48]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  FastHeal (VL: 1) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 8ms), (TPS:
+  19.93), (Plib: true), (Async: false), (Online: 8), (t: illegal, fl: 16)]'
+(27)[2020/11/20 17:44:20]: IIIazan4ik_v3 found 1 diamond on -1971, 7, 1225
+(28)[2020/11/20 17:44:22]: IIIazan4ik_v3 found 1 diamond on -1971, 7, 1225
+(29)[2020/11/20 17:44:25]: '[Spartan Build 338-12345/987654321] SquadEvil failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 26ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 8), (t: normal, reason: air, d: 0.6005707183369898,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(30)[2020/11/20 17:44:26]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 57ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 6)]'
+(31)[2020/11/20 17:44:27]: IIIazan4ik_v3 found 1 diamond on -1970, 6, 1226
+(32)[2020/11/20 17:44:28]: IIIazan4ik_v3 found 1 diamond on -1970, 6, 1226
+(33)[2020/11/20 17:44:29]: IIIazan4ik_v3 found 1 diamond on -1970, 6, 1226
+(34)[2020/11/20 17:44:29]: IIIazan4ik_v3 found 1 diamond on -1971, 6, 1226
+(35)[2020/11/20 17:44:33]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 57ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 7)]'
+(36)[2020/11/20 17:51:45]: '[Spartan Build 338-12345/987654321] KanoriKun failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 30ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 5), (t: ratio, b: 6)]'
+(37)[2020/11/20 17:52:00]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  KillAura (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS:
+  19.89), (Plib: true), (Async: false), (Online: 4), (t: comparison(normal), r: 0.5896575443263775,
+  m: 0.3)]'
+(38)[2020/11/20 17:53:32]: '(False Positive) [Spartan Build 338-12345/987654321] SOFT_BogDanIkys
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS:
+  19.95), (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d:
+  0.5617010069512272, dm: 0.525, dm_s: 0.525, a: 0)]'
+(39)[2020/11/20 17:53:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.4013082818822798,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(40)[2020/11/20 17:53:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.4780924318690619,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(41)[2020/11/20 17:53:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.5206812388176195,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(42)[2020/11/20 17:53:33]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.36032005709242215,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(43)[2020/11/20 17:53:33]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3727247175939312,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(44)[2020/11/20 17:53:33]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.3774855512116428,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(45)[2020/11/20 17:53:33]: '[Spartan Build 338] SOFT_BogDanIkys was kicked for Speed'
+(46)[2020/11/20 17:53:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 7) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3281213700533638,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(47)[2020/11/20 17:53:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 8) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3341182300764558,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(48)[2020/11/20 17:53:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 9) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.30295851824637204,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(49)[2020/11/20 17:53:45]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 10) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.30295851824637204,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(50)[2020/11/20 17:53:45]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 11) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3111649089987207,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(51)[2020/11/20 17:53:46]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 12) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3111649089987207,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(52)[2020/11/20 17:53:46]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 13) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3111649089987207,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(53)[2020/11/20 17:53:52]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 14) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.3759855430841939,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(54)[2020/11/20 17:53:52]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 15) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.3454486734334847,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(55)[2020/11/20 17:54:12]: '(False Positive) [Spartan Build 338-12345/987654321] KanoriKun
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS:
+  19.97), (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d:
+  0.4963069382870999, dm: 0.325, dm_s: 0.325, a: 0)]'
+(56)[2020/11/20 17:54:12]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.5413291886110935,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(57)[2020/11/20 17:54:12]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.5502876575155512,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(58)[2020/11/20 17:54:12]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.5552126988383699,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(59)[2020/11/20 17:54:12]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.39765659279191434,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(60)[2020/11/20 17:54:12]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.40194661840954576,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(61)[2020/11/20 17:54:12]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 36ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.4045409644511398,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(62)[2020/11/20 17:54:12]: '[Spartan Build 338] KanoriKun was kicked for Speed'
+(63)[2020/11/20 17:54:17]: '(False Positive) [Spartan Build 338-12345/987654321] Rayfe_
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 58ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 4), (t: ratio, b: 15)]'
+(64)[2020/11/20 17:54:20]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 7) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.97), (Plib:
+  true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.31118538269479257,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(65)[2020/11/20 17:54:20]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 8) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98), (Plib:
+  true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.31118538269479257,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(66)[2020/11/20 17:54:20]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 9) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98), (Plib:
+  true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.31118538269479257,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(67)[2020/11/20 17:54:20]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 10) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.31118538269479257,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(68)[2020/11/20 17:54:21]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 11) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 18.92),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.36588370982784646,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(69)[2020/11/20 17:54:21]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 12) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: ground, d: 0.4045406206430521,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(70)[2020/11/20 17:54:21]: '[Spartan Build 338-12345/987654321] KanoriKun failed Speed
+  (VL: 13) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 0.40454097870929956,
+  dm: 0.325, dm_s: 0.325, a: 0)]'
+(71)[2020/11/20 17:55:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 1.0478171434970203,
+  dm: 0.292, dm_s: 1.022, a: 0)]'
+(72)[2020/11/20 17:55:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 1.1086581217806497,
+  dm: 0.292, dm_s: 1.022, a: 0)]'
+(73)[2020/11/20 17:55:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 1.193042076634842,
+  dm: 0.292, dm_s: 1.022, a: 0)]'
+(74)[2020/11/20 17:55:32]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  Speed (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 3ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 5), (t: normal, reason: walking, d: 1.078099604605847,
+  dm: 0.292, dm_s: 1.022, a: 0)]'
+(75)[2020/11/20 17:59:23]: '[Spartan Build 338-12345/987654321] Geluxi failed ImpossibleActions
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 87ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 3), (t: tower(constant), b: wool)]'
+(76)[2020/11/20 17:59:23]: '[Spartan Build 338-12345/987654321] Geluxi failed ImpossibleActions
+  (VL: 2) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 87ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 3), (t: tower(constant), b: wool)]'
+(77)[2020/11/20 18:08:54]: '[Spartan Build 338-12345/987654321] 21WERICOS21 failed
+  Speed (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 6), (t: normal, reason: air, d: 1.3356497948921446,
+  dm: 0.3675, dm_s: 0.3675, a: 4)]'
+(78)[2020/11/20 18:08:55]: '[Spartan Build 338-12345/987654321] 21WERICOS21 failed
+  Speed (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 6), (t: air(decreased), d: 0.6971632413587245)]'
+(79)[2020/11/20 18:08:55]: '[Spartan Build 338-12345/987654321] 21WERICOS21 failed
+  Speed (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 6), (t: normal, reason: air, d: 0.5998073269642941,
+  dm: 0.3675, dm_s: 0.3675, a: 3)]'
+(80)[2020/11/20 18:08:55]: '[Spartan Build 338-12345/987654321] 21WERICOS21 failed
+  Speed (VL: 4) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 6), (t: normal, reason: air, d: 0.6738570145621819,
+  dm: 0.3675, dm_s: 0.3675, a: 4)]'
+(81)[2020/11/20 18:08:55]: '[Spartan Build 338-12345/987654321] 21WERICOS21 failed
+  Speed (VL: 5) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 6), (t: air(decreased), d: 0.699335960709145)]'
+(82)[2020/11/20 18:08:56]: '[Spartan Build 338-12345/987654321] 21WERICOS21 failed
+  Speed (VL: 6) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 6), (t: normal, reason: air, d: 0.699335960709145,
+  dm: 0.3675, dm_s: 0.3675, a: 3)]'
+(83)[2020/11/20 18:08:56]: '[Spartan Build 338] 21WERICOS21 was kicked for Speed'
+(84)[2020/11/20 18:12:27]: '(False Positive) [Spartan Build 338-12345/987654321] Qwert1397
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  70ms), (TPS: 19.93), (Plib: true), (Async: false), (Online: 7), (t: jump(unusual),
+  d: 0.3929999887943296, a: 18, r: 0.29499998688697815)]'
+(85)[2020/11/20 18:12:27]: '(False Positive) [Spartan Build 338-12345/987654321] Qwert1397
+  failed IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  70ms), (TPS: 19.92), (Plib: true), (Async: false), (Online: 7), (t: jump(illegal),
+  d: 0.08307781780646906, od: 0.164773281826065, a: 21, r: 0.12418707874468282, c:
+  (jump movement must start on ground), diff: 0.019213462493795935, f: -20)]'
+(86)[2020/11/20 18:16:33]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.98), (Plib:
+  true), (Async: false), (Online: 6), (t: ratio, b: 39)]'
+(87)[2020/11/20 18:16:47]: '[Spartan Build 338-12345/987654321] SyperBro failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 75ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 6), (t: normal, reason: air, d: 0.7678370077515467,
+  dm: 0.525, dm_s: 0.525, a: 0)]'
+(88)[2020/11/20 18:16:47]: '[Spartan Build 338-12345/987654321] SyperBro failed Speed
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 75ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 6), (t: normal, reason: air, d: 1.1251366856256966,
+  dm: 0.3675, dm_s: 0.3675, a: 1)]'
+(89)[2020/11/20 18:17:03]: '(False Positive) [Spartan Build 338-12345/987654321] SyperBro
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 68ms),
+  (TPS: 19.97), (Plib: true), (Async: false), (Online: 6), (t: ratio, b: 5)]'
+(90)[2020/11/20 18:22:03]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 85ms), (TPS: 19.91),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 19)]'
+(91)[2020/11/20 18:22:41]: '[Spartan Build 338-12345/987654321] vert123 failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 0ms), (TPS: 19.99), (Plib:
+  true), (Async: false), (Online: 8), (t: normal, reason: air, d: 0.4658554195968266,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(92)[2020/11/20 18:26:38]: '[Spartan Build 338-12345/987654321] vert123 failed KillAura
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 85ms), (TPS: 19.88),
+  (Plib: true), (Async: false), (Online: 8), (t: area, d: cases, c: 1)]'
+(93)[2020/11/20 18:26:44]: '[Spartan Build 338-12345/987654321] SashaPlay8990 failed
+  NoFall (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 21ms), (TPS: 19.87),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 8)]'
+(94)[2020/11/20 18:26:48]: '[Spartan Build 338-12345/987654321] SashaPlay8990 failed
+  NoFall (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 20ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 8), (t: ratio, b: 4)]'
+(95)[2020/11/20 18:27:14]: '(False Positive) [Spartan Build 338-12345/987654321] vert123
+  failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 78ms),
+  (TPS: 19.89), (Plib: true), (Async: false), (Online: 7), (t: delay, ct: 21, ms:
+  1)]'
+(96)[2020/11/20 18:27:15]: '[Spartan Build 338-12345/987654321] SashaPlay8990 failed
+  NoFall (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 21ms), (TPS: 19.97),
+  (Plib: true), (Async: false), (Online: 7), (t: ratio, b: 5)]'
+(97)[2020/11/20 18:27:47]: '[Spartan Build 338-12345/987654321] Rayfe_ failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 64ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 6), (t: ratio, b: 21)]'

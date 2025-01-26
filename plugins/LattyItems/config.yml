@@ -1,0 +1,45 @@
+items:
+  swordgod:
+    name: '&6♣&9&l &e&lМЕЧ КРОВИ'
+    icon:
+      material: DIAMOND_SWORD
+      data: 0
+      ammount: 1
+    lore:
+      - ''
+      - ' &6╔&f Когда в руке:'
+      - ' &6╚&d Регенерация II'
+      - ' '
+      - ' &6╔ &fДополнительно:'
+      - ' &6╚ &6Неразрушаемый'
+    enchants:
+      - 'DAMAGE_ALL:6'
+    effects:
+      - 'REGENERATION:2'
+    sound:
+      - 'UI_BUTTON_CLICK:1.0:1.0'
+    functions:
+      break: false #Предмет никогда не сломаеться
+      drop: false #Не дропаеться при убийстве
+      save: true #Сохраняеться после убийстваitems:
+  totem:
+    name: '&6♣&9&l &e&lТОТЕМ КРОВИ'
+    icon:
+      material: totem
+      data: 0
+      ammount: 1
+    lore:
+      - ''
+      - ' &6❱ &fЭффект: &bСкорость II'
+      - ' &6❱ &fДоп. &c10❤'
+      - ' '
+    enchants:
+    effects:
+      - 'health_boost:5'
+      - 'speed:2'
+    sound:
+      - 'UI_BUTTON_CLICK:1.0:1.0'
+    functions:
+      break: true #Предмет никогда не сломаеться
+      drop: false #Не дропаеться при убийстве
+      save: true #Сохраняеться после убийства

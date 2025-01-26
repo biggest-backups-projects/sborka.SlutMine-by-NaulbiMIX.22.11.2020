@@ -1,0 +1,241 @@
+Menu-Name: '&c&l⚠ &0&lРЕДКИЕ СЕТЫ '#            &r&lРЕДКИЕ СЕТЫ'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command: 
+  Name: donate; don; d
+  Fallback: '123'
+Items:
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 1
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:7
+  Name: '&d'
+  Commands: 
+- Slot: 9, 3
+  Material: skull:1:3
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=='
+  Name: '&3◒ &b&lНАЗАД'
+  Lore:
+  - ''
+  Commands:
+  - 'menu: shop'          
+- Slot: 2, 2
+  Material: diamond_sword
+  Name: '&6&LБЕЗУМНЫЙ МЕЧ:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Острота V'
+  - '&c Прочность V'
+  - '&f'
+  - '&DЛКМ &7- &fкупить за &665.000 $'
+  - '&dПКМ &7- &fкупить за &c30 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 30
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cМеч безумия'
+    - 'console: give %player_name% minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:5},{id:34,lvl:5}],        display:{Name:"§6§lБЕЗУМНЫЙ МЕЧ"}          }'  
+  - Click-Type: Left
+    Price: 65000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cМеч безумия'   
+    - 'console: give %player_name% minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:5},{id:34,lvl:5}],        display:{Name:"§6§lБЕЗУМНЫЙ МЕЧ"}          }'      
+- Slot: 3, 2
+  Material: 310
+  Name: '&6&lШЛЕМ БЕЗУМИЯ:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита IV'
+  - '&c Защита от взрывов III &7(Анти-Кристалл)'  
+  - '&c Прочность V'
+  - '&c Шипы II'
+  - '&f'
+  - '&DЛКМ &7- &fкупить за &660.000 $'
+  - '&dПКМ &7- &fкупить за &e&l25 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 25
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cШлем безумия'
+    - 'console: give %player_name% minecraft:diamond_helmet 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЙ ШЛЕМ"}          }'
+  - Click-Type: Left
+    Price: 60000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cШлем безумия'
+    - 'console: give %player_name% minecraft:diamond_helmet 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЙ ШЛЕМ"}          }'
+- Slot: 4, 2
+  Material: 311
+  Name: '&6&lНАГРУДНИК БЕЗУМИЯ:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита IV'
+  - '&c Защита от взрывов III &7(Анти-Кристалл)'  
+  - '&c Прочность V'
+  - '&c Шипы II'
+  - '&f'
+  - '&DЛКМ &7- &fкупить за &660.000 $'
+  - '&dПКМ &7- &fкупить за &e&l25 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 25
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cНагрудник безумия'
+    - 'console: give %player_name% minecraft:diamond_chestplate 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЙ НАГРУДНИК"}          }'
+  - Click-Type: Left
+    Price: 60000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cНагрудник безумия'
+    - 'console: give %player_name% minecraft:diamond_chestplate 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЙ НАГРУДНИК"}          }'
+- Slot: 5, 2
+  Material: 312
+  Name: '&6&lПОНОЖИ БЕЗУМИЯ:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита IV'
+  - '&c Защита от взрывов III &7(Анти-Кристалл)'  
+  - '&c Прочность V'
+  - '&c Шипы II'
+  - '&f'
+  - '&DЛКМ &7- &fкупить за &660.000 $'
+  - '&dПКМ &7- &fкупить за &e&l25 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 25
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cПоножи безумия'
+    - 'console: give %player_name% 312 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЕ ПОНОЖИ"}          }'
+  - Click-Type: Left
+    Price: 60000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cПоножи безумия'
+    - 'console: give %player_name% 312 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЕ ПОНОЖИ"}            }' 
+- Slot: 6, 2
+  Material: 313
+  Name: '&6&lБОТИНКИ БЕЗУМИЯ:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита IV'
+  - '&c Защита от взрывов III &7(Анти-Кристалл)'  
+  - '&c Прочность V'
+  - '&c Шипы II'
+  - '&f'
+  - '&DЛКМ &7- &fкупить за &660.000 $'
+  - '&dПКМ &7- &fкупить за &e&l25 ₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 25
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cБотинки безумия'
+    - 'console: give %player_name% 313 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЕ БОТИНКИ"}          }'
+  - Click-Type: Left
+    Price: 60000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cДолларов $&f на балансе'
+    Commands:
+    - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cБотинки безумия'
+    - 'console: give %player_name% 313 1 0 {ench:[{id:0,lvl:4},{id:34,lvl:5},{id:7,lvl:2},{id:3,lvl:3}],        display:{Name:"§6§lБЕЗУМНЫЕ БОТИНКИ"}            }' 
+    
+    
+    ############################################################################################################################################################################################################
+    ############################################################################################################################################################################################################
+    ############################################################################################################################################################################################################
+    #########################################################################################################################################################
+             
+- Slot: 2, 4
+  Material: diamond_sword
+  Name: '&6&LЗАЩИТНЫЙ МЕЧ:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Острота VI'
+  - '&c Прочность V'
+  - '&f'
+  - '&dЖми, &fчтобы купить за &c55 ₣'
+  Tokens: 55
+  Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+  Commands:
+  - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cМеч защитника'
+  - 'console: give %player_name% minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:6},{id:34,lvl:5}],        display:{Name:"§6§lЗАЩИТНЫЙ МЕЧ"}          }'         
+- Slot: 3, 4
+  Material: 310
+  Name: '&6&lШЛЕМ ЗАЩИТНИКА:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита V' 
+  - '&c Прочность V'
+  - '&f'
+  - '&dЖми, &fчтобы купить за &e&l45 ₣'
+  Tokens: 45
+  Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+  Commands:
+  - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cШлем защитника'
+  - 'console: give %player_name% minecraft:diamond_helmet 1 0 {ench:[{id:0,lvl:5},{id:34,lvl:5}],        display:{Name:"§6§lЗАЩИТНЫЙ ШЛЕМ"}          }'
+- Slot: 4, 4
+  Material: 311
+  Name: '&6&lНАГРУДНИК ЗАЩИТНИКА:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита V' 
+  - '&c Прочность V'
+  - '&f'
+  - '&dЖми, &fчтобы купить за &e&l45 ₣'
+  Tokens: 45
+  Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+  Commands:
+  - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cНагрудник защитника'
+  - 'console: give %player_name% minecraft:diamond_chestplate 1 0 {ench:[{id:0,lvl:5},{id:34,lvl:5}],        display:{Name:"§6§lЗАЩИТНЫЙ НАГРУДНИК"}          }'
+- Slot: 5, 4
+  Material: 312
+  Name: '&6&lПОНОЖИ ЗАЩИТНИКА:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита V' 
+  - '&c Прочность V'
+  - '&f'
+  - '&dЖми, &fчтобы купить за &e&l45 ₣'
+  Tokens: 45
+  Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+  Commands:
+  - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cПоножи защитника'
+  - 'console: give %player_name% 312 1 0 {ench:[{id:0,lvl:5},{id:34,lvl:5}],        display:{Name:"§6§lБЕЗУМНЫЕ ПОНОЖИ"}          }'
+- Slot: 6, 4
+  Material: 313
+  Name: '&6&lБОТИНКИ ЗАЩИТНИКА:'
+  Lore:
+  - '&f'
+  - '&fЗачарования:'
+  - '&c Защита V' 
+  - '&c Прочность V'
+  - '&f'
+  - '&dЖми, &fчтобы купить за &e&l45 ₣'
+  Tokens: 45
+  Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+  Commands:
+  - 'message: &6&lМАГАЗИН: &fВы успешно приобрели &cБотинки защитника'
+  - 'console: give %player_name% 313 1 0 {ench:[{id:0,lvl:5},{id:34,lvl:5}],        display:{Name:"§6§lБЕЗУМНЫЕ БОТИНКИ"}            }'     

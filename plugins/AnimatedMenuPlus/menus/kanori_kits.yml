@@ -1,0 +1,127 @@
+Menu-Name: '&6&l♛ &0&lНАБОРЫ'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command: 
+  Name: kits; kit; ekits; ekit
+  Fallback: '123'
+#Empty-Item:
+  #Name: '&4ღ'
+  #Material: stained_glass_pane:1:7
+  #Single: true
+Items:
+#Левая сторона
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 1
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  - 2, 1
+  - 3, 1
+  - 4, 1
+  - 5, 1
+  - 6, 1
+  - 7, 1
+  - 8, 1
+  - 2, 9
+  - 3, 9
+  - 4, 9
+  - 5, 9
+  - 6, 9
+  - 7, 9
+  - 8, 9
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:1
+  Name: '&7' 
+- Slot: 
+  - 2, 2
+  - 2, 3
+  - 2, 4
+  - 3, 2
+  - 3, 3
+  - 3, 4
+  - 4, 2
+  - 4, 3
+  - 4, 4
+  - 5, 2
+  - 5, 3
+  - 6, 2
+  - 6, 3
+  - 6, 4
+  - 7, 2
+  - 7, 3
+  - 7, 4
+  - 8, 2
+  - 8, 3
+  - 8, 4
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:7
+  Name: '&4'
+  
+- Slot: 3, 2
+  Material: 223
+  Name: '&7&l■ &e&lВОИН' #19p'
+  Lore:
+  Commands:
+  - 'essentials:kits voin'  
+- Slot: 4, 2
+  Material: 232
+  Name: '&7&l■ &2&lРЫЦАРЬ' #49p'
+  Lore:
+  Commands:
+  - 'essentials:kits rycar'    
+- Slot: 5, 2
+  Material: 222
+  Name: '&7&l■ &b&lСТРАННИК' #149p'
+  Lore:
+  Commands:
+  - 'essentials:kits strannik'    
+- Slot: 6, 2
+  Material: 230
+  Name: '&7&l■ &9&lВЛАСТЕЛИН' #399p'
+  Lore:
+  Commands:
+  - 'essentials:kits vlastelin'  
+- Slot: 7, 2
+  Material: 225
+  Name: '&7&l■ &c&lЦАРЬ' #699p'
+  Lore:
+  Commands:
+  - 'essentials:kits car'   
+- Slot: 4, 3
+  Material: 220
+  Name: '&6&l■ &6&lКОРОЛЬ' #999p'
+  Lore:
+  Commands:
+  - 'essentials:kits korol'  
+- Slot: 5, 3
+  Material: 233
+  Name: '&7&l■ &4&lSLUT' #1999p'
+  Lore:
+  Commands:
+  - 'essentials:kits slut'  
+- Slot: 6, 3
+  Material: 219
+  Name: '&7&l■ &F&LYOU&4&lTUB&E&LE' #1999p'
+  Lore:
+  Commands:
+  - 'essentials:kits yt'  
+- Slot: 5, 4
+  Material: 227
+  Name: '&7&l■ &7&lСТАРТОВЫЙ' #1999p'
+  Lore:
+  Commands:
+  - 'essentials:kits starter'  
+- Slot: 9, 3 
+  Material: 439
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=='
+  Name: '&c◒ &6&lНАЗАД'
+  Lore:
+  Commands:
+  - 'menu: kanori_main'

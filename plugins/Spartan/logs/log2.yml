@@ -1,0 +1,235 @@
+(1)[2020/11/16 17:50:30]: '(False Positive) [Spartan Build 338-12345/987654321] HEALEXXZT
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 7ms), (TPS:
+  19.87), (Plib: true), (Async: false), (Online: 2), (t: ratio, b: 9)]'
+(2)[2020/11/16 17:51:38]: '(False Positive) [Spartan Build 338-12345/987654321] HEALEXXZT
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 7ms), (TPS:
+  19.96), (Plib: true), (Async: false), (Online: 2), (t: ratio, b: 18)]'
+(3)[2020/11/16 17:56:42]: '(False Positive) [Spartan Build 338-12345/987654321] HEALEXXZT
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 9ms), (TPS:
+  19.96), (Plib: true), (Async: false), (Online: 7), (t: ratio, b: 16)]'
+(4)[2020/11/16 18:00:35]: '[Spartan Build 338-12345/987654321] x_cola failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 67ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 7), (t: ratio, b: 12)]'
+(5)[2020/11/16 18:01:10]: '[Spartan Build 338-12345/987654321] __YT__ failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 754ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 10), (t: instant, d: 3.0013359791121488,
+  l: 1.01, r: down, a: 1)]'
+(6)[2020/11/16 18:02:39]: '(False Positive) [Spartan Build 338-12345/987654321] __YT__
+  failed Clip (VL: 0) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 227ms), (TPS:
+  19.98), (Plib: true), (Async: false), (Online: 10), (t: instant, d: 2.024424088213692,
+  l: 1.35, r: down, a: 0)]'
+(7)[2020/11/16 18:02:39]: '[Spartan Build 338-12345/987654321] Omog1de failed Fly
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 10), (t: pre, d: -0.9000000000000057, ds:
+  0.8000000000000114, a: 9, r: 0.9366549461529985)]'
+(8)[2020/11/16 18:02:39]: '[Spartan Build 338-12345/987654321] Omog1de failed Fly
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 10), (t: pre, d: -0.9000000000000057, ds:
+  0.8000000000000114, a: 11, r: 0.9366549461529985)]'
+(9)[2020/11/16 18:02:39]: '[Spartan Build 338-12345/987654321] Omog1de failed Fly
+  (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 10), (t: pre, d: -0.9000000000000057, ds:
+  0.8000000000000114, a: 11, r: 0.9366549461529985)]'
+(10)[2020/11/16 18:02:53]: '(False Positive) [Spartan Build 338-12345/987654321] __YT__
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 192ms),
+  (TPS: 19.90), (Plib: true), (Async: false), (Online: 10), (t: ratio, b: 8)]'
+(11)[2020/11/16 18:03:07]: '[Spartan Build 338-12345/987654321] Omog1de failed Fly
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 64ms), (TPS: 19.94),
+  (Plib: true), (Async: false), (Online: 10), (t: pre, d: -0.9000000000000057, ds:
+  0.8000000000000114, a: 10, r: 0.9366549461529985)]'
+(12)[2020/11/16 18:03:07]: '[Spartan Build 338-12345/987654321] Omog1de failed Fly
+  (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 64ms), (TPS: 19.94),
+  (Plib: true), (Async: false), (Online: 10), (t: pre, d: -0.9000000000000057, ds:
+  0.8000000000000114, a: 11, r: 0.9366549461529985)]'
+(13)[2020/11/16 18:05:24]: '(False Positive) [Spartan Build 338-12345/987654321] Omog1de
+  failed IrregularMovements (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  66ms), (TPS: 19.92), (Plib: true), (Async: false), (Online: 9), (t: jump(illegal),
+  d: 0.41999998688697815, od: -0.6665694119474779, a: 1, r: 0.48249998688697815, c:
+  (start cannot be bound to negative values), diff: 1.008927397308656, f: -20)]'
+(14)[2020/11/16 18:05:54]: '[Spartan Build 338-12345/987654321] Suzumiya_Haruhi failed
+  KillAura (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 74ms), (TPS:
+  19.91), (Plib: true), (Async: false), (Online: 9), (t: area, d: cases, c: 1)]'
+(15)[2020/11/16 18:06:28]: '(False Positive) [Spartan Build 338-12345/987654321] x_cola
+  failed FastHeal (VL: 0) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 89ms),
+  (TPS: 19.82), (Plib: true), (Async: false), (Online: 9), (t: illegal, fl: 17)]'
+(16)[2020/11/16 18:07:19]: '(False Positive) [Spartan Build 338-12345/987654321] x_cola
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 75ms), (TPS:
+  19.98), (Plib: true), (Async: false), (Online: 9), (t: normal, reason: air, d: 0.739297246282476,
+  dm: 0.3675, dm_s: 0.6675, a: 6)]'
+(17)[2020/11/16 18:07:27]: '[Spartan Build 338-12345/987654321] x_cola failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 75ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 9), (t: instant, d: 3.8999999999999986, l:
+  2.0, r: up, a: 10)]'
+(18)[2020/11/16 18:07:27]: '[Spartan Build 338-12345/987654321] x_cola failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 75ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 9), (t: step(high), d: 3.7436000728607226,
+  dm: 0.8)]'
+(19)[2020/11/16 18:07:27]: '[Spartan Build 338-12345/987654321] x_cola failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 75ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 9), (t: step(high), d: 3.590328141281134,
+  dm: 0.8)]'
+(20)[2020/11/16 18:07:27]: '[Spartan Build 338-12345/987654321] x_cola failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 75ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 9), (t: step(high), d: 3.440121645409704,
+  dm: 0.8)]'
+(21)[2020/11/16 18:07:27]: '[Spartan Build 338-12345/987654321] x_cola failed IrregularMovements
+  (VL: 4) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 75ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 9), (t: step(high), d: 3.2929192765907374,
+  dm: 0.8)]'
+(22)[2020/11/16 18:08:50]: '[Spartan Build 338-12345/987654321] x_cola failed Sprint
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 65ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 10), (t: omnidirectional, d: backwards, l:
+  0.35)]'
+(23)[2020/11/16 18:10:29]: '[Spartan Build 338] Dobzy has been considered a legitimate
+  player and is exempted from all checks.'
+(24)[2020/11/16 18:10:29]: '[Spartan Build 338] __YT__ has been considered a legitimate
+  player and is exempted from all checks.'
+(25)[2020/11/16 18:10:29]: '[Spartan Build 338] _BHe_3aKoHa_ has been considered a
+  legitimate player and is exempted from all checks.'
+(26)[2020/11/16 18:10:29]: '[Spartan Build 338] x_cola has been considered a legitimate
+  player and is exempted from all checks.'
+(27)[2020/11/16 18:14:30]: '[Spartan Build 338] DarkFade1 has been considered a legitimate
+  player and is exempted from all checks.'
+(28)[2020/11/16 18:14:30]: '[Spartan Build 338] Omog1de has been considered a legitimate
+  player and is exempted from all checks.'
+(29)[2020/11/16 18:14:30]: '[Spartan Build 338] sAkylov has been considered a legitimate
+  player and is exempted from all checks.'
+(30)[2020/11/16 18:15:30]: '[Spartan Build 338] Suzumiya_Haruhi has been considered
+  a legitimate player and is exempted from all checks.'
+(31)[2020/11/16 18:16:05]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  MorePackets (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1544ms),
+  (TPS: 19.93), (Plib: true), (Async: false), (Online: 16), (t: blink, l: 22)]'
+(32)[2020/11/16 18:16:15]: '(False Positive) [Spartan Build 338-12345/987654321] Dinomaster
+  failed MorePackets (VL: 0) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1451ms),
+  (TPS: 19.85), (Plib: true), (Async: false), (Online: 16), (t: delay, ct: 21, ms:
+  1)]'
+(33)[2020/11/16 18:16:20]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  MorePackets (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1451ms),
+  (TPS: 19.83), (Plib: true), (Async: false), (Online: 16), (t: blink, l: 22)]'
+(34)[2020/11/16 18:16:20]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  MorePackets (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1451ms),
+  (TPS: 19.81), (Plib: true), (Async: false), (Online: 16), (t: instant, a: 21, l:
+  false)]'
+(35)[2020/11/16 18:16:20]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  MorePackets (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 1451ms),
+  (TPS: 19.79), (Plib: true), (Async: false), (Online: 16), (t: instant, a: 21, l:
+  false)]'
+(36)[2020/11/16 18:17:33]: '(False Positive) [Spartan Build 338-12345/987654321] Dinomaster
+  failed Fly (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 1449ms), (TPS:
+  19.93), (Plib: true), (Async: false), (Online: 16), (t: neutral, d: 0.4099999964237355,
+  r: 0.41999998688697815, od: -0.09800000190735147, ds: 0.507999998331087, a: 20,
+  i: true, c: 1)]'
+(37)[2020/11/16 18:17:40]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  Fly (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 1449ms), (TPS: 19.73),
+  (Plib: true), (Async: false), (Online: 16), (t: calculated, d: -0.22768848754498094,
+  ds: 0.07535330069443091, diff: 0.04319129916863092, a: 61, r: 0.7967356006687112)]'
+(38)[2020/11/16 18:17:40]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  Fly (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 1449ms), (TPS: 19.70),
+  (Plib: true), (Async: false), (Online: 16), (t: calculated, d: -0.3015347236627832,
+  ds: 0.07384623611780228, diff: 0.04168423459200228, a: 61, r: 0.49520087700592796)]'
+(39)[2020/11/16 18:17:40]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  Fly (VL: 3) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 1449ms), (TPS: 19.69),
+  (Plib: true), (Async: false), (Online: 16), (t: calculated, d: -0.3739040364667261,
+  ds: 0.07236931280394288, diff: 0.04020731127814288, a: 61, r: 0.12129684053920187)]'
+(40)[2020/11/16 18:18:31]: '[Spartan Build 338-12345/987654321] Wi11iams7 failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 30ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 16), (t: ratio, b: 5)]'
+(41)[2020/11/16 18:20:25]: '[Spartan Build 338-12345/987654321] Happygaver failed
+  Fly (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS: 19.61),
+  (Plib: true), (Async: false), (Online: 18), (t: down, d: -0.09800000190735147, ds:
+  0.0, r: 0.4299999773502208, a: 9)]'
+(42)[2020/11/16 18:20:25]: '(False Positive) [Spartan Build 338-12345/987654321] Happygaver
+  failed Fly (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.66), (Plib: true), (Async: false), (Online: 18), (t: stable, d: -0.09800000190735147,
+  a: 9, r: 0.3319999754428693)]'
+(43)[2020/11/16 18:20:25]: '(False Positive) [Spartan Build 338-12345/987654321] Happygaver
+  failed Fly (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 120ms), (TPS:
+  19.72), (Plib: true), (Async: false), (Online: 18), (t: stable, d: -0.09800000190735147,
+  a: 12, r: 0.13599997162816635)]'
+(44)[2020/11/16 18:21:33]: '[Spartan Build 338] DaddyCombo has been considered a legitimate
+  player and is exempted from all checks.'
+(45)[2020/11/16 18:21:33]: '[Spartan Build 338-12345/987654321] l3addiGaming failed
+  Sprint (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 130ms), (TPS:
+  19.74), (Plib: true), (Async: false), (Online: 19), (t: omnidirectional, d: backwards,
+  l: 0.35)]'
+(46)[2020/11/16 18:21:45]: '(False Positive) [Spartan Build 338-12345/987654321] Dinomaster
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 286ms),
+  (TPS: 19.69), (Plib: true), (Async: false), (Online: 19), (t: normal, reason: ground,
+  d: 0.5347595814275417, dm: 0.525, dm_s: 0.525, a: 1)]'
+(47)[2020/11/16 18:22:30]: '(False Positive) [Spartan Build 338-12345/987654321] Dinomaster
+  failed NoFall (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 354ms),
+  (TPS: 19.71), (Plib: true), (Async: false), (Online: 19), (t: ratio, b: 13)]'
+(48)[2020/11/16 18:22:43]: '[Spartan Build 338-12345/987654321] Kupra4ek failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 59ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 19), (t: normal, reason: ground, d: 0.551586155144774,
+  dm: 0.525, dm_s: 0.525, a: 0)]'
+(49)[2020/11/16 18:23:19]: '(False Positive) [Spartan Build 338-12345/987654321] Kupra4ek
+  failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 58ms), (TPS:
+  19.78), (Plib: true), (Async: false), (Online: 19), (t: upwards(after), dy: 0.21560001587867816,
+  l: 0.17)]'
+(50)[2020/11/16 18:23:23]: '(False Positive) [Spartan Build 338-12345/987654321] Kupra4ek
+  failed Jesus (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 58ms), (TPS:
+  19.79), (Plib: true), (Async: false), (Online: 19), (t: upwards(after), dy: 0.21560001587867816,
+  l: 0.17)]'
+(51)[2020/11/16 18:24:42]: '[Spartan Build 338-12345/987654321] MerkyMan failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 53ms), (TPS: 19.83),
+  (Plib: true), (Async: false), (Online: 22), (t: normal, reason: walking, d: 0.33223134573319163,
+  dm: 0.292, dm_s: 0.292, a: 0)]'
+(52)[2020/11/16 18:25:20]: '[Spartan Build 338-12345/987654321] fasten_GG failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 426ms), (TPS: 19.48),
+  (Plib: true), (Async: false), (Online: 23), (t: normal, reason: air, d: 0.3803291194772154,
+  dm: 0.3675, dm_s: 0.3675, a: 0)]'
+(53)[2020/11/16 18:25:30]: '[Spartan Build 338-12345/987654321] Kupra4ek failed KillAura
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 22), (t: comparison(hard), r: 0.1800213039063634)]'
+(54)[2020/11/16 18:25:36]: '[Spartan Build 338-12345/987654321] AndorikTV failed Sprint
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 66ms), (TPS: 19.85),
+  (Plib: true), (Async: false), (Online: 22), (t: omnidirectional, d: backwards, l:
+  0.35)]'
+(55)[2020/11/16 18:26:47]: '[Spartan Build 338-12345/987654321] sereg22 failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 33ms), (TPS: 19.92),
+  (Plib: true), (Async: false), (Online: 21), (t: ratio, b: 12)]'
+(56)[2020/11/16 18:28:26]: '[Spartan Build 338-12345/987654321] Wi11iams7 failed IrregularMovements
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 54ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 20), (t: jump(unusual), d: 0.31360000610351335,
+  a: 2, r: 0.46679998662471434)]'
+(57)[2020/11/16 18:28:26]: '[Spartan Build 338-12345/987654321] Wi11iams7 failed IrregularMovements
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 54ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 20), (t: jump(unusual), d: 0.22892801043700928,
+  a: 3, r: 0.6957279970617236)]'
+(58)[2020/11/16 18:28:27]: '[Spartan Build 338-12345/987654321] Wi11iams7 failed IrregularMovements
+  (VL: 3) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 54ms), (TPS: 19.93),
+  (Plib: true), (Async: false), (Online: 20), (t: jump(unusual), d: 0.14594945306884455,
+  a: 4, r: 0.8416774501305682)]'
+(59)[2020/11/16 18:28:57]: '(False Positive) [Spartan Build 338-12345/987654321] sereg22
+  failed Sprint (VL: 0) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 32ms),
+  (TPS: 19.81), (Plib: true), (Async: false), (Online: 20), (t: omnidirectional, d:
+  backwards, l: 0.35)]'
+(60)[2020/11/16 18:29:33]: '[Spartan Build 338-12345/987654321] fasten_GG failed Exploits
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 646ms), (TPS: 19.70),
+  (Plib: true), (Async: false), (Online: 21), (t: ping-spoof(scheduler), avg: 0)]'
+(61)[2020/11/16 18:30:14]: '(False Positive) [Spartan Build 338-12345/987654321] l3addiGaming
+  failed GhostHand (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 40ms),
+  (TPS: 20.0), (Plib: true), (Async: false), (Online: 21), (t: interact, c: workbench,
+  r: burning-furnace)]'
+(62)[2020/11/16 18:30:37]: '[Spartan Build 338-12345/987654321] Rnon failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 62ms), (TPS: 19.76),
+  (Plib: true), (Async: false), (Online: 20), (t: normal, reason: walking, d: 1.1571668597526785,
+  dm: 0.525, dm_s: 0.525, a: 0)]'
+(63)[2020/11/16 18:31:36]: '[Spartan Build 338-12345/987654321] Dinomaster failed
+  IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 118ms),
+  (TPS: 19.86), (Plib: true), (Async: false), (Online: 20), (t: jump(illegal), d:
+  0.08307781780646906, od: 0.1647732818260721, a: 7, r: 0.24918707874468282, c: (frequency
+  cannot be too fast), diff: 0.008601462493803044, f: -20)]'
+(64)[2020/11/16 18:31:38]: '[Spartan Build 338] l3addiGaming has been considered a
+  legitimate player and is exempted from all checks.'
+(65)[2020/11/16 18:32:36]: '[Spartan Build 338-12345/987654321] NikLack2 failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 31ms), (TPS: 19.78),
+  (Plib: true), (Async: false), (Online: 18), (t: instant, a: 20, l: true)]'
+(66)[2020/11/16 18:32:39]: '[Spartan Build 338] sereg22 has been considered a legitimate
+  player and is exempted from all checks.'
+(67)[2020/11/16 18:32:39]: '[Spartan Build 338] fasten_GG has been considered a legitimate
+  player and is exempted from all checks.'
+(68)[2020/11/16 18:33:25]: '[Spartan Build 338-12345/987654321] Zooz34 failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 53ms), (TPS: 19.79),
+  (Plib: true), (Async: false), (Online: 20), (t: ratio, b: 8)]'

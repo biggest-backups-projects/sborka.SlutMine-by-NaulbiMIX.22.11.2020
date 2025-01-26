@@ -1,0 +1,46 @@
+# 
+#                   -=[Rogue Parkour]=-                  #
+#                                                        #
+#                           BY                           #
+#                         Kledioz                        #
+#                                                        #
+#                     [omegacraft.cl]                    #
+version: 5
+Positions:
+  world: world
+  pos1:
+    X: -233
+    Y: 81
+    Z: 115
+  pos2:
+    X: -211
+    Y: 84
+    Z: 93
+  start:
+    X: -235
+    Y: 64
+    Z: 104
+  start2:
+    X: 68
+    Y: 173
+    Z: 94
+  respawn:
+    X: -230.5
+    Y: 64.0
+    Z: 104.5
+MYSQL:
+  enabled: false
+  ip: 0.0.0.0
+  port: 3306
+  user: root
+  password: ilovespigot
+  database: RPScores
+blocks:
+- 159:true
+- 35:true
+- 95:true
+- 160:true
+particle: EXPLOSION
+always-event: false
+limit: 0
+limit-block-type: 0

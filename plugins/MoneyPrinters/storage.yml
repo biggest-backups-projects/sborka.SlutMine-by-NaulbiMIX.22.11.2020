@@ -1,0 +1,85 @@
+moneyprinters:
+  af835bec-9856-4376-9bc2-bb68c5cfb35c:
+    uuid: af835bec-9856-4376-9bc2-bb68c5cfb35c
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1208.0
+      y: 64.0
+      z: 5303.0
+    stored-money: 22000.0
+    total-money-printed: 23200.0
+    health: 320.0
+  f0a620a9-1af5-4c8d-a8a4-08db252b94fb:
+    uuid: f0a620a9-1af5-4c8d-a8a4-08db252b94fb
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1207.0
+      y: 64.0
+      z: 5303.0
+    stored-money: 22000.0
+    total-money-printed: 22720.0
+    health: 320.0
+  a0e68db8-a1b1-49af-b782-cf93c2999ee5:
+    uuid: a0e68db8-a1b1-49af-b782-cf93c2999ee5
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1206.0
+      y: 64.0
+      z: 5303.0
+    stored-money: 22000.0
+    total-money-printed: 22720.0
+    health: 320.0
+  3b76b6e4-299b-404c-b3d0-31269166b15d:
+    uuid: 3b76b6e4-299b-404c-b3d0-31269166b15d
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1205.0
+      y: 64.0
+      z: 5303.0
+    stored-money: 22000.0
+    total-money-printed: 22720.0
+    health: 320.0
+  bea3d7e3-f8a6-41fe-b363-500fd6f30f8c:
+    uuid: bea3d7e3-f8a6-41fe-b363-500fd6f30f8c
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1204.0
+      y: 64.0
+      z: 5303.0
+    stored-money: 22000.0
+    total-money-printed: 22720.0
+    health: 320.0
+  cca0c73c-d531-475c-9df3-9f1e39e7ca85:
+    uuid: cca0c73c-d531-475c-9df3-9f1e39e7ca85
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1204.0
+      y: 64.0
+      z: 5302.0
+    stored-money: 22000.0
+    total-money-printed: 22720.0
+    health: 320.0
+  ec9de395-f867-4f96-bff6-f2a8e4169115:
+    uuid: ec9de395-f867-4f96-bff6-f2a8e4169115
+    type: Emerald
+    owner: 03520fc8-a6b7-3a0d-8d99-a28c748128b2
+    location:
+      world: world
+      x: -1203.0
+      y: 64.0
+      z: 5301.0
+    stored-money: 22000.0
+    total-money-printed: 22720.0
+    health: 320.0

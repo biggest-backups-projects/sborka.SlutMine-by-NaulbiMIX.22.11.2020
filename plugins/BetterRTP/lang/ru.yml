@@ -1,0 +1,77 @@
+# Help translate this file into more languages!
+Messages:
+  Prefix: '&6&l[!] '
+  Success:
+    Paid: '&7Вы были успешно телепортированы.'
+    Bypass: '&7Вы были успешно телепортированы.'
+    Loading: '&aSafe spot located! &7Loading chunks...'
+    Teleport: '&aTeleporting... &fplease wait while we find a safe location!'
+  Failed:
+    Price: '&cУ вас недостаточно денег для телепортации . &7У вас должно быть хотябы
+      $%price% &7для rtp.'
+    NotSafe: '&7Не удалось найти безопасное место.'
+    Hunger: '&cCould not rtp because you are... &7too hungry&c, eat something fella!'
+  Other:
+    Success: '&6%player%&7 был успешно телепортирован.'
+    NotSafe: '&7Не удалось найти безопасное место для &6%player%&7.'
+    Biome: '&cSeems like the biome&7 %biome%&c does not exist. &7Try using the tab
+      list.'
+  Reload: '&7Конфиг удачно перезагружен.'
+  NoPermission:
+    Basic: '&7У вас недостаточно прав для использования этой команды.'
+    World: '&7Вам запрещено использовать rtp в мире &6%world%&7.'
+  DisabledWorld: '&7Отключенный мир &6%world%&7. Не удалось телепортироваться.'
+  Cooldown: '&7Вы не сможете использовать rtp ближайшие &6%time% &7сек.'
+  Locked: '&cSorry! &7You''ve used up all your RTP''s!'
+  Invalid: '&7Неправильные параметры. Попробуйте ''/%command% help'''
+  NotOnline: '&7Игрок &6%player% &7не онлайн.'
+  Delay: '&7Телепортация через &6%time% &7сек. Не двигайтесь.'
+  Moved: '&7Вы подвинулись. RTP отменено.'
+  NotExist: '&7Похоже что мир &6%world% &7не существует.'
+  Already: '&7Похоже вы уже телепортируетесь. Имейте терпение.'
+  Sign: '&7Command sign has been created. &7Command is... ''&6/rtp %command%&7'''
+  Edit:
+    Error: '&cError! &7Invalid input provided!'
+    Set: '&bSuccess! &7%type% set to %value%'
+    Remove: '&cRemoved! &7You removed the Custom World %world%'
+Help:
+  Prefix: '&e&m-----&6&l BetterRTP &8| Help &e&m-----'
+  Main: ' &7- &e/%command% &7- случайно телепортирует вас!'
+  Biome: ' &7- &e/%command% biome <biome1, biome2...> &7- Randomly teleport withing
+    these biomes.'
+  Edit: ' &7- &e/%command% edit <default/world> [args...] &7- Edit some plugin settings'
+  Help: ' &7- &e/%command% help &7- показывает этот список'
+  Info: ' &7- &e/%command% info [world/particles/shapes/potion_effects] &7- View specific
+    information about plugin parameters'
+  Player: ' &7- &e/%command% player <игрок> [мир] &7- случайно телепортирует игрока.'
+  Reload: ' &7- &e/%command% reload &7- перезагружает плагин.'
+  Settings: ' &7- &e/%command% settings &7- Pull up a gui and edit some settings'
+  Test: ' &7- &e/%command% test &7- Test out plugin effects after a teleport without
+    moving'
+  Version: ' &7- &e/%command% version &7- View currently running version'
+  World: ' &7- &e/%command% world <мир> &7- случайно телепортирует в другой мир.'
+  List:
+  - '&6/rtp &7- Телепортирует вас на свободную територию.'
+Usage:
+  Player: '&7Использование &6/%command% player <игрок> [мир].'
+  World: '&7Использование &6/%command% world <мир>.'
+  Biome: '&7Использование &6/%command% biome <biome1, biome2...>.'
+  Edit:
+    Base: '&cUsage&7: /%command% edit <default/world> [args...]'
+    Default: '&cUsage&7: /%command% edit default <max/min/useworldborder/center> <value>'
+    World: '&cUsage&7: /%command% edit world <world> <max/min/useworldborder/center>
+      <value>'
+Titles:
+  Enabled: false
+  Delay:
+    SendChatMessage: false
+    Title: ''
+    Subtitle: '&7Телепортация через &6%time% сек &7.'
+  Success:
+    SendChatMessage: false
+    Title: ''
+    Subtitle: '&7'
+Sounds:
+  Enabled: false
+  Delay: entity_tnt_primed
+  Success: entity_generic_explode

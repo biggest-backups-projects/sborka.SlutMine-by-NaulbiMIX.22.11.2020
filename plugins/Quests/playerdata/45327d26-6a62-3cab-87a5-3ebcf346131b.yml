@@ -1,0 +1,10 @@
+quest-progress:
+  combatquest2:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1605967780757
+    task-progress:
+      killing:
+        completed: true
+        progress: 10

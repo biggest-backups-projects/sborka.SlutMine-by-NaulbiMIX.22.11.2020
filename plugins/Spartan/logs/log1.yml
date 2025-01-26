@@ -1,0 +1,118 @@
+(1)[2020/11/16 15:21:00]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  63ms), (TPS: 19.99), (Plib: true), (Async: false), (Online: 1), (t: hop(dynamic),
+  r: down, diff: 0.029999999329447746)]'
+(2)[2020/11/16 15:21:01]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  63ms), (TPS: 20.0), (Plib: true), (Async: false), (Online: 1), (t: hop(dynamic),
+  r: down, diff: 0.029999999329447746)]'
+(3)[2020/11/16 15:21:09]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed Fly (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 63ms), (TPS:
+  19.99), (Plib: true), (Async: false), (Online: 1), (t: stable, d: 0.0, a: 28, r:
+  0.010000022128224373)]'
+(4)[2020/11/16 15:21:25]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed Fly (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 61ms), (TPS:
+  19.99), (Plib: true), (Async: false), (Online: 1), (t: up, d: 0.05999999865889549,
+  ds: 0.0, r: 0.03999995440244675, a: 15)]'
+(5)[2020/11/16 15:21:38]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed Clip (VL: 0) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 59ms), (TPS:
+  19.99), (Plib: true), (Async: false), (Online: 1), (t: speed(block-change), block(s):
+  grass, ds: 1.6139036360152876, dm: 0.25, dm_s: 0.25)]'
+(6)[2020/11/16 15:21:38]: '[Spartan Build 338-12345/987654321] XxOPENxX failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 59ms), (TPS: 19.80),
+  (Plib: true), (Async: false), (Online: 1), (t: speed(block-change), block(s): grass,
+  ds: 1.6139036360152876, dm: 0.25, dm_s: 0.25)]'
+(7)[2020/11/16 15:21:38]: '[Spartan Build 338-12345/987654321] XxOPENxX failed Clip
+  (VL: 2) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 59ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 1), (t: speed(block-change), block(s): grass,
+  ds: 1.6139036360152876, dm: 0.25, dm_s: 0.25)]'
+(8)[2020/11/16 15:21:38]: '[Spartan Build 338-12345/987654321] XxOPENxX failed Clip
+  (VL: 3) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 59ms), (TPS: 20.0), (Plib:
+  true), (Async: false), (Online: 1), (t: speed(block-change), block(s): grass, ds:
+  1.6139036360152876, dm: 0.25, dm_s: 0.25)]'
+(9)[2020/11/16 15:22:07]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed Speed (VL: 0) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 58ms), (TPS:
+  19.86), (Plib: true), (Async: false), (Online: 1), (t: normal, reason: walking,
+  d: 0.9093981723593539, dm: 0.292, dm_s: 0.292, a: 0)]'
+(10)[2020/11/16 15:22:33]: '[Spartan Build 338-12345/987654321] XxOPENxX failed Jesus
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 1), (t: exit, dy: 0.6238080225067151)]'
+(11)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed Jesus (VL: 2) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS:
+  19.99), (Plib: true), (Async: false), (Online: 1), (t: upwards(after), dy: 0.6742848254249623,
+  l: 0.17)]'
+(12)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.99), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7045709071759063, dm: 0.601)]'
+(13)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.99), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7336455456568132, dm: 0.601)]'
+(14)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.80), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7441124155099317, dm: 0.601)]'
+(15)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.74788048865706, dm: 0.601)]'
+(16)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.748728305115165, dm: 0.601)]'
+(17)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.97), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7497253372698935, dm: 0.601)]'
+(18)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.96), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7499011404906497, dm: 0.601)]'
+(19)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7499786697109982, dm: 0.601)]'
+(20)[2020/11/16 15:22:34]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 1), (t: step(high),
+  d: 0.7499923401694417, dm: 0.601)]'
+(21)[2020/11/16 15:22:35]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 1), (t: jump(unusual),
+  d: 0.36259550307673294, a: 21, r: 0.36960304810494904)]'
+(22)[2020/11/16 15:22:35]: '(False Positive) [Spartan Build 338-12345/987654321] XxOPENxX
+  failed IrregularMovements (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping:
+  56ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 1), (t: jump(unusual),
+  d: 0.19300473019357867, a: 23, r: 0.8395513767038096)]'
+(23)[2020/11/16 15:22:35]: '[Spartan Build 338-12345/987654321] XxOPENxX failed Clip
+  (VL: 1) [(Version: 1.12), (C-V: 2) (Silent: false), (Ping: 56ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 1), (t: instant, d: 13.879603144655945, l:
+  1.35, r: down, a: 35)]'
+(24)[2020/11/16 15:22:38]: '[Spartan Build 338-12345/987654321] XxOPENxX failed Speed
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 56ms), (TPS: 19.95),
+  (Plib: true), (Async: false), (Online: 1), (t: normal, reason: air, d: 2.3946572715464294,
+  dm: 0.8, dm_s: 0.8, a: 0)]'
+(25)[2020/11/16 15:52:30]: '[Spartan Build 338-12345/987654321] Sora failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 25ms), (TPS: 20.0), (Plib:
+  true), (Async: false), (Online: 2), (t: delay, ct: 18, ms: 1)]'
+(26)[2020/11/16 15:52:31]: '[Spartan Build 338-12345/987654321] Sora failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 25ms), (TPS: 19.99),
+  (Plib: true), (Async: false), (Online: 2), (t: instant, a: 20, l: false)]'
+(27)[2020/11/16 16:00:17]: '[Spartan Build 338-12345/987654321] Sora failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 32ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 2), (t: ratio, b: 6)]'
+(28)[2020/11/16 16:49:41]: '[Spartan Build 338-12345/987654321] Sora failed MorePackets
+  (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 40ms), (TPS: 19.77),
+  (Plib: true), (Async: false), (Online: 2), (t: blink, l: 22)]'
+(29)[2020/11/16 16:49:56]: '(False Positive) [Spartan Build 338-12345/987654321] Sora
+  failed MorePackets (VL: 1) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 42ms),
+  (TPS: 19.88), (Plib: true), (Async: false), (Online: 2), (t: difference, c: 17.24498420416363,
+  n: 3.9968523247074432, d: 13.248131879456185, t: 32, l: 1.5, p: true)]'
+(30)[2020/11/16 16:49:56]: '[Spartan Build 338-12345/987654321] Sora failed NoFall
+  (VL: 1) [(Version: 1.12), (C-V: 3) (Silent: false), (Ping: 42ms), (TPS: 19.98),
+  (Plib: true), (Async: false), (Online: 2), (t: ratio, b: 5)]'
+(31)[2020/11/16 16:50:06]: '[Spartan Build 338-12345/987654321] Sora failed MorePackets
+  (VL: 2) [(Version: 1.12), (C-V: 4) (Silent: false), (Ping: 41ms), (TPS: 19.96),
+  (Plib: true), (Async: false), (Online: 2), (t: difference, c: 9.741993788580194,
+  n: 3.95739798880605, d: 5.784595799774143, t: 25, l: 1.5, p: true)]'

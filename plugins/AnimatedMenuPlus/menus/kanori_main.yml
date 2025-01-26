@@ -1,0 +1,128 @@
+#
+# Menu by ablody -> vk.com/mblodeec
+#
+Menu-Name: '&6&l♛ &0&lГЛАВНОЕ МЕНЮ'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command: 
+  Name: menu
+  Fallback: '123'
+Items:
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 1
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  - 2, 1
+  - 3, 1
+  - 4, 1
+  - 5, 1
+  - 6, 1
+  - 7, 1
+  - 8, 1
+  - 2, 9
+  - 3, 9
+  - 4, 9
+  - 5, 9
+  - 6, 9
+  - 7, 9
+  - 8, 9
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:1
+  Name: '&7' 
+- Slot: 
+  - 2, 2
+  - 2, 3
+  - 2, 4
+  - 3, 2
+  - 3, 3
+  - 3, 4
+  - 4, 2
+  - 4, 3
+  - 4, 4
+  - 5, 2
+  - 5, 3
+  - 6, 2
+  - 6, 3
+  - 6, 4 
+  - 7, 2
+  - 7, 3
+  - 7, 4
+  - 8, 2
+  - 8, 3
+  - 8, 4
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:7
+  Name: '&4'
+- Slot: 3, 3
+  Material: compass
+  Name: '&6&lТЕЛЕПОРТЫ'
+  Lore:
+  - ''
+  - '&6⤷ &fБыстрая телепортация'
+  - '&6⤷ &fпо точках сервера.'
+  - ''
+  - '  &6◒ &E&lНАЖМИ ЧТОБЫ ОТКРЫТЬ'
+  Commands:
+  - 'menu: kanori_warp'   
+- Slot: 4, 3
+  Material: 84
+  Name: '&6&lМАГАЗИН'
+  Lore:
+  - ''
+  - '&6⤷ &fПокупка вещей за валюту'
+  - ''
+  - '&6❱ &fВалюта: &aДоллары&7: $%vault_eco_balance%'
+  - '&6❱ &fВалюта: &6&lФранки&7: ₣%tm_tokens%'
+  - ''
+  - '  &6◒ &E&lНАЖМИ ЧТОБЫ ОТКРЫТЬ'
+  Commands:
+  - 'menu: shop'   
+- Slot: 5, 3
+  Material: 439
+  Name: '&6&lАУКЦИОН'
+  Lore:
+  - ''
+  - '&6⤷ &fПокупка/продажа вещей'
+  - ''
+  - '&6❱ &fВалюта: &aДоллары&7: $%vault_eco_balance%'
+  - ''
+  - '  &6◒ &E&lНАЖМИ ЧТОБЫ ОТКРЫТЬ'
+  Commands:
+  - 'ah'   
+- Slot: 6, 3
+  Material: 224
+  Name: '&6&lНАБОРЫ'
+  Lore:
+  - ''
+  - '&6❱ &fНаборы различных привилегий'
+  - ''
+  - '  &6◒ &E&lНАЖМИ ЧТОБЫ ОТКРЫТЬ'
+  Commands:
+  - 'message:&6&lSLUT&F&LMINE&8: &FИспользовать: &6/kits <набор>'
+  - 'kits'  
+- Slot: 7, 3
+  Material: 264
+  Name: '&6&lПРИВИЛЕГИИ'
+  Lore:
+  - ''
+  - '&6❱ &fОткрыть меню с донатом'
+  - ''
+  - '  &6◒ &E&lНАЖМИ ЧТОБЫ ОТКРЫТЬ'
+  Commands:
+  - 'menu: kanori_donate'   
+- Slot: 5, 4
+  Material: 425
+  Name: '&6&lБОНУС'
+  Lore:
+  - ''
+  - '  &6◒ &E&lНАЖМИ ЧТОБЫ ВЗЯТЬ'
+  Commands:
+  - 'reward'   

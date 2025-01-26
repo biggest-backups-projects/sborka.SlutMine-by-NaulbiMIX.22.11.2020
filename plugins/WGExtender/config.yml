@@ -1,0 +1,41 @@
+claim:
+  vertexpand:
+    enabled: false
+  blocklimits:
+    enabled: false
+    limits: {}
+regionprotect:
+  flow:
+    lava:
+      enabled: false
+    water:
+      enabled: false
+    otherliquid:
+      enabled: false
+  ignitebyplayer:
+    enabled: false
+  fire:
+    spread:
+      toregion:
+        enabled: false
+      inregion:
+        enabled: false
+    burn:
+      enabled: false
+  explosion:
+    block:
+      enabled: false
+    entity:
+      enabled: false
+  pistonmove:
+    enabled: false
+autoflags:
+  enabled: false
+  flags: {}
+restrictcommands:
+  enabled: false
+  commands: []
+extendedwewand:
+  enabled: false
+misc:
+  pvpmode: default

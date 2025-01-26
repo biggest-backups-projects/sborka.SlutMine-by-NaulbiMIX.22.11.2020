@@ -1,0 +1,59 @@
+messages:
+  noPermission: '&cНедостаточно прав, лалка'
+  useOnlyPlayers: '&fТолько игроки могут использовать это действие'
+  commands:
+    rtp:
+      usage: '&8Используйте: &f/rtp'
+      teleported: '&c&lРТП: &fВы были &aуспешно &7телепортированы на координаты &e$x $y $z'
+      title: '&c&lРТП'
+      subtitle: '&e$x $y $z'
+      actionBar: '&fТелепортация на &e500 &fблоков завершена!'
+    vrtp:
+      usage: '&8Используйте: &f/vrtp'
+      teleported: '&c&lРТП: &fВы были &aуспешно &7телепортированы на координаты &e$x $y $z'
+      title: '&c&lРТП'
+      subtitle: '&e$x $y $z'
+      actionBar: '&fТелепортация на &e1500 &fблоков завершена!'
+  chat:
+    unallowsymbols: '&c&lЧАТ: &fПожалуйста используйте русские, английские символы, а так же цифры и крякозябры.'
+  inventory:
+    unallowsymbols: '&c&lИНВЕНТАРЬ: &fВ вашем инвентаре был обнаружен предмет с непонятными символами!'
+  mysql:
+    typeSuccessful:
+      connection: '&7Соединение с &eБД&7 было &aуспешно &7установлено!'
+      createTable: '&7Проверка таблиц и создании новых в &eБД&7 было &aуспешно &7выполнено!'
+      disconnection: '&eБД&7 была &aуспешно &7отключена!'
+    typeError:
+      connection: '&7При соединение с &eБД&7 произошла ошибка! Подробности об ошибке: &c$error'
+      сreateTable: '&7При создание таблицы в &eБД&7 произошла ошибка! Подробности об ошибке: &c$error'
+      disconnection: '&7При отключении от &eБД&7 произошла ошибка! Подробности об ошибке: &c$error'
+      statement: '&7При $type_query &eБД&7 произошла ошибка! Подробности об ошибке: &c$error'
+settings:
+  mysql: # Конфигурация БД
+    host: 217.106.107.105
+    database: bogdan
+    port: 3306
+    username: bogdan
+    password: PDKlyooRQ7xNbQPJ
+    autoReconnect: true
+    useSSL: false
+    useUnicode: true
+    characterEncoding: "UTF-8"
+  rtp:
+    coords: 500
+    world: 'world'
+    message: true # Сообщение в чате при телепортации
+    title: true # Титульное сообщение
+    actionBar: true # Экшен бар сообщение
+  vrtp:
+    coords: 1500
+    world: 'world'
+    message: true # Сообщение в чате при телепортации
+    title: true # Титульное сообщение
+    actionBar: true # Экшен бар сообщение
+  usePerms:
+    rtp: true # Если включено, то надо права на телепортацию команды rtp
+    vrtp: true # Если включено, то надо права на телепортацию команды vrtp
+  perms:
+    rtp: 'slutmine.rtp'
+    vrtp: 'slutmine.vrtp'

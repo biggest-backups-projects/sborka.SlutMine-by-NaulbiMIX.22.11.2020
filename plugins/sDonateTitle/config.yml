@@ -1,0 +1,30 @@
+PREFIX: "&cDONATE"
+EMPTY_DONATE: "&cОШИБКА: &fТакой группы не существует!"
+EXCELLENT_GIVE: "&cДОНАТ: &fТы успешно выдал &c%group%&f игроку &c%player%"
+PERMISSION_MESSAGE: "&cОШИБКА: &fУ тебя нет прав для этой команды!"
+USAGE: "&cОШИБКА: &fВводи /givedonate [ник] [группа]"
+chat_msg: true
+title_msg: true
+groups:
+  rycar:
+    title: "&fИгрок &e%player% &fприобрел"
+    subtitle: "&fпривилегию &2&LРЫЦАРЬ"
+    message:  "&f\n &a        &6&lПОКУПКА НА САЙТЕ: \n &6| &fИгрок &e%player% &fкупил &fпривилегию &2&LРЫЦАРЬ \n
+              &6| &fПокупать донат на сайте &6SlutMine.Ru \n &a   "
+  voin:
+    title: "&fИгрок &e%player% &fприобрел"
+    subtitle: "&fпривилегию &e&LВОИН"
+    message:  "&f\n &a        &6&lПОКУПКА НА САЙТЕ: \n &6| &fИгрок &e%player% &fкупил &fпривилегию &e&LВОИН \n
+              &6| &fПокупать донат на сайте &6SlutMine.Ru \n &a   "
+
+  voin:
+    title: "&fИгрок &e%player% &fприобрел"
+    subtitle: "&fпривилегию &2&LРЫЦАРЬ"
+    message:  "&f\n &a        &6&lПОКУПКА НА САЙТЕ: \n &6| &fИгрок &e%player% &fкупил &fпривилегию &e&LВОИН \n
+              &6| &fПокупать донат на сайте &6SlutMine.Ru \n &a   "
+
+  staff:
+    title: "&fИгрок &e%player% &fприобрел"
+    subtitle: "&fпривилегию &C&LSTAFF"
+    message:  "&f\n &a        &6&lПОКУПКА НА САЙТЕ: \n &6| &fИгрок &e%player% &fкупил &fпривилегию &C&LSTAFF \n
+              &6| &fПокупать донат на сайте &6SlutMine.Ru \n &a   "

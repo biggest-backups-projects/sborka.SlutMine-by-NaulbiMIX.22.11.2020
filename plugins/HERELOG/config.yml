@@ -1,0 +1,56 @@
+# -1 чтобы отключить
+golden-apple-cooldown: 15
+
+# Не используйте '\n', используйте %nl%
+# Чтобы отключить сообщение, оставте его пустым
+messages:
+  pvp-started: " §a| &fВы начали PVP"
+  pvp-started-title: " §a| &fВы начали PVP"
+  pvp-stopped: " §a| &fВы вышли из режима PVP"
+  pvp-stopped-title: " §a| &fВы начали PVP"
+  pvp-stopped-actionbar: ''
+  pvp-bossbar: "&fPVP режим будет выключен через: &e%time%"
+  pvp-actionbar: ''
+  pvp-leaved: ''
+  hand-ender-perl: "&c&lREDEX&F&LMINE&7: &fЭтот предмет не работает в второй руке!"
+  tp-disabled: " §a| &fВы не можете телепортироваться в КТ"
+  chat-disabled: " §a| &fВы не можете использовать команды в КТ"
+  fly-disabled: " §a| &fВы ударили игрока! &eПолёт&f был отключен"
+  god-disabled: " §a| &fВы ударили игрока! &eРежим бога&f был отключен"
+  gm-disabled: " §a| &fВы ударили игрока! &eКреатив&f был отключен"
+  vanish-disabled: " &c&lREDEX&F&LMINE&7: &fВы ударили игрока! &eНевидимость&f была отключена"
+  apple-disabled: "&4&l✖%nl%&fМожно кушать через &e%time%"
+  ender-perl-disabled: "&4&l✖%nl%&fМожно кидать через &e%time%"
+  chorus-disabled: "&4&l✖%nl%&fМожно кушать через &e%time%"
+  # Какую команду выполнять когда игрок выходит во время пвп
+  # Оставте пустым чтобы отключить
+  command-on-leave: "kill %player%"
+# -1 чтобы отключить
+ender-perl-cooldown: 15
+# -1 чтобы отключить
+chorus-disabled: 5
+# Как долго длиться ПВП режим? -1 чтобы отключить ПВП режим
+pvp-time: 30
+# Убивать ли игрока, если он вышел во время пвп?
+kill-on-leave: true
+# Отключать ли у игрока который ударил FLY, GM, GOD, VANISH?
+checks-enabled: true
+# Показывать ли сообщение всем игрокам что игрок вышел во время ПВП?
+show-leaved-message: true
+remove-join-message: true
+remove-leave-message: true
+remove-death-message: true
+# Включить ли таймер в боссбаре?
+bossbar-enabled: true
+# Включить ли таймер в ActionBar?
+actionbar-enabled: true
+# Включить ли титлы в начале и вконце пвп?
+titles-enabled: true
+# В маленьком регистре
+disabled-worlds: 
+- "world1"
+- "world2"
+# Разрешенные команды в кт
+whitelist-cmds: 
+- "команда"
+- "команда2"

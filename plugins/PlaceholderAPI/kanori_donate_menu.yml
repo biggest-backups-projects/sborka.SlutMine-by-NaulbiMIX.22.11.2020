@@ -1,0 +1,101 @@
+#
+# Menu by ablody -> vk.com/mblodeec
+#
+Menu-Name: '&c&l⚠ &0&lДОНАТ-УСЛУГИ'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 3
+Command: 
+  Name: d; donate; don; donat
+  Fallback: '123'
+Items:
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3 
+  - 1, 4 
+  - 1, 5
+  - 2, 5
+  - 2, 2
+  - 2, 3 
+  - 2, 4 
+  - 2, 1 
+  - 3, 1 
+  - 3, 2
+  - 3, 3 
+  - 3, 4 
+  - 3, 5
+  - 4, 1 
+  - 4, 2 
+  - 4, 3
+  - 4, 4 
+  - 4, 5 
+  - 5, 1 
+  - 5, 2 
+  - 5, 3
+  - 5, 5 
+  - 6, 1 
+  - 6, 2 
+  - 6, 3
+  - 6, 4 
+  - 6, 5 
+  - 7, 1 
+  - 7, 2 
+  - 7, 3
+  - 7, 5 
+  - 8, 1 
+  - 8, 2 
+  - 8, 3
+  - 7, 4 
+  - 8, 5 
+  - 9, 1 
+  - 9, 2 
+  - 9, 3
+  - 9, 4 
+  - 9, 5 
+  - 8, 4
+  - 5, 4
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:14
+  Name: '&7'
+  
+- Slot: 3, 2
+  Material: 175
+  Name: ' &c&l♣&6&l ДОНАТЕРСКАЯ ВАЛЮТА'
+  Lore:
+  - '&3 &f' 
+  - ' &c▪ &fⓇ100 РедКоинов - &e40 RUB'
+  - ' &c▪ &fⓇ350 РедКоинов - &e100 RUB'
+  - ' &c▪ &fⓇ800 РедКоинов - &e220 RUB'
+  - ' &c▪ &fⓇ1500 РедКоинов - &e520 RUB'
+  - '&3 &f'
+  - ' &c◒ &fПокупка на сайте: &cＲｅｄｅｘＭｉｎｅ.Ｒｕ'
+  - '&a&l&m&f' 
+- Slot: 5, 2
+  Material: 130
+  Name: ' &c&l♣&6&l ДОНАТ-КЕЙСЫ'
+  Lore:
+  - '&3 &f' 
+  - ' &c▪ &f3 кейса с валютой - &e35 RUB'
+  - ' &c▪ &f3 кейса с префиксами - &e60 RUB'
+  - ' &c▪ &f2 кейса с донатом - &e115 RUB'
+  - '&3 &f'
+  - ' &c◒ &fПокупка на сайте: &cＲｅｄｅｘＭｉｎｅ.Ｒｕ'
+  - '&a&l&m&f'
+- Slot: 7, 2
+  Material: diamond
+  Name: ' &c&l♣&6&l ПРИВИЛЕГИИ'
+  Lore:
+  - ''
+  - ' &c▪ &fДетальная &eинформация'
+  - ' &c▪ &fо донат-привилегиях'
+  - ''
+  Commands:
+  - 'menu: kanori_donate'  
+- Slot: 9, 3
+  Material: skull:1:3
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=='
+  Name: '&c◒ &e&lНАЗАД'
+  Lore:
+  Commands:
+  - 'menu: kanori_main'

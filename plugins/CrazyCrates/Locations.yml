@@ -1,0 +1,79 @@
+Locations:
+  '1':
+    Crate: Menu
+    World: Lobby
+    X: 11
+    Y: 90
+    Z: -9
+  '2':
+    Crate: Daily
+    World: Lobby
+    X: 11
+    Y: 90
+    Z: -6
+  '3':
+    Crate: Menu
+    World: world
+    X: 234
+    Y: 92
+    Z: 249
+  '4':
+    Crate: Daily
+    World: world
+    X: 237
+    Y: 92
+    Z: 252
+  '5':
+    Crate: Daily
+    World: spawn
+    X: 64
+    Y: 177
+    Z: 44
+  '6':
+    Crate: Menu
+    World: spawn
+    X: 60
+    Y: 177
+    Z: 43
+  '7':
+    Crate: Menu
+    World: lobby
+    X: -56
+    Y: 73
+    Z: 224
+  '8':
+    Crate: Daily
+    World: world
+    X: -92
+    Y: 66
+    Z: 91
+  '9':
+    Crate: Menu
+    World: world
+    X: -92
+    Y: 66
+    Z: 87
+  '10':
+    Crate: Daily
+    World: world
+    X: -115
+    Y: 65
+    Z: 98
+  '11':
+    Crate: Menu
+    World: world
+    X: -116
+    Y: 65
+    Z: 104
+  '13':
+    Crate: Daily
+    World: spawn
+    X: -52
+    Y: 73
+    Z: 224
+  '12':
+    Crate: Menu
+    World: spawn
+    X: -56
+    Y: 73
+    Z: 224

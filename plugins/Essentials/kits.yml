@@ -1,0 +1,361 @@
+kits:
+  starter:
+    delay: 72800
+    items:
+    - 272 1 name:&fВещь_игрока_&b{DISPLAYNAME} 
+    - 274 1 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 275 1 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 273 1 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 298 1 color:0,255,0 name:&fВещь_игрока_&b{DISPLAYNAME} protection_environmental:1
+    - 300 1 color:0,255,0 name:&fВещь_игрока_&b{DISPLAYNAME} protection_environmental:1
+    - 299 1 color:0,255,0 name:&fВещь_игрока_&b{DISPLAYNAME} protection_environmental:1
+    - 301 1 color:0,255,0 name:&fВещь_игрока_&b{DISPLAYNAME} protection_environmental:1
+    - 17 16 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 364 32 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 261 1 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 262 16 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 368 8 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 442 1 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 384 16 name:&fВещь_игрока_&b{DISPLAYNAME}
+    - 295 16 name:&fВещь_игрока_&b{DISPLAYNAME} 
+  voin:
+    delay: 172800
+    items:
+    - IRON_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+    - IRON_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+    - IRON_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+    - IRON_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+    - IRON_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:1
+    - IRON_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:1
+    - IRON_PICKAXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:1
+    - IRON_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:1
+    - CHORUS_FRUIT 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - IRON_HOE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - COOKED_CHICKEN 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SHIELD 1 basecolor:16701501
+    - ENDER_PEARL 10 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - LOG 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_infinite:1
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SAPLING 10 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_APPLE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_BLOCK 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLD_BLOCK 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - REDSTONE_BLOCK 1
+    - IRON_BLOCK 1
+    - COAL_BLOCK 1
+    - WOOL:4 32
+    - STAINED_GLASS:4 32
+    - CONCRETE:4 32
+  rycar:
+    delay: 172800
+    items:
+    - CONCRETE:13 32
+    - WOOL:13 32
+    - STAINED_GLASS:13 32
+    - DIAMOND_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+      durability:1
+    - DIAMOND_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+      durability:1
+    - DIAMOND_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+      durability:1
+    - DIAMOND_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:1
+      durability:1
+    - DIAMOND_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:2 durability:1
+      knockback:1
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:2 durability:1
+    - DIAMOND_PICKAXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:2 durability:1
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:2 durability:1
+    - CHORUS_FRUIT 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:2 arrow_infinite:1
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - CHORUS_FRUIT 16
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - COOKED_BEEF 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_APPLE 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SHIELD 1 basecolor:6192150
+    - ANVIL 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - LOG 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - LOG 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - BUCKET 1
+    - FLINT_AND_STEEL 1
+    - REDSTONE_BLOCK 1
+    - GOLD_BLOCK 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_BLOCK 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - IRON_BLOCK 2
+    - COAL_BLOCK 1
+  strannik:
+    delay: 172800
+    items:
+    - COOKED_BEEF 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - WOOL:3 32
+    - STAINED_GLASS:3 32
+    - CONCRETE:3 32
+    - GOLDEN_APPLE 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:2
+      durability:2 thorns:2
+    - DIAMOND_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:2
+      durability:2 thorns:2
+    - DIAMOND_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:2
+      durability:2 thorns:2
+    - DIAMOND_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:2
+      durability:2 thorns:2
+    - DIAMOND_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:3 durability:2
+      knockback:2
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:3 durability:2
+    - DIAMOND_PICKAXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:3 durability:2
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:3 durability:2
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:3 durability:2 arrow_fire:1
+      arrow_infinite:1
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ANVIL 4 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SHIELD 1 basecolor:3847130
+    - CHORUS_FRUIT 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SEA_LANTERN 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - LOG 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - COAL_BLOCK 2
+    - GOLD_BLOCK 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_BLOCK 2 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - IRON_BLOCK 2
+    - REDSTONE_BLOCK 2
+    - COOKED_BEEF 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+  vlastelin:
+    delay: 172800
+    items:
+    - REDSTONE_BLOCK 4
+    - IRON_BLOCK 4
+    - COAL_BLOCK 4
+    - WOOL:11 64
+    - STAINED_GLASS:11 64
+    - CONCRETE:11 64
+    - COOKED_BEEF 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - COOKED_BEEF 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:3
+      durability:3 water_worker:1 thorns:2
+    - DIAMOND_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:3
+      durability:3 thorns:2
+    - DIAMOND_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:3
+      durability:3 thorns:2
+    - DIAMOND_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:3
+      protection_fall:2 durability:3 thorns:2
+    - DIAMOND_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:4 durability:3
+      knockback:2 fire_aspect:1
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:4 arrow_knockback:1
+      arrow_fire:1 arrow_infinite:1
+    - DIAMOND_PICKAXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:4 durability:3
+      loot_bonus_blocks:2
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:4 durability:3
+      loot_bonus_blocks:2
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:4 durability:3
+      loot_bonus_blocks:2
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ANVIL 5 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SEA_LANTERN 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - LOG 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - LOG 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - CHORUS_FRUIT 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SHIELD 1 basecolor:3949738
+    - GOLDEN_APPLE 4 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLD_BLOCK 4 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_BLOCK 4 char:&fВещь_игрока_&bSOFT_BogDanIkys
+  car:
+    delay: 172800
+    items:
+    - COAL_BLOCK 5
+    - REDSTONE_BLOCK 5
+    - WOOL:6 64
+    - CONCRETE:6 64
+    - STAINED_GLASS:6 64
+    - GRILLED_PORK 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - DIAMOND_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 water_worker:1 thorns:3
+    - DIAMOND_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 thorns:3
+    - DIAMOND_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 thorns:3
+    - DIAMOND_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      protection_fall:4 durability:3 thorns:3
+    - DIAMOND_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:5 durability:3
+      knockback:2 fire_aspect:2
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:5 arrow_knockback:2
+      arrow_fire:1 arrow_infinite:1
+    - DIAMOND_PICKAXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:5 durability:3
+      loot_bonus_blocks:3
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:5 durability:3
+      loot_bonus_blocks:3
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:5 durability:3
+      loot_bonus_blocks:3
+    - SHIELD 1 basecolor:15961002
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_APPLE 6 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GRILLED_PORK 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - CHORUS_FRUIT 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - IRON_BLOCK 5
+    - DIAMOND_BLOCK 5 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLD_BLOCK 5 char:&fВещь_игрока_&bSOFT_BogDanIkys
+  korol:
+    delay: 172800
+    items:
+    - COAL_BLOCK 16
+    - REDSTONE_BLOCK 16
+    - IRON_BLOCK 10
+    - DIAMOND_BLOCK 8 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLD_BLOCK 8 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SHIELD 1 basecolor:16351261
+    - WOOL:1 64
+    - STAINED_GLASS:1 64
+    - CONCRETE:1 64
+    - DIAMOND_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 oxygen:3 water_worker:1 mending:1
+    - DIAMOND_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 mending:1
+    - DIAMOND_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 mending:1
+    - DIAMOND_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      depth_strider:3 durability:3 mending:1
+    - DIAMOND_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:5 durability:3
+      fire_aspect:2 loot_bonus_mobs:3 mending:1
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:5 durability:3 arrow_fire:1
+      arrow_infinite:1 mending:1
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:5 dig_speed:5
+      durability:3 loot_bonus_blocks:3 mending:1
+    - DIAMOND_PICKAXE 1 dig_speed:6 durability:3 loot_bonus_blocks:3
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:5 durability:3
+      loot_bonus_blocks:3 mending:1
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ARROW 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_APPLE 20 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_CARROT 32 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - CHORUS_FRUIT 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ANVIL 10 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_CHEST 8 char:&fВещь_игрока_&bSOFT_BogDanIkys
+  SLUT:
+    delay: 172800
+    items:
+    - STAINED_GLASS:14 64
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - SHIELD 1 basecolor:11546150
+    - DIAMOND_HELMET 1 char:&7Набор_&4&lPHANTOM protection_environmental:4 durability:4
+      oxygen:5 water_worker:1
+    - DIAMOND_CHESTPLATE 1 char:&7Набор_&4&lPHANTOM protection_environmental:4 durability:4
+    - DIAMOND_LEGGINGS 1 char:&7Набор_&4&lPHANTOM protection_environmental:4 durability:4
+    - DIAMOND_BOOTS 1 char:&7Набор_&4&lPHANTOM protection_environmental:4 depth_strider:4
+      protection_fall:4 durability:4
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:5 arrow_knockback:2
+      arrow_fire:1 arrow_infinite:1 mending:1
+    - DIAMOND_SWORD 1 char:&7Набор_&4&lPHANTOM damage_all:5 durability:3 fire_aspect:2
+      loot_bonus_mobs:3 sweeping_edge:3
+    - DIAMOND_PICKAXE 1 dig_speed:7 durability:4 loot_bonus_blocks:3
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:5 dig_speed:5
+      durability:3 loot_bonus_blocks:3 mending:1
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:5 durability:3
+      loot_bonus_blocks:3 mending:1
+    - TOTEM 1
+    - TOTEM 1
+    - TOTEM 1
+    - TOTEM 1
+    - TOTEM 1
+    - TOTEM 1
+    - GOLDEN_CARROT 64
+    - GOLDEN_APPLE 32
+    - DIAMOND_BLOCK 24 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - IRON_BLOCK 24
+    - GOLD_BLOCK 24 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - COAL_BLOCK 24
+    - CHORUS_FRUIT 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - CHORUS_FRUIT 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TIPPED_ARROW 64
+    - TIPPED_ARROW 64
+    - CONCRETE:14 64
+    - WOOL:14 64
+  YouTube:
+    delay: 172800
+    items:
+    - COAL_BLOCK 16
+    - REDSTONE_BLOCK 8
+    - DIAMOND_BLOCK 24 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLD_BLOCK 24 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - IRON_BLOCK 32
+    - SHIELD 1 basecolor:16383998
+    - CONCRETE 64
+    - STAINED_GLASS 64
+    - WOOL 64
+    - DIAMOND_HELMET 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 oxygen:3 water_worker:1 mending:1
+    - DIAMOND_CHESTPLATE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 mending:1
+    - DIAMOND_LEGGINGS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      durability:3 mending:1
+    - DIAMOND_BOOTS 1 char:&fВещь_игрока_&bSOFT_BogDanIkys protection_environmental:4
+      depth_strider:3 durability:3 mending:1
+    - DIAMOND_SWORD 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:5 durability:3
+      fire_aspect:2 loot_bonus_mobs:3 mending:1
+    - BOW 1 char:&fВещь_игрока_&bSOFT_BogDanIkys arrow_damage:5 durability:3 arrow_fire:1
+      arrow_infinite:1 mending:1
+    - DIAMOND_AXE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys damage_all:5 dig_speed:5
+      durability:3 loot_bonus_blocks:3 mending:1
+    - DIAMOND_PICKAXE 1 dig_speed:6 durability:3 loot_bonus_blocks:3
+    - DIAMOND_SPADE 1 char:&fВещь_игрока_&bSOFT_BogDanIkys dig_speed:5 durability:3
+      loot_bonus_blocks:3 mending:1
+    - ENDER_CHEST 8 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ANVIL 10 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - EXP_BOTTLE 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TOTEM 1 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - ENDER_PEARL 16 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - CHORUS_FRUIT 64 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_APPLE 24 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - GOLDEN_CARROT 48 char:&fВещь_игрока_&bSOFT_BogDanIkys
+    - TIPPED_ARROW 64
+    - TIPPED_ARROW 64    
+    

@@ -1,0 +1,142 @@
+Menu-Name: '&c&l⚠ &0&lМАГАЗИН '#&r              &lБУСТЕРЫ:'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command: 
+  Name: arrow
+  Fallback: '123'
+Items:
+- Slot: 
+  - 1, 1 
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 1
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  - 2, 1
+  - 3, 1
+  - 4, 1
+  - 5, 1
+  - 6, 1
+  - 7, 1
+  - 8, 1
+  - 2, 9
+  - 3, 9
+  - 4, 9
+  - 5, 9
+  - 6, 9
+  - 7, 9
+  - 8, 9
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:1
+  Name: '&7' 
+- Slot: 
+  - 2, 2
+  - 2, 3
+  - 2, 4
+  - 3, 2
+  - 3, 3
+  - 3, 4
+  - 4, 2
+  - 4, 3
+  - 4, 4
+  - 5, 2
+  - 5, 3
+  - 6, 2
+  - 6, 3
+  - 6, 4 
+  - 7, 2
+  - 7, 3
+  - 7, 4
+  - 8, 2
+  - 8, 3
+  - 8, 4
+  Hide-Flags: 63
+  Material: stained_glass_pane:1:7
+  Name: '&d'
+  Commands:  
+- Slot: 9, 3
+  Material: skull:1:3
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2OWUwNmU1ZGFkZmQ4NGU1ZjNkMWMyMTA2M2YyNTUzYjJmYTk0NWVlMWQ0ZDcxNTJmZGM1NDI1YmMxMmE5In19fQ=='
+  Name: '&3◒ &b&lНАЗАД'
+  Lore:
+  - ''
+  Commands:
+  - 'menu: shop' 
+- Slot: 5, 4
+  Material: 356
+  Name: '&6'
+  Lore:
+  - ''
+  - '&fФранки: &6%tm_tokens%₣'
+  - '&fДоллары: &e%vault_eco_balance%$'
+  - ''
+  Commands:
+- Slot: 4, 3
+  Material: tipped_arrow
+  Name: '&6Cтрела лучника'
+  Lore:
+  - '&7'
+  - '&fЗамедление &6(4с)'
+  - '&7'
+  - '&DЛКМ &7- &fкупить за &675.000$'
+  - '&dПКМ &7- &fкупить за &e40₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 40
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'console: minecraft:give %player_name% minecraft:tipped_arrow 64 0 {CustomPotionEffects:[{Id:2,Amplifier:10,Duration:100}],CustomPotionColor:1246719,display:{Name:"§6Стрела лучника"}}'
+  - Click-Type: Left
+    Price: 75000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cКредитов $&f на балансе'
+    Commands:
+    - 'console: minecraft:give %player_name% minecraft:tipped_arrow 64 0 {CustomPotionEffects:[{Id:2,Amplifier:10,Duration:100}],CustomPotionColor:1246719,display:{Name:"§6Стрела лучника"}}'
+- Slot: 5, 3
+  Material: tipped_arrow
+  Name: '&4Cтрела проклятого'
+  Lore:
+  - '&7'
+  - '&fЗамедление &6(4с)'
+  - '&fОтравление &6(4с)'
+  - '&fИссушение &6(4с)'
+  - '&fСлепота &6(1с)'
+  - '&fСвечение &6(5с)'
+  - '&7'
+  - '&DЛКМ &7- &fкупить за &6125.000$'
+  - '&dПКМ &7- &fкупить за &e60₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 60
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'console: minecraft:give %player_name% minecraft:tipped_arrow 64 0 {CustomPotionEffects:[{Id:2,Amplifier:1,Duration:100},{Id:15,Duration:100},{Id:19,Amplifier:1,Duration:100},{Id:20,Amplifier:1,Duration:100},{Id:24,Duration:100}],CustomPotionColor:16712976,display:{Name:"§6Стрела проклятого"}}'
+  - Click-Type: Left
+    Price: 125000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cКредитов $&f на балансе'
+    Commands:
+    - 'console: minecraft:give %player_name% minecraft:tipped_arrow 64 0 {CustomPotionEffects:[{Id:2,Amplifier:1,Duration:100},{Id:15,Duration:100},{Id:19,Amplifier:1,Duration:100},{Id:20,Amplifier:1,Duration:100},{Id:24,Duration:100}],CustomPotionColor:16712976,display:{Name:"§6Стрела проклятого"}}'
+- Slot: 6, 3
+  Material: tipped_arrow
+  Name: '&4Cтрела воробья'
+  Lore:
+  - '&7'
+  - '&fЛевитация &6(4с)'
+  - '&7'
+  - '&DЛКМ &7- &fкупить за &6100.000$'
+  - '&dПКМ &7- &fкупить за &e50₣'
+  Click-Handlers:
+  - Click-Type: Right
+    Tokens: 50
+    Tokens-message: '&6&lМАГАЗИН: &fНедостаточно &cФранков ₣&f на балансе'
+    Commands:
+    - 'console: minecraft:give %player_name% minecraft:tipped_arrow 64 0 {CustomPotionEffects:[{Id:25,Amplifier:2,Duration:100}],CustomPotionColor:393196,display:{Name:"§6Стрела воробья"}}'
+  - Click-Type: Left
+    Price: 100000
+    Price-message: '&6&lМАГАЗИН: &fНедостаточно &cКредитов $&f на балансе'
+    Commands:
+    - 'console: minecraft:give %player_name% minecraft:tipped_arrow 64 0 {CustomPotionEffects:[{Id:25,Amplifier:2,Duration:100}],CustomPotionColor:393196,display:{Name:"§6Стрела воробья"}}'

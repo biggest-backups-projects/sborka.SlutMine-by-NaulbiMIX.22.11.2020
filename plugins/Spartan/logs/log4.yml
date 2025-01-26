@@ -1,0 +1,115 @@
+(1)[2020/11/19 01:52:24]: '(False Positive) [Spartan Build 338-12345/987654321] SOFT_BogDanIkys
+  failed InventoryClicks (VL: 0) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping:
+  3ms), (TPS: 19.86), (Plib: true), (Async: false), (Online: 3), (t: normal, speed:
+  fast, ms: 3, i: redstone-block)]'
+(2)[2020/11/19 01:52:44]: '(False Positive) [Spartan Build 338-12345/987654321] SOFT_BogDanIkys
+  failed InventoryClicks (VL: 0) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping:
+  3ms), (TPS: 19.93), (Plib: true), (Async: false), (Online: 3), (t: normal, speed:
+  fast, ms: 2, i: iron-block)]'
+(3)[2020/11/19 01:52:45]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 1) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 3ms),
+  (TPS: 19.97), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 1, i: iron-block)]'
+(4)[2020/11/19 01:55:14]: '(False Positive) [Spartan Build 338-12345/987654321] SOFT_BogDanIkys
+  failed InventoryClicks (VL: 0) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping:
+  4ms), (TPS: 19.94), (Plib: true), (Async: false), (Online: 3), (t: normal, speed:
+  fast, ms: 4, i: anvil)]'
+(5)[2020/11/19 01:55:14]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 1) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 4ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 30, i: anvil)]'
+(6)[2020/11/19 01:55:14]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 2) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 4ms),
+  (TPS: 19.96), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 4, i: anvil)]'
+(7)[2020/11/19 01:56:04]: '(False Positive) [Spartan Build 338-12345/987654321] SOFT_BogDanIkys
+  failed InventoryClicks (VL: 0) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping:
+  3ms), (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed:
+  fast, ms: 26, i: redstone-block)]'
+(8)[2020/11/19 01:56:05]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 1) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 3ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 39, i: redstone-block)]'
+(9)[2020/11/19 01:56:05]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 2) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 3ms),
+  (TPS: 19.97), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 4, i: redstone-block)]'
+(10)[2020/11/19 01:56:09]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 3) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 3ms),
+  (TPS: 19.94), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 5, i: redstone-block)]'
+(11)[2020/11/19 01:56:22]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 4) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 3ms),
+  (TPS: 19.96), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 1, i: coal-block)]'
+(12)[2020/11/19 01:56:22]: '[Spartan Build 338] SOFT_BogDanIkys was kicked for InventoryClicks'
+(13)[2020/11/19 01:56:36]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 5) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.84), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 48, i: coal-block)]'
+(14)[2020/11/19 01:56:43]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 6) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.93), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 5, i: golden-carrot)]'
+(15)[2020/11/19 01:56:43]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 7) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.92), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 3, i: golden-carrot)]'
+(16)[2020/11/19 01:56:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 8) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 28, i: cooked-beef)]'
+(17)[2020/11/19 01:56:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 9) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 2, i: cooked-beef)]'
+(18)[2020/11/19 01:56:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 10) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.94), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 4, i: wool)]'
+(19)[2020/11/19 01:56:44]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 11) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.93), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 3, i: wool)]'
+(20)[2020/11/19 01:56:45]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 12) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 43, i: golden-apple)]'
+(21)[2020/11/19 01:56:45]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 13) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 0ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 49, i: golden-apple)]'
+(22)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 14) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 28, i: iron-block)]'
+(23)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 15) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.97), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 3, i: iron-block)]'
+(24)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 16) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.96), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 2, i: iron-block)]'
+(25)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 17) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 45, i: iron-block)]'
+(26)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 18) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.97), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 3, i: iron-block)]'
+(27)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 19) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.98), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 46, i: iron-block)]'
+(28)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 20) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.97), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 3, i: iron-block)]'
+(29)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 21) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),
+  (TPS: 19.96), (Plib: true), (Async: false), (Online: 3), (t: normal, speed: fast,
+  ms: 2, i: iron-block)]'
+(30)[2020/11/19 01:56:49]: '[Spartan Build 338-12345/987654321] SOFT_BogDanIkys failed
+  InventoryClicks (VL: 22) [(Version: 1.12), (C-V: 1) (Silent: false), (Ping: 2ms),

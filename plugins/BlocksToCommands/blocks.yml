@@ -1,0 +1,63 @@
+donate:
+  Name: donate
+  Command: customgui open donat
+  runFromConsole: false
+  World: spawn
+  X: -1741
+  Y: 71
+  Z: -23
+  Cost: '0'
+shop:
+  Name: shop
+  Command: customgui open shop
+  runFromConsole: false
+  World: spawn
+  X: -1740
+  Y: 71
+  Z: -23
+  Cost: '0'
+kill:
+  Name: kill
+  Command: bounties
+  runFromConsole: false
+  World: spawn
+  X: -1739
+  Y: 71
+  Z: -23
+  Cost: '0'
+ac:
+  Name: ac
+  Command: ac
+  runFromConsole: false
+  World: spawn
+  X: -1738
+  Y: 71
+  Z: -23
+  Cost: '0'
+backpack:
+  Name: backpack
+  Command: backpack
+  runFromConsole: false
+  World: spawn
+  X: -1737
+  Y: 71
+  Z: -23
+  Cost: '0'
+quest:
+  Name: quest
+  Command: quest
+  runFromConsole: false
+  World: spawn
+  X: -1736
+  Y: 71
+  Z: -23
+  Cost: '0'
+bp:
+  Name: bp
+  Command: battlepass
+  runFromConsole: false
+  World: spawn
+  X: -1735
+  Y: 71
+  Z: -23
+  Cost: '0'

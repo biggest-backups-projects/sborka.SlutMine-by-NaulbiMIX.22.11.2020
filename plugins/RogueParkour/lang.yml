@@ -1,0 +1,9 @@
+version: 0
+PREFIX: '&6&lSLUT&F&LMINE &7&l» '
+YOUHAVE: '&fТы пропрыгал &6{points} &fблоков'
+YOUSCORED: '&fТвой рекорд: &6{points} &fблоков'
+RECORD: '&fТы побил свой рекорд &f&l{oldpoints}&f блоков, рекордом в &6{newpoints}
+  &fблоков!'
+YOULOSE: '&fТы упал &6:с'
+NOPERM: '&c&lNo tienes permisos'
+FULL: '&c&lEl parkour esta lleno, intentalo de nuevo mas tarde'

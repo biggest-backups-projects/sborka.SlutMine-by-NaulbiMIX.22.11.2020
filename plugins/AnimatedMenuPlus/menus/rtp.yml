@@ -1,0 +1,64 @@
+Menu-Name: '&c&l⚠ &0&lРАНДОМ ТЕЛЕПОРТ '#&r              &lБУСТЕРЫ:'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 5
+Command:
+  Name: rtp; randomteleport
+  Fallback: '123'
+Items:
+- Slot:
+  - 1, 1
+  - 2, 1
+  - 3, 1
+  - 4, 1
+  - 5, 1
+  - 6, 1
+  - 7, 1
+  - 8, 1
+  - 9, 1
+  - 1, 5
+  - 2, 5
+  - 3, 5
+  - 4, 5
+  - 5, 5
+  - 6, 5
+  - 7, 5
+  - 8, 5
+  - 9, 5
+  - 1, 2
+  - 1, 3
+  - 1, 4
+  - 1, 5
+  - 9, 2
+  - 9, 3
+  - 9, 4
+  - 9, 5
+  Hide-Flags: 63
+#  Enchantments:
+#  - unbreaking:1
+  Material: stained_glass_pane:1:7
+  Name: '&d'
+  Commands:
+  Commands:
+- Slot: 4, 3
+  Material: 439
+  Name: '&6&LРАНДОМ-ТЕЛЕПОРТ'
+  Lore:
+  - ''
+  - '&6❱ &fТелепорт на &6500 блоков'
+  - '&6❱ &fОграничение: &620 секунд'
+  - ''
+  Commands:
+    - 'slutapi:rtp'
+- Slot: 6, 3
+  Material: 439
+  Name: '&6&LРАНДОМ-ТЕЛЕПОРТ'
+  Lore:
+  - ''
+  - '&6❱ &fТелепорт на &62000 блоков'
+  - '&6❱ &fОграничение: &61м'
+  - ''
+  - '&6❱ &fОт привилегии &b&lСТРАННИК'
+  - ''
+  Commands:
+    - 'vrtp'

@@ -1,0 +1,981 @@
+#
+# Файл регионов WorldGuard
+#
+# ПРЕДУПРЕЖДЕНИЕ: ЭТОТ ФАЙЛ АВТОМАТИЧЕСКИ СГЕНЕРИРОВАН. Если изменить этот файл
+# вручную, имейте в виду, ЧТО ОДИН НЕПРАВИЛЬНО ВВЕДЕННЫЙ СИМВОЛ МОЖЕТ ПОВЕРЕДИТЬ ФАЙЛ. Если
+# WorldGuard будет неспособен разобрать файл, ваши регионы НЕ ЗАГРУЗЯТСЯ, и
+# содержимое этого файла будет сброшено. Пожалуйста, используйте валидатор YAML, такой как
+# http://yaml-online-parser.appspot.com (для небольших файлов).
+#
+# НЕ ЗАБУДЬТЕ ПЕРИОДИЧЕСКИ ДЕЛАТЬ РЕЗЕРВНЫЕ КОПИИ.
+#
+regions:
+    dom1:
+        min: {x: -684.0, y: 30.0, z: 27.0}
+        max: {x: -657.0, y: 115.0, z: 52.0}
+        members:
+            unique-ids: [ad62f64d-76e3-34e2-80ba-499c9721910c]
+        flags: {}
+        owners:
+            unique-ids: [0756937f-2ce7-3f85-958a-bf7aa4f54e81, ad62f64d-76e3-34e2-80ba-499c9721910c]
+        type: cuboid
+        priority: 0
+    asda:
+        min: {x: -1807.0, y: 34.0, z: 141.0}
+        max: {x: -1805.0, y: 44.0, z: 161.0}
+        members:
+            unique-ids: [3ca9d871-6c58-3bdf-8801-11645c4f3d42]
+        flags: {}
+        owners:
+            unique-ids: [962cd27f-78b6-3fb6-a5d3-e1af8de9e8e5, 3ca9d871-6c58-3bdf-8801-11645c4f3d42]
+        type: cuboid
+        priority: 0
+    igrok:
+        min: {x: -327.0, y: 0.0, z: 84.0}
+        max: {x: -317.0, y: 167.0, z: 121.0}
+        members:
+            unique-ids: [87741e1c-3d0b-3b09-9229-59325bcc236e, c13bbfc6-d9cf-3440-986b-a53b3b6ef05b,
+                566fb095-ddce-3e7a-8f49-a2be9d1e03cb]
+        flags: {pvp: deny}
+        owners:
+            unique-ids: [c13bbfc6-d9cf-3440-986b-a53b3b6ef05b, 45327d26-6a62-3cab-87a5-3ebcf346131b,
+                f2e7832e-00bf-3cdd-9d75-c0bba3957fbd]
+        type: cuboid
+        priority: 0
+    okd:
+        min: {x: 243.0, y: 14.0, z: 803.0}
+        max: {x: 275.0, y: 114.0, z: 828.0}
+        members:
+            unique-ids: [53daffd9-7eb9-3e6b-b1bf-d28f953962bd, 91e9dbfd-f9af-35e4-9b1f-9d947b5c42b4]
+        flags: {}
+        owners:
+            unique-ids: [d11c3d8d-7bd9-32d8-bee0-f620acea2b3a]
+        type: cuboid
+        priority: 0
+    hack:
+        min: {x: -364.0, y: 0.0, z: 116.0}
+        max: {x: -328.0, y: 140.0, z: 134.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [72336376-a1eb-3db3-bd4d-805a88914526]
+        type: cuboid
+        priority: 0
+    _astors_:
+        min: {x: -339.0, y: 16.0, z: 59.0}
+        max: {x: -317.0, y: 117.0, z: 83.0}
+        members:
+            unique-ids: [08bcdb5c-d397-394a-9f79-9f0c836f6ea6, 016b1ea6-2261-3cae-b27a-ac28da7b5066,
+                0093787d-0134-340d-886e-320e793f1db2, 794ae1fc-18c6-32a6-bbaa-493cc9495f5d,
+                66f3defa-cbf0-34d5-8820-5922b50a2958, f2e7832e-00bf-3cdd-9d75-c0bba3957fbd]
+        flags: {}
+        owners:
+            unique-ids: [87c1263b-5e7a-3dbb-a030-0490987acfb6]
+        type: cuboid
+        priority: 0
+    exe:
+        min: {x: 277.0, y: 58.0, z: 613.0}
+        max: {x: 292.0, y: 79.0, z: 626.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [64d9ae19-4c84-3d86-82b2-7099e8e2b5de]
+        type: cuboid
+        priority: 0
+    gdfgdfg:
+        min: {x: -163.0, y: 0.0, z: 425.0}
+        max: {x: -144.0, y: 255.0, z: 434.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [9b6f60d7-0ad3-3f68-9429-22b8d51ad818]
+        type: cuboid
+        priority: 0
+    dfrl:
+        min: {x: 2500.0, y: 56.0, z: -2500.0}
+        max: {x: 2500.0, y: 59.0, z: -2500.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [b8172704-6645-3d32-9b7f-45e839f84472]
+        type: cuboid
+        priority: 0
+    ghoststar2:
+        min: {x: -356.0, y: 14.0, z: 69.0}
+        max: {x: -340.0, y: 117.0, z: 84.0}
+        members:
+            unique-ids: [0093787d-0134-340d-886e-320e793f1db2, 87c1263b-5e7a-3dbb-a030-0490987acfb6,
+                08bcdb5c-d397-394a-9f79-9f0c836f6ea6, 794ae1fc-18c6-32a6-bbaa-493cc9495f5d]
+        flags: {}
+        owners:
+            unique-ids: [016b1ea6-2261-3cae-b27a-ac28da7b5066]
+        type: cuboid
+        priority: 0
+    dfrlf:
+        min: {x: 2455.0, y: 59.0, z: -2500.0}
+        max: {x: 2500.0, y: 93.0, z: -2440.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [b8172704-6645-3d32-9b7f-45e839f84472]
+        type: cuboid
+        priority: 0
+    dom4:
+        min: {x: -694.0, y: 23.0, z: 2.0}
+        max: {x: -658.0, y: 110.0, z: 19.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [ad62f64d-76e3-34e2-80ba-499c9721910c]
+        type: cuboid
+        priority: 0
+    dom3:
+        min: {x: -700.0, y: 11.0, z: 20.0}
+        max: {x: -656.0, y: 115.0, z: 26.0}
+        members:
+            unique-ids: [0756937f-2ce7-3f85-958a-bf7aa4f54e81]
+        flags: {}
+        owners:
+            unique-ids: [ad62f64d-76e3-34e2-80ba-499c9721910c]
+        type: cuboid
+        priority: 0
+    dom2:
+        min: {x: -700.0, y: 31.0, z: 27.0}
+        max: {x: -685.0, y: 123.0, z: 52.0}
+        members:
+            unique-ids: [ad62f64d-76e3-34e2-80ba-499c9721910c]
+        flags: {}
+        owners:
+            unique-ids: [0756937f-2ce7-3f85-958a-bf7aa4f54e81, ad62f64d-76e3-34e2-80ba-499c9721910c]
+        type: cuboid
+        priority: 0
+    dhshf:
+        min: {x: 233.0, y: 45.0, z: -646.0}
+        max: {x: 257.0, y: 151.0, z: -626.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [f668161c-f0b7-3af7-832e-36ec8801b27a]
+        type: cuboid
+        priority: 0
+    killeryt:
+        min: {x: 624.0, y: 0.0, z: -702.0}
+        max: {x: 645.0, y: 255.0, z: -694.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [6cb79bc7-fe8a-3d6d-8395-eb872a072aae]
+        type: cuboid
+        priority: 0
+    d0ece:
+        min: {x: -901.0, y: 35.0, z: -775.0}
+        max: {x: -870.0, y: 96.0, z: -739.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [e298e220-23c0-33d6-8780-6eed860ef0e6, ac8b8109-5a48-3c7a-bac8-a88876d22671]
+        type: cuboid
+        priority: 0
+    serv:
+        min: {x: -534.0, y: 0.0, z: 306.0}
+        max: {x: -522.0, y: 55.0, z: 310.0}
+        members:
+            unique-ids: [6a78a4e9-7151-390d-bed1-db9aae38f413, 1dc08175-8ee3-3caa-9c90-3c2e731bf6a1]
+        flags: {}
+        owners:
+            unique-ids: [2246f4fc-7cf5-33c5-90af-d03ea2ef27d8]
+        type: cuboid
+        priority: 0
+    io:
+        min: {x: -917.0, y: 15.0, z: 622.0}
+        max: {x: -891.0, y: 138.0, z: 634.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [db713c1a-683d-317c-9315-6a9518c01d42]
+        type: cuboid
+        priority: 0
+    watat:
+        min: {x: -377.0, y: 13.0, z: 38.0}
+        max: {x: -349.0, y: 114.0, z: 68.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [fc127fef-eb35-3c97-bb38-ed4b0f1264e3]
+        type: cuboid
+        priority: 0
+    nikita:
+        min: {x: -48.0, y: 47.0, z: -385.0}
+        max: {x: -13.0, y: 100.0, z: -352.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [7e524f23-2ca6-3825-9c58-63112620a02e]
+        type: cuboid
+        priority: 0
+    xata:
+        min: {x: -4450.0, y: 0.0, z: 5006.0}
+        max: {x: -4399.0, y: 255.0, z: 5041.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [f2e7832e-00bf-3cdd-9d75-c0bba3957fbd]
+        type: cuboid
+        priority: 0
+    cadillca:
+        min: {x: -1761.0, y: 0.0, z: 223.0}
+        max: {x: -1748.0, y: 40.0, z: 246.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [3ca9d871-6c58-3bdf-8801-11645c4f3d42, 962cd27f-78b6-3fb6-a5d3-e1af8de9e8e5]
+        type: cuboid
+        priority: 0
+    dsadasdsad:
+        min: {x: 709.0, y: 65.0, z: 489.0}
+        max: {x: 709.0, y: 66.0, z: 490.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [95938790-a455-310a-8cab-3bb1262653bb, f2e7832e-00bf-3cdd-9d75-c0bba3957fbd]
+        type: cuboid
+        priority: 0
+    prafain_yt:
+        min: {x: 978.0, y: 40.0, z: -588.0}
+        max: {x: 993.0, y: 140.0, z: -568.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [e3d82213-cd25-3aab-a017-8e3f645584f3]
+        type: cuboid
+        priority: 0
+    sdd:
+        min: {x: -160.0, y: 0.0, z: -304.0}
+        max: {x: -138.0, y: 164.0, z: -281.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [debc002d-3bf1-3597-8c06-c9e7605b5cf6]
+        type: cuboid
+        priority: 0
+    '52225':
+        min: {x: -929.0, y: 52.0, z: 587.0}
+        max: {x: -918.0, y: 136.0, z: 625.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [db713c1a-683d-317c-9315-6a9518c01d42, 0756937f-2ce7-3f85-958a-bf7aa4f54e81]
+        type: cuboid
+        priority: 0
+    domik2:
+        min: {x: -345.0, y: 0.0, z: 11.0}
+        max: {x: -318.0, y: 65.0, z: 28.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [75f1b5d2-86d5-3636-833e-55a857f0e96a]
+        type: cuboid
+        priority: 0
+    jk:
+        min: {x: -922.0, y: 55.0, z: -345.0}
+        max: {x: -912.0, y: 79.0, z: -335.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d8f75bac-ccd4-37b6-96e4-118dbbdc7c03]
+        type: cuboid
+        priority: 0
+    farmilka:
+        min: {x: -1986.0, y: 0.0, z: 1215.0}
+        max: {x: -1963.0, y: 85.0, z: 1238.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [aec9de41-35f5-3ba1-8f26-84cef5abf560]
+        type: cuboid
+        priority: 0
+    sdq:
+        min: {x: 653.0, y: 54.0, z: 970.0}
+        max: {x: 668.0, y: 77.0, z: 986.0}
+        members:
+            unique-ids: [87efbd58-c34f-392a-b12b-b5bf42de8c95, a202bd3b-5006-350a-8d16-3e596dbe0d8f,
+                5d610321-2830-3e72-8eb4-eddab47c8f1e]
+        flags: {}
+        owners:
+            unique-ids: [9bc674bc-be29-3627-9690-a255b9215c71]
+        type: cuboid
+        priority: 0
+    dom:
+        min: {x: 163.0, y: 33.0, z: -606.0}
+        max: {x: 168.0, y: 74.0, z: -600.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [36ca034a-3da5-38df-98b3-f9552ac91716]
+        type: cuboid
+        priority: 0
+    gogog:
+        min: {x: -682.0, y: 45.0, z: 1252.0}
+        max: {x: -672.0, y: 105.0, z: 1264.0}
+        members:
+            unique-ids: [2748e9f8-e9a6-3074-a870-23d200a31540]
+        flags: {}
+        owners:
+            unique-ids: [10997e58-26cd-32de-87a8-7cf2a6de189c]
+        type: cuboid
+        priority: 0
+    4eboksar:
+        min: {x: -441.0, y: 44.0, z: -153.0}
+        max: {x: -424.0, y: 84.0, z: -136.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [b670ea94-1b57-3622-af51-5ee1f5ece7c1]
+        type: cuboid
+        priority: 0
+    domik:
+        min: {x: -345.0, y: 65.0, z: 11.0}
+        max: {x: -318.0, y: 255.0, z: 28.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [75f1b5d2-86d5-3636-833e-55a857f0e96a]
+        type: cuboid
+        priority: 0
+    stastopgg:
+        min: {x: 484.0, y: 12.0, z: -461.0}
+        max: {x: 503.0, y: 152.0, z: -436.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [bfee51d0-89d5-397c-8fb6-39d5ffdd691d]
+        type: cuboid
+        priority: 0
+    oo5:
+        min: {x: 709.0, y: 17.0, z: 533.0}
+        max: {x: 743.0, y: 108.0, z: 563.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d8f75bac-ccd4-37b6-96e4-118dbbdc7c03]
+        type: cuboid
+        priority: 0
+    oo7:
+        min: {x: 644.0, y: 39.0, z: 533.0}
+        max: {x: 709.0, y: 86.0, z: 563.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d8f75bac-ccd4-37b6-96e4-118dbbdc7c03]
+        type: cuboid
+        priority: 0
+    rgprosto:
+        min: {x: -477.0, y: 55.0, z: 230.0}
+        max: {x: -470.0, y: 75.0, z: 242.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [36a17942-f16c-362d-a344-ce680a0215be]
+        type: cuboid
+        priority: 0
+    hdwjsk:
+        min: {x: 246.0, y: 16.0, z: -286.0}
+        max: {x: 265.0, y: 74.0, z: -261.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [fd3078f2-9b4f-3e6d-9b6e-b33819aa8818]
+        type: cuboid
+        priority: 0
+    oo6:
+        min: {x: 709.0, y: 38.0, z: 563.0}
+        max: {x: 743.0, y: 87.0, z: 617.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d8f75bac-ccd4-37b6-96e4-118dbbdc7c03]
+        type: cuboid
+        priority: 0
+    oo8:
+        min: {x: 644.0, y: 50.0, z: 563.0}
+        max: {x: 709.0, y: 75.0, z: 617.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d8f75bac-ccd4-37b6-96e4-118dbbdc7c03]
+        type: cuboid
+        priority: 0
+    jopakka:
+        min: {x: 939.0, y: 95.0, z: -403.0}
+        max: {x: 945.0, y: 120.0, z: -392.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [c16eb4a3-e5e6-3304-9124-e4312d7fdb3f]
+        type: cuboid
+        priority: 0
+    sp:
+        min: {x: -165.0, y: 0.0, z: -54.0}
+        max: {x: -147.0, y: 225.0, z: -38.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [e84a8910-4024-36aa-bd3d-7b94b597dbee]
+        type: cuboid
+        priority: 0
+    korosi:
+        min: {x: 821.0, y: 18.0, z: 945.0}
+        max: {x: 835.0, y: 119.0, z: 953.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [6fd920eb-1cdb-3a40-9a94-f411d95785cf]
+        type: cuboid
+        priority: 0
+    kk:
+        min: {x: 553.0, y: 78.0, z: -777.0}
+        max: {x: 559.0, y: 82.0, z: -771.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [126feff1-e396-3d92-8d96-3c9622cbe83f]
+        type: cuboid
+        priority: 0
+    cyka:
+        min: {x: 321.0, y: 0.0, z: -196.0}
+        max: {x: 325.0, y: 255.0, z: -189.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [c53be46b-0a70-3ab0-aabf-85ade0f2fe7c]
+        type: cuboid
+        priority: 0
+    trapka229:
+        min: {x: 683.0, y: 31.0, z: 476.0}
+        max: {x: 696.0, y: 93.0, z: 491.0}
+        members:
+            unique-ids: [82980a3a-3694-3e3e-be05-7d73c7fc0c63]
+        flags: {}
+        owners:
+            unique-ids: [882c76d3-d85c-3066-a606-87cb6ae56b5b]
+        type: cuboid
+        priority: 0
+    bgbg:
+        min: {x: 352.0, y: 50.0, z: 681.0}
+        max: {x: 394.0, y: 90.0, z: 721.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [91e9dbfd-f9af-35e4-9b1f-9d947b5c42b4]
+        type: cuboid
+        priority: 0
+    d:
+        min: {x: 569.0, y: 55.0, z: -717.0}
+        max: {x: 580.0, y: 116.0, z: -707.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [126feff1-e396-3d92-8d96-3c9622cbe83f]
+        type: cuboid
+        priority: 0
+    jqrqr:
+        min: {x: 388.0, y: 55.0, z: 1528.0}
+        max: {x: 403.0, y: 99.0, z: 1533.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [7033459e-59f3-36d0-9938-eddb8d3b2ebf]
+        type: cuboid
+        priority: 0
+    end_portal:
+        min: {x: -418.0, y: 0.0, z: -2293.0}
+        max: {x: -339.0, y: 255.0, z: -2222.0}
+        members:
+            unique-ids: [0a99eb51-cb09-32e0-9906-ff27eaf7c57e, be2384be-4e79-3662-a5a2-54c912748be4]
+        flags: {}
+        owners:
+            unique-ids: [f2e7832e-00bf-3cdd-9d75-c0bba3957fbd]
+        type: cuboid
+        priority: 0
+    qaz:
+        min: {x: -568.0, y: 42.0, z: 310.0}
+        max: {x: -560.0, y: 103.0, z: 317.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [986cd47f-d5b0-3c34-9c82-004f68dd0b87]
+        type: cuboid
+        priority: 0
+    o:
+        min: {x: 243.0, y: 40.0, z: 829.0}
+        max: {x: 275.0, y: 101.0, z: 855.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d11c3d8d-7bd9-32d8-bee0-f620acea2b3a]
+        type: cuboid
+        priority: 0
+    ma4c:
+        min: {x: -116.0, y: 55.0, z: -456.0}
+        max: {x: -60.0, y: 84.0, z: -401.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d9549758-23cc-3b73-8adf-2cbec92a39ac]
+        type: cuboid
+        priority: 0
+    dom_:
+        min: {x: 704.0, y: 0.0, z: 466.0}
+        max: {x: 716.0, y: 164.0, z: 484.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [da36e40b-03a4-33b4-b795-a1be57b50970]
+        type: cuboid
+        priority: 0
+    asd:
+        min: {x: 289.0, y: 63.0, z: -32.0}
+        max: {x: 340.0, y: 90.0, z: 13.0}
+        members:
+            unique-ids: [5e11d853-a315-393c-9c75-084c495f02d9, 3b6f2e08-cf10-33f4-ba01-dd4c24241e67,
+                f2e7832e-00bf-3cdd-9d75-c0bba3957fbd]
+        flags: {}
+        owners:
+            unique-ids: [b5a43e1a-6819-33ca-839d-40a2cc1b8e50]
+        type: cuboid
+        priority: 0
+    gkgoohh:
+        min: {x: -463.0, y: 48.0, z: 210.0}
+        max: {x: -450.0, y: 102.0, z: 224.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [a3f9a73a-739b-300e-b9f8-3cb849d4c437]
+        type: cuboid
+        priority: 0
+    kisa_mur:
+        min: {x: -949.0, y: 24.0, z: -769.0}
+        max: {x: -928.0, y: 104.0, z: -745.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [6fd920eb-1cdb-3a40-9a94-f411d95785cf]
+        type: cuboid
+        priority: 0
+    tt:
+        min: {x: -234.0, y: 44.0, z: 339.0}
+        max: {x: -225.0, y: 85.0, z: 352.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [a0906a05-6f6d-3be1-b8d6-44fbbe248cf5]
+        type: cuboid
+        priority: 0
+    74hf:
+        min: {x: 225.0, y: 4.0, z: 383.0}
+        max: {x: 242.0, y: 129.0, z: 404.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [3a26993e-20e1-37cf-90c0-eeffbec0f059]
+        type: cuboid
+        priority: 0
+    dom228:
+        min: {x: -164.0, y: 42.0, z: -90.0}
+        max: {x: -148.0, y: 83.0, z: -77.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [acfb7f30-c119-3d66-a00b-00d0a2ec4415]
+        type: cuboid
+        priority: 0
+    ggg:
+        min: {x: 419.0, y: 59.0, z: -146.0}
+        max: {x: 469.0, y: 82.0, z: -92.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [15b95e51-76ee-3735-8ce9-afe9d4c9dcf1]
+        type: cuboid
+        priority: 0
+    baza:
+        min: {x: 673.0, y: 68.0, z: -721.0}
+        max: {x: 716.0, y: 110.0, z: -679.0}
+        members:
+            unique-ids: [784f87b1-cf1f-3f69-b72c-67404d3e8f7d, 04d13b66-b741-369b-8bf4-2c9dd6e23ba4]
+        flags: {}
+        owners:
+            unique-ids: [de047ee6-9953-30ca-a333-56a1bde7a1ed]
+        type: cuboid
+        priority: 0
+    gdsgfdzgsdg:
+        min: {x: -281.0, y: 3.0, z: 348.0}
+        max: {x: -254.0, y: 24.0, z: 405.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [350177a9-6ec9-39c4-9c80-3d07c8290f9d]
+        type: cuboid
+        priority: 0
+    hqrqerq:
+        min: {x: -110.0, y: 0.0, z: -113.0}
+        max: {x: -102.0, y: 78.0, z: -104.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [52ed8839-8fc8-3b9b-91ee-76200f787b54]
+        type: cuboid
+        priority: 0
+    okbro:
+        min: {x: -209.0, y: 63.0, z: 808.0}
+        max: {x: -199.0, y: 75.0, z: 816.0}
+        members:
+            unique-ids: [e4588c44-85a5-3c05-87c2-baaf9d16636c]
+        flags: {}
+        owners:
+            unique-ids: [c6e9be36-d532-37fd-a48b-f149ed234533]
+        type: cuboid
+        priority: 0
+    operk:
+        min: {x: -324.0, y: 31.0, z: 187.0}
+        max: {x: -317.0, y: 112.0, z: 197.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [a3abdf26-b4c3-3455-950c-9da7f340d058]
+        type: cuboid
+        priority: 0
+    ud:
+        min: {x: 152.0, y: 38.0, z: 425.0}
+        max: {x: 155.0, y: 101.0, z: 487.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [9506ee09-5e21-30b2-9516-803e6fa81059, eb2ae97c-e1d2-337c-bdd9-50cea9bd8724]
+        type: cuboid
+        priority: 0
+    zero:
+        min: {x: 90.0, y: 30.0, z: 460.0}
+        max: {x: 112.0, y: 112.0, z: 484.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [17a4de90-4a8f-313f-a8be-990fb63993ad]
+        type: cuboid
+        priority: 0
+    liker2:
+        min: {x: -273.0, y: 66.0, z: 363.0}
+        max: {x: -254.0, y: 72.0, z: 400.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [d17f5999-7dd5-3ef8-8007-1a816baea5aa]
+        type: cuboid
+        priority: 0
+    liker:
+        min: {x: 220.0, y: 62.0, z: 660.0}
+        max: {x: 272.0, y: 82.0, z: 713.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [b4b97fc0-56ab-3554-baeb-490588d41cf0]
+        type: cuboid
+        priority: 0
+    lerara:
+        min: {x: -136.0, y: 20.0, z: 253.0}
+        max: {x: -99.0, y: 102.0, z: 274.0}
+        members:
+            unique-ids: [882c76d3-d85c-3066-a606-87cb6ae56b5b]
+        flags: {}
+        owners:
+            unique-ids: [82980a3a-3694-3e3e-be05-7d73c7fc0c63]
+        type: cuboid
+        priority: 0
+    testingcuff:
+        min: {x: -559.0, y: 13.0, z: -780.0}
+        max: {x: -533.0, y: 66.0, z: -761.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [c6e9be36-d532-37fd-a48b-f149ed234533]
+        type: cuboid
+        priority: 0
+    prafainpvp:
+        min: {x: 632.0, y: 71.0, z: -682.0}
+        max: {x: 671.0, y: 127.0, z: -647.0}
+        members:
+            unique-ids: [6425fc49-23ac-3b18-bb72-03e1508e6e7b, fd3078f2-9b4f-3e6d-9b6e-b33819aa8818]
+        flags: {}
+        owners:
+            unique-ids: [e3d82213-cd25-3aab-a017-8e3f645584f3]
+        type: cuboid
+        priority: 0
+    bobobo:
+        min: {x: -774.0, y: 18.0, z: 695.0}
+        max: {x: -759.0, y: 119.0, z: 716.0}
+        members:
+            unique-ids: [f788bd01-7518-3990-b2e6-d4a01d42dfff]
+        flags: {}
+        owners:
+            unique-ids: [7b2f85bb-22fb-3c31-b14e-fdedc90a7dbf]
+        type: cuboid
+        priority: 0
+    kekek:
+        min: {x: 160.0, y: 29.0, z: 453.0}
+        max: {x: 186.0, y: 110.0, z: 478.0}
+        members:
+            unique-ids: [9506ee09-5e21-30b2-9516-803e6fa81059]
+        flags: {}
+        owners:
+            unique-ids: [eb2ae97c-e1d2-337c-bdd9-50cea9bd8724]
+        type: cuboid
+        priority: 0
+    bitch:
+        min: {x: 731.0, y: 0.0, z: -629.0}
+        max: {x: 754.0, y: 54.0, z: -612.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [8c7a4996-2956-3f57-a3c5-dbdb3e478817]
+        type: cuboid
+        priority: 0
+    adg:
+        min: {x: -1282.0, y: 67.0, z: -1223.0}
+        max: {x: -1253.0, y: 83.0, z: -1206.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [b5a43e1a-6819-33ca-839d-40a2cc1b8e50]
+        type: cuboid
+        priority: 0
+    _astors_2:
+        min: {x: -339.0, y: 17.0, z: 84.0}
+        max: {x: -328.0, y: 117.0, z: 110.0}
+        members:
+            unique-ids: [794ae1fc-18c6-32a6-bbaa-493cc9495f5d, 016b1ea6-2261-3cae-b27a-ac28da7b5066,
+                0093787d-0134-340d-886e-320e793f1db2]
+        flags: {}
+        owners:
+            unique-ids: [87c1263b-5e7a-3dbb-a030-0490987acfb6]
+        type: cuboid
+        priority: 0
+    domka:
+        min: {x: -574.0, y: 0.0, z: 2438.0}
+        max: {x: -558.0, y: 79.0, z: 2453.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [81ddadba-ccb4-3dc0-a152-aee64116f98c]
+        type: cuboid
+        priority: 0
+    nekotovgey2:
+        min: {x: -393.0, y: 0.0, z: -934.0}
+        max: {x: -379.0, y: 255.0, z: -909.0}
+        members:
+            unique-ids: [2246f4fc-7cf5-33c5-90af-d03ea2ef27d8]
+        flags: {}
+        owners:
+            unique-ids: [1dc08175-8ee3-3caa-9c90-3c2e731bf6a1]
+        type: cuboid
+        priority: 0
+    sklad:
+        min: {x: 895.0, y: 0.0, z: -587.0}
+        max: {x: 901.0, y: 255.0, z: -581.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [aec9de41-35f5-3ba1-8f26-84cef5abf560]
+        type: cuboid
+        priority: 0
+    rrrr:
+        min: {x: 911.0, y: 31.0, z: -645.0}
+        max: {x: 935.0, y: 149.0, z: -615.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [68d4971c-a282-34de-a1d4-e19b8777b056]
+        type: cuboid
+        priority: 0
+    no4b__yt1:
+        min: {x: -887.0, y: 33.0, z: -219.0}
+        max: {x: -853.0, y: 85.0, z: -192.0}
+        members:
+            unique-ids: [1ce7ea1c-ac05-33a5-8d80-73c8cbd9a105]
+        flags: {}
+        owners:
+            unique-ids: [f0ff9e1d-1233-309e-80f5-26f36eed3f58]
+        type: cuboid
+        priority: 0
+    gogogo:
+        min: {x: -644.0, y: 40.0, z: 1242.0}
+        max: {x: -610.0, y: 102.0, z: 1273.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [10997e58-26cd-32de-87a8-7cf2a6de189c]
+        type: cuboid
+        priority: 0
+    pity_:
+        min: {x: -439.0, y: 0.0, z: -616.0}
+        max: {x: -417.0, y: 134.0, z: -585.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [ef15f72d-23a5-3caf-8b23-4a5c6b9b8344]
+        type: cuboid
+        priority: 0
+    naulbimix:
+        min: {x: 175.0, y: 0.0, z: -30.0}
+        max: {x: 187.0, y: 255.0, z: -17.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [53606c84-9f28-3d37-9443-8593d3a07eb0]
+        type: cuboid
+        priority: 0
+    bot:
+        min: {x: -847.0, y: 52.0, z: -230.0}
+        max: {x: -845.0, y: 58.0, z: -225.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [4f15143d-75b6-3b8a-af61-0f55cd9926a7]
+        type: cuboid
+        priority: 0
+    ghoststar:
+        min: {x: -344.0, y: 12.0, z: 29.0}
+        max: {x: -317.0, y: 115.0, z: 58.0}
+        members:
+            unique-ids: [0093787d-0134-340d-886e-320e793f1db2, 08bcdb5c-d397-394a-9f79-9f0c836f6ea6,
+                87c1263b-5e7a-3dbb-a030-0490987acfb6, 794ae1fc-18c6-32a6-bbaa-493cc9495f5d]
+        flags: {}
+        owners:
+            unique-ids: [016b1ea6-2261-3cae-b27a-ac28da7b5066]
+        type: cuboid
+        priority: 0
+    wefwef:
+        min: {x: 821.0, y: 40.0, z: 100.0}
+        max: {x: 838.0, y: 101.0, z: 113.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [da8a14f8-aabb-39c7-b1cd-47c074c8081d]
+        type: cuboid
+        priority: 0
+    freza:
+        min: {x: 760.0, y: 96.0, z: -798.0}
+        max: {x: 768.0, y: 110.0, z: -787.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [7a35a978-06d7-3395-8c81-a94e004fb385]
+        type: cuboid
+        priority: 0
+    beregi_kopita:
+        min: {x: 161.0, y: 0.0, z: 547.0}
+        max: {x: 179.0, y: 170.0, z: 568.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [75e3f246-21ee-3dee-8c6d-00f442b25a0d]
+        type: cuboid
+        priority: 0
+    gg:
+        min: {x: -360.0, y: 13.0, z: 135.0}
+        max: {x: -341.0, y: 114.0, z: 155.0}
+        members:
+            unique-ids: [c70f14f0-4592-3b3e-ac04-44e5782d39e0]
+        flags: {}
+        owners:
+            unique-ids: [0b951b83-4982-3356-b7d9-0962cf3ecf95]
+        type: cuboid
+        priority: 0
+    nutulox:
+        min: {x: -917.0, y: 39.0, z: 594.0}
+        max: {x: -913.0, y: 79.0, z: 597.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [fd3078f2-9b4f-3e6d-9b6e-b33819aa8818, 18f742da-a676-3ca8-ac87-b0f066fd9553]
+        type: cuboid
+        priority: 0
+    hlh:
+        min: {x: -133.0, y: 49.0, z: 330.0}
+        max: {x: -119.0, y: 99.0, z: 344.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [c6a9c800-ffab-3545-af90-d1ead60e7c95]
+        type: cuboid
+        priority: 0
+    spawnrt:
+        min: {x: 710.0, y: 0.0, z: 485.0}
+        max: {x: 717.0, y: 163.0, z: 489.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [da36e40b-03a4-33b4-b795-a1be57b50970]
+        type: cuboid
+        priority: 0
+    tophata:
+        min: {x: -816.0, y: 44.0, z: 676.0}
+        max: {x: -782.0, y: 93.0, z: 704.0}
+        members:
+            unique-ids: [f788bd01-7518-3990-b2e6-d4a01d42dfff, 7b2f85bb-22fb-3c31-b14e-fdedc90a7dbf]
+        flags: {}
+        owners:
+            unique-ids: [101d718d-3b05-3d2f-bc6d-f1c9e6a5bf22]
+        type: cuboid
+        priority: 0
+    dom23123:
+        min: {x: 110.0, y: 66.0, z: 85.0}
+        max: {x: 119.0, y: 68.0, z: 97.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [2d9a2ccc-c4ec-3dde-a14a-83cc1f9caca8]
+        type: cuboid
+        priority: 0
+    cello:
+        min: {x: -348.0, y: 0.0, z: 29.0}
+        max: {x: -345.0, y: 84.0, z: 68.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [0093787d-0134-340d-886e-320e793f1db2]
+        type: cuboid
+        priority: 0
+    home:
+        min: {x: -649.0, y: 64.0, z: -546.0}
+        max: {x: -628.0, y: 84.0, z: -526.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [ebcc12ed-d945-30d5-a2c3-7051b5160c19]
+        type: cuboid
+        priority: 0
+    nekotovgey:
+        min: {x: -412.0, y: 0.0, z: -931.0}
+        max: {x: -394.0, y: 255.0, z: -913.0}
+        members:
+            unique-ids: [2246f4fc-7cf5-33c5-90af-d03ea2ef27d8]
+        flags: {}
+        owners:
+            unique-ids: [1dc08175-8ee3-3caa-9c90-3c2e731bf6a1]
+        type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {other-explosion: deny, creeper-explosion: deny, pvp: allow, tnt: deny}
+        owners: {}
+        type: global
+        priority: 0
+    adsasd:
+        min: {x: -911.0, y: 43.0, z: -341.0}
+        max: {x: -878.0, y: 89.0, z: -293.0}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [3b84b3c3-e954-3535-a498-4d91996db1d3]
+        type: cuboid
+        priority: 0

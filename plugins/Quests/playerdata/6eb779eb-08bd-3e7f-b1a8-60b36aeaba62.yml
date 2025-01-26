@@ -1,0 +1,25 @@
+quest-progress:
+  miningquest8:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  miningquest7:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  farmingquest62:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      planting:
+        completed: false
